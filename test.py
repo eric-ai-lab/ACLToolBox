@@ -31,9 +31,6 @@ for month in months:
     # using regex for parsing the title of each paper
     title = re.findall(r"\">(.+?)<", str(json_object['props']))
 
-    print(len(title))
-    print(len(documents))
-
     # offset the correct title for each link
     # october [19:-2]
     # september [10:-2]
@@ -46,14 +43,8 @@ for month in months:
     print(len(title)) 
     print(len(documents))
 
-    # combine the title and documents into dictionary
-    database = {}
-    for x, y in zip(title, documents): 
-        database[x] = y
-
-    # print(database)
-
-    df = pd.DataFrame.from_dict(database, orient='index', columns=['links'])
+    # store the title and the links in dataframe and turn into csv
+    df = pd.DataFrame(documents, title, columns=['Links'])
     print(df)
     df.to_csv(month + '.csv')
 
