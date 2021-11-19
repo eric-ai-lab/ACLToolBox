@@ -8,7 +8,6 @@ import pandas as pd
 
 months = ['November', 'October', 'September', 'August', 'July', 'Jun', 'May']
 
-# months = ['July']
 
 url = "https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/" 
 forum = 'https://openreview.net/forum?id='
