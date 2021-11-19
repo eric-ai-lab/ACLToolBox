@@ -6,7 +6,7 @@ import re
 import pandas as pd 
 
 
-months = ['October', 'September', 'August', 'July', 'Jun', 'May']
+months = ['November', 'October', 'September', 'August', 'July', 'Jun', 'May']
 
 
 for month in months:
