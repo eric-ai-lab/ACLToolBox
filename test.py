@@ -1,23 +1,29 @@
 #!/usr/bin/env python
+from pandas.core.frame import DataFrame
 import requests 
 from bs4 import BeautifulSoup
 import json
 import re
 import pandas as pd 
 
-
 months = ['November', 'October', 'September', 'August', 'July', 'Jun', 'May']
+
+# months = ['July']
+
+url = "https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/" 
+forum = 'https://openreview.net/forum?id='
+pdf = 'https://openreview.net/pdf?id=' 
 
 
 for month in months:
     print(month)
-    URL = "https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/" + month
+    URL = url + month
 
     # get the page by senting request 
-    page = requests.get(URL)
+    main_page = requests.get(URL)
 
     # beautifulSoup by using lxml to get the raw html and store in soup with different class 
-    soup = BeautifulSoup(page.content, "lxml")
+    soup = BeautifulSoup(main_page.content, "lxml")
 
     # find the script that contains the json data
     script = soup.find("script", id="__NEXT_DATA__")
@@ -25,26 +31,29 @@ for month in months:
     # loading the script into json format
     json_object = json.loads(script.string)
 
-    # using regex for parsing the link of each paper
-    documents = re.findall(r"<li><a href=\\\\\"(.+?)\\\\\"", str(json_object['props']))
+    # using regex for parsing the id of each paper
+    ids = re.findall(r"forum\?id=(.+?)\\", str(json_object['props']))
+    data = []
+    big_json = {}
+    for id in ids: 
+        print(id)
+        page = requests.get(forum+id)
+        soup = BeautifulSoup(page.content, "lxml")
+        script = soup.find("script", id="__NEXT_DATA__")
 
-    # using regex for parsing the title of each paper
-    title = re.findall(r"\">(.+?)<", str(json_object['props']))
+        # loading the script into json format
+        json_object = json.loads(script.string)
+        # print(json_object)
+        # data = json_object['props']['pageProps']['forumNote']
+        data = None 
+        if 'forumNote' in json_object['props']['pageProps']: 
+            data=json_object['props']['pageProps']['forumNote']['content']
+        big_json[id] = data
+        
 
-    # offset the correct title for each link
-    # october [19:-2]
-    # september [10:-2]
-    # August [10:-2]
-    if month == 'October': 
-        title = title[19:-2]
-    else: 
-        title = title[10:-2]
-
-    print(len(title)) 
-    print(len(documents))
-
-    # store the title and the links in dataframe and turn into csv
-    df = pd.DataFrame(documents, title, columns=['Links'])
-    print(df)
+    # big_json = json.dumps(big_json)
+    df = pd.DataFrame.from_dict(big_json)
+    df = df.swapaxes("index", "columns")
+    # print(df)
     df.to_csv(month + '.csv')
-
+  
