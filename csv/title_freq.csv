@@ -1,0 +1,2409 @@
+,frequency
+abstract generation ,1
+abstractive conversation summarization ,1
+abstractive dialogue summarization ,1
+abstractive multi-document summarization ,1
+abstractive news summarization ,1
+abstractive summarization ,6
+abstractive summarization distillation ,1
+abusive language detection ,3
+access ,1
+accessibility ,1
+accuracy ,2
+accurate ,1
+accurate online ,2
+accurate prompt ,1
+acl ,1
+acoustic encoding ,1
+active dialogue simulation ,1
+active evaluation ,1
+active learning ,2
+active relation discovery ,1
+adapler ,1
+adaprune ,1
+adaptation ,1
+adaptive gradient ,1
+adaptive length reduction ,1
+adaptive margin loss ,1
+adaptive meta learning ,1
+adaptive testing ,1
+adaptive training ,1
+adversarial attack ,2
+adversarial contrastive learning ,1
+adversarial detection ,1
+adversarial distant learning ,1
+adversarial learning ,1
+adversarial multi-task learning ,1
+adversarial robustness ,1
+adversarial text ,1
+affect natural language ,1
+age ,1
+agent ,1
+aggregation ,1
+aggregative generation ,2
+agnostic keyword search ,1
+agreement identification ,1
+ai doctor ,2
+alephbert ,2
+algorithmic inflection ,1
+algorithms ,5
+aligner ,1
+alignment ,3
+alignment algorithms ,1
+allwas ,1
+alternative communication software ,1
+ambiguity ,1
+ambiguous context ,1
+american sign language ,2
+amr parsing ,1
+amr-to-text generation ,1
+amrize ,1
+analogical reasoning ,1
+analysis ,5
+analyzing ,1
+anaphora resolution ,1
+ancestor information ,1
+anna ,1
+annotated corpus ,1
+annotation ,2
+annotator bias ,1
+answer pair generation ,1
+answer-unaware question generation ,1
+answerability ,1
+answering ,2
+answering-based summarization evaluation ,1
+antonyms ,1
+anything ,1
+applicability ,1
+application ,2
+approach ,1
+approximate neural sequence prediction ,1
+arbitrary text style transfer ,2
+archival news ,1
+archivalqa ,1
+arcnn ,1
+argument ,1
+argument trigger detection ,1
+artificial language ,1
+aspect ,2
+aspect extraction ,1
+aspect level sentiment classification ,1
+aspect sentiment triplet extraction ,1
+aspect-based sentiment analysis ,1
+assist ,2
+astronomy course ,1
+asynchronous distributed training ,1
+atogan ,1
+attend ,1
+attention ,6
+attention convolution ,1
+attention explanation ,1
+attention mechanism ,1
+attention sparsity ,1
+attention temperature ,1
+attribution ,1
+augmentation ,20
+augmentation method ,1
+augmented neural story generation ,1
+augmenting ,1
+authentic dataset ,1
+authorship attribution ,1
+auto-completion ,1
+autolex ,1
+automated phonological reconstruction ,1
+automated short-answer grading ,1
+automatic curation ,1
+automatic extraction ,1
+automatic framework ,1
+automatic generation ,1
+automatic icd ,1
+automatic identification ,1
+automatic medical consultation system ,1
+automatic mining ,1
+automatic minuting ,1
+automatic multi-label prompting ,1
+automatic negation scope resolution ,1
+automatic song translation ,1
+automatic speech recognition ,1
+automatic speech translation ,1
+automatic summarization evaluation ,1
+automatic text generation ,1
+automatically-induced correction difficulty ,1
+automin ,1
+automode ,1
+autoregressive blank ,1
+autoregressive entity ,1
+autoregressive language model ,1
+autotrigger ,1
+auxiliary speech ,1
+auxiliary task ,1
+auxiliary trigger extraction ,1
+aware dense retrieval ,1
+back-to-back translation ,1
+bacn ,1
+balancing accuracy ,1
+bandit ,1
+bangla ,1
+banglabert ,1
+barcor ,1
+bart-light ,1
+base ,1
+baseline ,1
+bayesian abstractive summarization ,1
+bayesian approach ,1
+bdlan ,1
+beam search ,1
+behavioral analysis ,1
+benchmark ,12
+benchmark creation ,1
+benchmarking suite ,1
+benefit ,1
+bert ,18
+bert model ,1
+bert sentence ,1
+bert serving ,1
+bert transferring ,1
+bert-based neural topic encoder ,1
+bertdoc label attention ,1
+bi-direction attention ,1
+bi-encoder ,1
+bi-matching mechanism ,1
+biaffine discourse dependency ,1
+biaffine span representation ,1
+bias ,3
+bidirectional modeling ,1
+bigfive ,1
+bilingual dictionary ,1
+bilingual lexicon induction ,1
+bilingual word ,1
+bimodal contrastive learning ,1
+biomedical entity normalization ,1
+biomedical information extraction ,1
+biomedical knowledge ,1
+biomedical literature ,1
+biomedical nested ner ,1
+bit ,1
+bitext quality ,1
+bitfit ,1
+black box ,2
+black-box adversarial texts ,1
+blackbird ,1
+blank ,1
+blank slate ,1
+bort ,1
+bot ,2
+botstalk ,1
+bottom ,1
+boundary smoothing ,1
+brazilian instagram ,1
+broad-coverage natural language ,1
+buffersearch ,1
+c-more ,1
+cake ,1
+calibrate ,1
+calibration ,1
+cam-gen ,1
+candidate retrieval ,1
+candidate-aware user modeling ,1
+capsule-based network ,1
+capture ,1
+case ,4
+case study ,8
+categorial grammar induction ,1
+category-oriented confidence calibration ,1
+causal ,4
+causal analysis ,1
+causal association rule ,1
+causal augmentation ,1
+causal inference framework ,1
+causal metaknowledge ,1
+causal relation ,1
+causal sentence classification ,1
+causally-aware ,1
+causalqa ,1
+causalr ,1
+cblue ,1
+ccqa ,1
+cdm ,1
+century ,1
+ceo personality ,2
+change ,2
+character ,2
+character composition ,1
+character-aware language ,1
+character-level encoding ,1
+characterization ,1
+check ,2
+chief ,1
+chinese ,2
+chinese bert ,2
+chinese biomedical language ,1
+chinese biomedical language understanding evaluationbenchmark ,1
+chinese classical poetry ,1
+chinese commonsense conversation knowledge ,1
+chinese corpus ,1
+chinese entailment graph ,1
+chinese gpt ,1
+chinese grammatical error correction ,1
+chinese minority ,1
+chinese ner ,2
+chinese pinyin ,1
+chinese semantic error recognition ,1
+chinese short video retrieval ,1
+chinese spell ,2
+chinese spell check ,1
+chinese table question ,1
+chinese text ,1
+chinese word attention ,1
+chosen ,1
+cino ,1
+cipher algorithms ,1
+citation ,1
+citation intent classification ,1
+clarification ,2
+class ,1
+classification ,2
+classification cum ,2
+clause attention ,1
+cld² ,1
+clgp ,1
+clinical analysis ,1
+clinical text ,1
+clip ,2
+clusent – ,1
+cluster-wise loss correction ,1
+co-observable scene ,1
+co-ref resolution approach ,2
+co-vqa ,1
+coarse-grained response selection ,1
+coarse-grained supervision ,1
+coda21 ,1
+code ,2
+code search ,1
+code summarization ,1
+code synonyms ,1
+code-mixed adaptive language ,1
+code-mixed text ,1
+code-mixed translation ,1
+code-switched semantic parsing ,1
+code-switching ,1
+coderetriever ,1
+cognitive science ,1
+coherence ,2
+coherent image sequence ,1
+coherent visual storytelling ,1
+collaboration ,1
+collaborative decoding ,1
+collaborative multi-task representation ,1
+collaborative neural-symbolic graph ,1
+collection ,1
+collocation retokenization ,1
+color ,1
+column specificity meta-learning ,1
+combining extraction ,1
+command ,1
+common ground ,1
+common-sense modulation ,1
+commonsense ,1
+commonsense causality ,1
+commonsense inference ,2
+commonsense knowledge graphs ,1
+commonsense question ,1
+commonsense reasoning ,1
+commonsense self-supervision ,1
+communication ,1
+company ,1
+comparative analysis ,1
+comparative opinion summarization ,1
+comparative study ,2
+comparison ,2
+complementarity ,1
+completion ,1
+compm ,1
+component alignment ,1
+composable sparse fine-tuning ,1
+compositional generalization ,5
+compositionality ,1
+compositionality measure ,1
+comprehensibility ,1
+comprehension ,6
+comprehension assessment ,1
+comprehension dataset ,1
+comprehensive patent approval ,1
+computational approach ,1
+computer science ,1
+comsearch ,1
+concept activation ,2
+concern ,1
+conditional computation ,1
+conditional variational auto-encoder ,1
+confidence-based multi-class ,1
+configurable response generation ,1
+confluent knowledge ,1
+conjr ,1
+conjunctive sentence splitter ,1
+consecutive task-oriented dialog policy learning ,1
+consistency ,1
+consistency analysis ,1
+consistent dialogue response ,1
+constituency parsing ,1
+construction repetition ,1
+container ,1
+contamination ,1
+content ,2
+content selection ,1
+context ,6
+context modeling ,1
+context vs target ,1
+context-aware language ,1
+context-aware multi-encoder translation ,2
+context-definition alignment ,1
+context-dependent text-to-sql semantic parsing ,1
+context-paraphrase ,1
+contextual fine-to-coarse distillation ,1
+contextual information ,1
+contextual quantization ,1
+contextual representation ,1
+contextualised sense ,1
+contfv ,1
+continual dialogue learning ,1
+continual few-shot relation ,2
+continual learning ,1
+continual pre-training ,1
+continual prompt ,1
+continuation ,1
+contrastive adaptation ,1
+contrastive conditional ,1
+contrastive conditioning ,2
+contrastive demonstration ,1
+contrastive knowledge distillation ,1
+contrastive learning ,11
+contrastive learning framework ,1
+contrastive loss-enforced batch attention ,1
+contrastive prior ,1
+contrastive prompt ,1
+contrastive question-answering ,1
+contrastive recipe ,1
+contrastive word ,1
+control ,1
+controllable complexity ,1
+controllable contextualized commonsense inference ,1
+controllable natural language generation ,1
+controllable paraphrase generation ,2
+controllable text ,1
+controllable text generation ,1
+controllable text summarization ,2
+conversation ,2
+conversational dialogue ,1
+conversational qa ,1
+conversational question ,1
+conversational recommendation ,2
+conversational recommender ,1
+conversion ,2
+conversion task ,1
+convolutional network ,1
+convolutional neural network ,1
+cooperative object-referring game ,1
+cooperative semi-supervised transfer learning ,1
+copy-augmented generative model ,1
+coreference resolution ,3
+coreference resolution annotation ,1
+corpora ,1
+corporate credit risk ,1
+corpus ,1
+correct unit ,1
+corruption ,1
+cost-effective training ,1
+counterfactual generation ,1
+country ,1
+coverage ,1
+covid-19 ,1
+covid-19 machine ,1
+covid-19 pandemic ,1
+covid-19 vaccine debate ,1
+cqare ,1
+craft ,1
+create ,1
+cross attention ,1
+cross-attention ,1
+cross-cultural emotion classification ,1
+cross-document coreference resolution ,1
+cross-document temporal relation extraction ,1
+cross-domain ,2
+cross-domain aspect term extraction ,1
+cross-domain chinese ner ,1
+cross-domain transfer ,1
+cross-era sequence segmentation ,1
+cross-lingual constituency ,1
+cross-lingual evaluation ,1
+cross-lingual event detection ,1
+cross-lingual inference ,1
+cross-lingual knowledge transfer framework ,1
+cross-lingual language model ,1
+cross-lingual machine reading comprehension ,1
+cross-lingual query-focused abstractive summarization ,1
+cross-lingual semantic similarity ,1
+cross-lingual transfer ,3
+cross-lingual umls ,1
+cross-lingual visual question ,1
+cross-lingual word ,1
+cross-lingual word alignment ,1
+cross-modal attention ,1
+cross-modal knowledge transfer ,1
+cross-task evaluation ,1
+cross-task generalization ,1
+cross-utterance ,1
+crossword ,1
+crossword-solving ,1
+crowdsourcing ,1
+csl ,1
+cst5 ,1
+ctrlsum ,2
+cueing strategy ,1
+cuneiform ,1
+current natural language inference ,1
+current state ,2
+curriculum ,2
+curriculum learning ,1
+curse ,1
+customer care response ,1
+customer satisfaction prediction ,1
+d2u ,1
+daml ,1
+daml-st5 ,1
+daqe ,1
+dark side ,1
+darknet ,1
+data set ,1
+data-adaptive transfer ,1
+data-augmentation ,1
+data-driven adaptive simultaneous machine translation ,1
+data-level distillation ,1
+data-to-text generation ,1
+dataset ,16
+dataset evaluation ,1
+dataset geography ,1
+dataset-oriented sentiment analysis ,1
+date ,1
+date information ,1
+dawson ,1
+de-noising ,1
+debate ,1
+debugging ,1
+decay ,1
+decoder layer ,1
+decoupling language ,1
+deep active learning ,1
+deep decoder ,1
+deep generative ,1
+deep learning ,1
+deep learning approach ,2
+deep reinforcement ,1
+deep reinforcement learning ,1
+deeper ,1
+defense ,3
+definition modeling ,1
+demix ,1
+democratizing korean tokenization ,1
+demonstration ,1
+denoise ,1
+denoise wikipedia ,1
+denoising inconsistent ,1
+dense retrieval ,2
+dense retriever ,1
+dependency ,1
+dependency parsing ,1
+deployable speech-based emotion recognition ,1
+deployment ,1
+depression diagnosis ,1
+derangement question ,1
+description ,1
+description-driven task-oriented dialog ,1
+detecting ,1
+detection ,6
+detection toolkit ,1
+diachronic character ,1
+dialfact ,1
+dialog ,1
+dialog input format ,1
+dialog response generation ,1
+dialog state tracking ,1
+dialogconv ,1
+dialogue ,12
+dialogue act ,1
+dialogue disentanglement ,1
+dialogue generation ,1
+dialogue generation system ,1
+dialogue response generation ,1
+dialogue system ,1
+dialoguescript ,1
+dict-nmt ,1
+dictation ,1
+dictionary ,1
+difference ,1
+differentiable learning ,1
+difficulty ,1
+direct assessment ,1
+direct parsing ,1
+dis ,1
+dis-rex ,1
+disambiguation ,2
+disaster tweet classification ,1
+discontinuous constituency ,1
+discourse context ,1
+discourse dependency ,1
+discourse parsing ,1
+discourse relation analysis ,1
+discourse structure ,2
+discrete wavelet transform ,1
+discrimination ,1
+disease phenotyping ,1
+disentangled generalisation ,1
+disentangling ,1
+disfluency detection ,1
+dissonance ,1
+distance-to-uniform learning ,1
+distant supervision ,1
+distill ,1
+distilled bias ,1
+distilling ,1
+distribution difference regularization ,1
+diverse ,1
+diverse conditional generation ,1
+diversification ,1
+diversity ,2
+divide ,3
+divide-and-conquer text simplification ,1
+division ,1
+dm ,1
+docee ,2
+docogen ,1
+document ,4
+document-level contexts ,1
+document-level edit reasoning ,1
+document-level event extraction ,4
+document-level information extraction right ,1
+document-level relation extraction ,2
+document-to-document neural machine translation ,2
+domain ,2
+domain adaptation ,2
+domain information ,1
+domain shift ,1
+domain-aware self-supervised pre-training ,1
+domain-oriented text annotation tool ,1
+dotat ,1
+double-channel structure ,1
+double-graph ,1
+downstream question ,1
+draft ,1
+dropout ,1
+drug ,1
+drugehrqa ,1
+ds-tod ,1
+dual architecture ,1
+dual attention ,1
+dual-aware ,1
+dual-channel framework ,1
+dual-space hierarchical learning ,1
+dutch ,1
+dynamic adversarial training ,1
+dynamic contrastive learning ,1
+dynamic entity memory network ,1
+dynamic memory ,1
+dynamic schema graph fusion ,1
+dynamic space ,1
+e-care ,2
+e-commerce ,2
+e-commerce service ,1
+e-kar ,1
+echo-attention ,1
+ed2lm ,1
+edit ,1
+education ,1
+effect ,2
+effective approach ,1
+effective candidate generation system ,1
+effective context modeling ,1
+effective grammatical error correction ,1
+effective initialization ,1
+effective method ,1
+effective model ,1
+effective personalized sentiment analysis ,1
+effective pluggable entity ,1
+effective pre-training ,2
+effective preprocessing strategy ,1
+effective token graph ,1
+effectiveness ,4
+efficient ,1
+efficient contrastive learning framework ,1
+efficient document re-ranking ,1
+efficient domain specialization ,1
+efficient hyper-parameter search ,1
+efficient inference ,1
+efficient item selection ,1
+efficient lifelong pre-training ,1
+efficient nlg evaluation ,1
+efficient retrieval ,1
+efficient speech translation ,1
+efficient training ,1
+efficient tuning paradigm ,1
+efficient word ,1
+eider ,3
+eiffel tower ,1
+eigennoise ,1
+electra ,1
+electromyogram diagnosis report ,1
+electronic health record ,1
+eliminating ambiguity ,1
+eliteplm ,2
+elle ,1
+embedding ,2
+emergent ,1
+emoji ,1
+emojis ,1
+emotion analysis ,2
+emotion cause analysis ,1
+emotion classification ,1
+emotion flip ,1
+emotion recognition ,2
+emotion style transfer ,1
+emotion-cause pair extraction ,2
+emotional intensity ,1
+emowoz ,1
+empathetic persuasion ,1
+empathetic response ,1
+empathy ,1
+empirical analysis ,1
+empirical comparison ,3
+empirical evaluation ,1
+empirical investigation ,1
+empirical study ,8
+empirical survey ,2
+emrel ,1
+encoder-decoder ,1
+encoding ,1
+enct5 ,1
+end-to-end data-to-text generation ,1
+end-to-end entity retrieval ,1
+end-to-end language ,1
+end-to-end reference-free single-document summary quality assessment ,1
+end-to-end sign language translation ,1
+end-to-end speech recognition ,1
+end-to-end speech translation ,2
+end-to-end task-oriented dialog ,1
+end-to-end task-oriented dialog policy ,1
+end-to-end text-to-sql generation ,1
+energy language ,1
+engineering ,1
+english masked language ,1
+english past tense inflection ,1
+english-chinese neural machine translation ,1
+enhance ,1
+enhanced language representation ,1
+enhanced natural language processing ,1
+enhanced speech processing ,1
+enhancement ,1
+ensemble method ,1
+entailment graph ,1
+entity ,6
+entity alignment ,1
+entity coverage control ,1
+entity disambiguation ,1
+entity recognition ,23
+entity-based neural local coherence modeling ,1
+entity-centric approach ,1
+entity-centric extractive summarization ,1
+entity-conditioned question generation ,1
+entsum ,1
+equation ,2
+equity ,1
+ernie-sparse ,1
+error ,1
+error correction ,1
+error-driven contrastive probability optimization ,2
+estimating semantic inconsistency ,1
+eu ,2
+evaluating ,1
+evaluating language ,1
+evaluation ,9
+evemrc ,1
+event detection ,4
+event extraction ,2
+event prediction ,1
+event-event relation extraction ,1
+eventbert ,1
+evidence ,1
+evidence decomposition graph ,1
+evidence extraction ,1
+evidence-enhanced document-level relation extraction ,3
+evidential graph ,1
+expansion ,1
+experiment ,1
+explainability ,1
+explainable assessment ,1
+explainable causal ,2
+explainable medical code prediction ,1
+explicit ,1
+explicit object relation alignment ,1
+exploitation ,1
+exploration ,1
+exploring latent tree ,1
+exploring sparse expert ,1
+expression ,2
+expression comprehension ,1
+extensive empirical study ,1
+external knowledge ,3
+extract ,1
+extraction ,1
+extractive paraphrase span detection ,1
+extractive question ,2
+extractive reader ,1
+extractive summarization ,1
+extractive text summarization ,1
+extractive topical summarization ,1
+extreme hierarchical multi-label classification ,1
+extreme multi-label text classification ,2
+eye gaze ,1
+fact checking ,1
+fact verification ,1
+fact-checking ,2
+factual consistency ,2
+factual knowledge retrieval ,1
+factual robustness ,1
+factuality ,1
+fair comparison ,1
+fairlex ,1
+fairness ,4
+fairytaleqa ,1
+fairytaleqa dataset ,1
+faithful ,2
+faithful forward reference ,1
+faithful response generation ,1
+faithfulness ,2
+faithfulness-abstractiveness trade-off ,1
+fake news detection ,1
+fast ,1
+faster document re-ranking inference ,1
+fault classification ,1
+favorite character ,1
+feasibility study ,1
+feasible deep active learning ,1
+feature ,1
+feature indication ,1
+feature structure distillation ,1
+federated approach ,1
+fedparsing ,1
+feedback ,1
+feelsgoodman ,1
+few pairwise ,1
+few-shot ,2
+few-shot aspect-based sentiment analysis ,1
+few-shot claim veracity classification ,1
+few-shot controllable style transfer ,1
+few-shot cross-lingual transfer ,1
+few-shot entity recognition ,1
+few-shot knowledge graph completion ,1
+few-shot learning ,6
+few-shot natural language understanding ,1
+few-shot ner ,1
+few-shot nlg ,2
+few-shot relation extraction ,1
+few-shot semantic parser ,1
+few-shot text classification ,1
+few-shot veracity classification ,1
+fewnlu ,1
+figurative language ,1
+fill ,1
+fill-in-the-blank ,2
+financial news ,1
+finding ,1
+fine tuning ,1
+fine-grained aggregation ,1
+fine-grained analysis ,1
+fine-grained benchmark ,1
+fine-grained category discovery ,1
+fine-grained causality reasoning ,1
+fine-grained controllable text generation ,1
+fine-grained entity ,2
+fine-grained multi-domain neural machine translation ,1
+fine-grained personality ,1
+fine-grained syntactic control ,1
+fine-grained video paragraph ,1
+fine-tuned masked language ,1
+fine-tuning ,2
+fine-tuning neural topic model ,1
+fine-tuning paradigm ,1
+fine-tuning t5 encoder ,1
+finer granularity ,1
+finqa ,1
+fitness ,1
+fix ,2
+flap ,1
+flexible multi-modal language model training ,1
+flexible multi-task model ,1
+flipda ,1
+flooding-x ,1
+focus ,2
+fon ,1
+fools meme stock prediction ,1
+forward pass ,1
+fraction ,1
+frame ,1
+frameless meaning representation ,1
+framework ,6
+frequency ,1
+frsum ,1
+frugalscore ,1
+full utilization ,1
+fusing ,1
+fusion ,1
+fusion method ,1
+future ,1
+future event generation ,1
+future wisdom ,2
+gabert ,1
+gap ,1
+gause ,1
+gaussian process ,1
+gcpg ,1
+gedi ,1
+gender ,2
+gender bias ,3
+gender detection ,1
+gender inference ,1
+gender representation ,1
+gendered language ,1
+general english proficiency ,1
+general framework ,1
+general language ability evaluation ,2
+general language model ,1
+general teacher ,1
+generalizability ,2
+generalization ,3
+generalized zero-shot text classification ,1
+generating ,2
+generation ,13
+generative ,1
+generative approach ,1
+generative discriminator ,1
+generative language model ,1
+generative model ,1
+generative pretraining ,1
+generative prompt ,1
+generic dependency ,1
+generic large language ,1
+genre ,1
+geocoding ,4
+geographic performance ,1
+geometry-aware perspective ,1
+german texts ,1
+gfdc ,1
+github ,1
+glm ,1
+global mixup ,1
+globalizing multiwoz ,1
+globalwoz ,1
+goal-guided conversational recommendation ,1
+goal-oriented dialogue ,1
+gold standard ,1
+good night ,1
+good prompt ,1
+gossip ,1
+gpt ,1
+gpt-3 ,1
+gradient sparsification ,1
+gradmask ,2
+grammatical error correction ,3
+grammatical error prevention ,1
+grammatical processing ,1
+grammatical role ,1
+graph ,4
+graph function dependence ,1
+graph fusion approach ,1
+graph matching ,1
+graph neural network ,1
+graph parsing ,1
+graph pre-training ,1
+graph refinement ,1
+graph structure reconstruction ,1
+graph-based fine-grained multimodal attention mechanism ,1
+graph-based prompt ,1
+graph-to-graph annotation conversion ,1
+graph-to-sequence model ,1
+grapheme ,1
+graphprompt ,1
+graphs ,2
+greek ,1
+ground truth ,1
+grounded dialogue ,1
+grounded object ,1
+grounding ,1
+group-robust algorithms ,1
+guidance ,1
+hade ,1
+hansel ,2
+hard-label textual attack ,1
+hate speech normalization ,1
+hatebr ,1
+headed-span-based projective dependency ,2
+headline generation ,1
+healthcare ,3
+hebrew ,1
+heterogeneous graph attention ,1
+heterogeneous language model optimization ,1
+heterogeneous speech ,1
+heterogeneous-graph reasoning ,1
+hey ,1
+hidden sctructure ,1
+hie-sql ,1
+hierarchical affective dialog encoder ,1
+hierarchical attention decoder ,1
+hierarchical conditional transformer ,1
+hierarchical inductive bias ,1
+hierarchical inductive transfer ,1
+hierarchical interactive memory ,1
+hierarchical latent language ,1
+hierarchical modality fusion network ,1
+hierarchical recurrent ,2
+hierarchical structure information ,1
+hierarchical syntax structure ,1
+hierarchical table dataset ,1
+hierarchical table structure ,1
+hierarchical transformer ,1
+high interpretable transfer network ,1
+high-order inference ,1
+high-quality ,1
+high-resource machine translation ,1
+highie ,1
+hindi ,2
+hindi text ,1
+hindi word order ,1
+hint ,1
+historical sound change ,1
+history information ,1
+histruct+ ,1
+hitab ,1
+hlt research equality ,1
+holistic semantic polishing problem ,1
+homomorphic projective distillation ,1
+honestbait ,1
+hope ,1
+hsc-rocket ,1
+human ,2
+human evaluation ,1
+human feedback ,1
+human language modeling ,1
+human schema curation ,1
+human understanding ,1
+human-and-metric-in-the-loop workflow ,1
+hybrid chain ,1
+hybrid-relational market knowledge graph ,1
+hybridialogue ,1
+hyperbolic space ,1
+hyperlink-induced pre-training ,1
+hypernym class prediction ,1
+hypothesis distribution ,1
+iclea ,1
+identification ,1
+identifying ,2
+ideology prediction ,1
+idpg ,1
+igbo ,1
+iid ,1
+image ,2
+image captioning ,1
+image retrieval ,1
+image segmentation ,1
+image-text matching ,1
+image-text retrieval ,1
+impact ,5
+imperfect negation ,1
+impli ,1
+implicit user ,1
+importance ,2
+improved grammatical error correction ,1
+improved multilingual language understanding ,1
+improved out-of-scope detection ,1
+improvelong-tailed item categorization ,1
+improvement ,1
+improving ,2
+improving bert ,1
+in-context learning ,1
+in-context tuning ,1
+inclusivity ,1
+inconsistent ,1
+incorporating knowledge ,2
+incremental topic ,1
+indian subcontinent ,1
+indic natural language generation ,1
+indicbart ,1
+indicxnli ,1
+indonesia ,1
+induct-gcn ,1
+inductive bias influence ,1
+inductive event ,1
+inductive graph ,1
+inequality ,1
+inference ,3
+influence ,1
+information ,5
+information extraction ,1
+information-seeking dialogue dataset ,1
+information-theoretic approach ,1
+informative dialogue generation ,1
+infused pre-training ,1
+injecting syntax ,1
+input method ,1
+input salience ,1
+input-specific attention ,1
+instance attribution ,1
+instance-dependent prompt generation method ,1
+integrated argument mining ,1
+intensification ,1
+intent classification ,2
+inter-pair reasoning ,1
+interactive contrastive learning ,1
+interactive dialogue assistant ,1
+interactive feedback ,1
+interactive questionnaire ,1
+interactive sub question sequence ,1
+interdependence ,1
+intermediate pre-training ,1
+interpolation ,1
+interpretability ,2
+interpretable few-shot classification ,1
+interpretable math word problem ,1
+interpretable semantic representation ,1
+interpreting ,1
+intrinsic probing ,1
+introducing ,1
+introduction ,1
+invariant causal constraint ,1
+invariant language modeling ,1
+inverse ,1
+investigating ,1
+investigation ,3
+irish language model ,1
+isotropy ,1
+isotropy analysis ,1
+isotropy calibration ,1
+item response theory ,1
+iterative multilingual open information extraction ,1
+iterative ranking ,1
+japanese situation-dependent sentiment polarity dictionary ,1
+job ,4
+job-transition-tag graph ,1
+joint content-context analysis ,1
+joint information extraction ,1
+joint intent detection ,1
+joint learning ,3
+joint representation ,1
+joint theme ,1
+k-best ,1
+k-rater reliability ,1
+kala ,1
+kart ,1
+kenmesh ,1
+kesa ,1
+ketod ,1
+kinyabert ,1
+knowledge ,9
+knowledge base ,1
+knowledge base question ,2
+knowledge distillation ,3
+knowledge graph ,5
+knowledge graph completion ,4
+knowledge graphs ,3
+knowledge inheritance ,1
+knowledge selection ,1
+knowledge transfer ,1
+knowledge-augmented language model adaptation ,1
+knowledge-based visual question ,1
+knowledge-enhanced end-to-end biomedical text labelling ,1
+knowledge-enriched task-oriented dialogue ,1
+knowledge-guided transformer ,1
+knowledgeable dialogue generation ,1
+knowledgeable prompt-tuning ,2
+l ,1
+label ,3
+label attention model ,1
+label augmentation ,1
+label representation learning ,1
+label tuning ,1
+label-aware openre ,1
+label-aware sequence-to-sequence framework ,1
+label-wise setting ,1
+labelling scheme ,1
+lagr ,1
+language ,35
+language diversity ,1
+language documentation ,1
+language generation ,1
+language level classification ,1
+language model ,5
+language model fairness ,1
+language model pre-training ,1
+language model pretraining ,1
+language navigation ,1
+language revitalization ,1
+language understanding ,2
+language-and-vision transformer ,1
+large expert ,1
+large language ,4
+large sequence ,1
+large-scale benchmark dataset ,1
+large-scale chinese scientific literature dataset ,1
+large-scale corpus ,1
+large-scale dataset ,2
+large-scale english language ,1
+large-scale hate speech detection ,1
+large-scale image ,1
+large-scale language ,2
+large-scale multi-skill dialogue ,1
+large-scale multi-view tweet topic classification ,1
+large-scale news dataset ,1
+large-scale parallel translation ,1
+latency ,1
+latent dirichlet allocation ,1
+latent language ,1
+latent lexicalized constituency ,1
+latent-variable model ,1
+layout-aware neural model ,1
+layoutgcn ,1
+learn ,1
+learner ,3
+learning ,5
+learning hierarchical efficient transformer ,1
+learning relation-dependent entity representation ,1
+learning-based approach ,1
+learning-based memetic algorithm ,1
+learning-free controllable text ,1
+legal approach ,2
+legal fairness analysis ,1
+legal text processing ,1
+level ,2
+leveraging human-written text ,1
+levitated marker ,1
+lexical dependence ,1
+lexical development ,1
+lexical gender ,1
+lexical match bias ,1
+lexical simplification ,1
+lexicon creation ,1
+lexicon-based adaptation ,1
+lexicon-based automated annotation ,1
+life ,1
+lifelong language learning ,1
+light label ,1
+light-weight architecture ,1
+limit ,1
+linda ,1
+linear algebra ,1
+linear attention ,1
+linguistic disparity ,1
+linguistic diversity ,1
+linguistic exploration ,1
+linguistic logic ,1
+linguistic typology knowledge ,1
+lipkey ,1
+listen ,1
+listra ,1
+literature discourse analysis ,1
+local differential privacy ,1
+local knowledge attention ,1
+local structure ,1
+locality ,1
+logic tensor ,2
+logic-driven context extension ,1
+logical reasoning ,1
+logs ,1
+long document classification ,1
+long document understanding ,1
+long form ,1
+long input ,1
+long news summarization ,1
+long sequence ,1
+long tail ,2
+long text ,1
+long text summarization ,1
+long-sequence ,1
+longitudinal user text ,1
+lordbert ,1
+loss-restricted fine-tuning ,1
+lot ,1
+low rank softmax ,1
+low resource ,3
+low resource asr ,1
+low resource domain adaptation ,2
+low resource machine translation ,1
+low resource style transfer ,1
+low-dimensional intrinsic task subspace ,1
+low-end hardware ,1
+low-frequency ,2
+low-resource ,2
+low-resource language ,1
+low-resource language translation ,1
+low-resource ner ,1
+low-resource neural machine translation ,1
+low-resource prompt-based learning ,1
+low-resource relation extraction ,1
+low-resource semantic parsing ,1
+low-resource sentence retrieval ,1
+low-resource translation ,1
+low-resourced setting ,1
+m6-t ,1
+machine ,4
+machine reading comprehension ,2
+machine translation ,6
+machine translation output ,1
+machine translation supplier ,1
+machine-assisted cross document event ,1
+machine-sourced framework ,1
+mad ,1
+maml-cl ,1
+many-to-one dialogue ,1
+mapping language ,1
+marcqap ,1
+markbert ,1
+marking word ,1
+mask task ,1
+masked document ,1
+masked language model pretraining ,1
+masked language modeling ,1
+masked metaphor modeling ,1
+massive knowledge graph ,1
+match ,1
+math problem ,1
+math word ,3
+math word problem ,1
+mathion ,1
+matrix framework ,1
+matter ,1
+maximum proxy-likelihood estimation ,1
+mderank ,1
+mdg ,1
+me-gcn ,1
+meaning ,1
+meaning-preserving ,1
+measurement ,1
+measuring ,1
+measuring gender bias ,1
+medical code ,1
+medical concept ,1
+medical corpora ,1
+medical entity extraction ,1
+medical texts ,1
+medicine ,1
+memorization ,1
+memory ,1
+mental health assessment ,1
+mental health knowledge ,1
+mention integration ,1
+message ,1
+meta ,1
+meta learning ,2
+meta self-paced learning ,1
+meta word ,1
+meta-adapter ,1
+meta-framework ,1
+meta-learning ,3
+meta-learning approach ,2
+meta-review dataset ,1
+metadata ,1
+metamorphic testing perspective ,1
+metaphor detection ,1
+metaphorical knowledge ,2
+metaphorical sentence detection ,1
+metaprompting ,1
+method ,2
+microblog ,1
+middle high german ,1
+millie ,1
+mimicause ,1
+miner ,1
+minimal supervision ,1
+mining ,1
+minor relationship ,1
+mitigation ,2
+mix ,1
+mixer-transformer architecture ,1
+mixing ,1
+mixture ,2
+mixture-of-graphs ,1
+mmnet ,1
+model ,8
+model compression ,1
+model generalization ,1
+model interpretability ,1
+model pre-training ,1
+model resource comparison ,1
+model-agnostic data manipulation method ,1
+model-agnostic meta-learning ,1
+model-guided knowledge subgraphs ,1
+modeling ,1
+modeling metaphor comprehension ,1
+modern irish ,1
+modular ,1
+modular domain adaptation ,1
+modular language modeling ,1
+moefication ,1
+mofe ,1
+monolingual entity ,1
+monolingual language ,1
+montreal ,1
+morocco ,1
+morphological variability ,1
+morphology ,1
+morphology-aware kinyarwanda language model ,1
+morphosyntax ,1
+movie ,1
+mrc dataset bias ,1
+msamsum ,1
+msp ,1
+mt ,1
+mtg ,1
+multi-agent conversational ai ,1
+multi-choice machine reading comprehension ,1
+multi-data multi-task ,1
+multi-dimensional edge-embedded graph ,1
+multi-dimensional exploration ,1
+multi-document coverage reward ,1
+multi-document summarisation ,1
+multi-document summarization ,2
+multi-domain dataset ,1
+multi-domain dialogue state ,1
+multi-event detection ,1
+multi-feature ,1
+multi-grainedsupervision ,1
+multi-granularity ,1
+multi-granularity segmentation ,1
+multi-hop question ,1
+multi-hop question generation ,1
+multi-hop reasoning problem ,2
+multi-hop reasoning task ,1
+multi-label classification ,1
+multi-label text classification ,3
+multi-layer biaffine model ,1
+multi-level text discrimination ,1
+multi-lingual dialogue summarization ,1
+multi-modal language ,1
+multi-modal multi-party ,1
+multi-mode word ,1
+multi-narrative semantic intersection task ,1
+multi-party conversation ,1
+multi-party empathetic dialogue generation ,1
+multi-quantity ,1
+multi-relational graphs ,1
+multi-stage ,1
+multi-stage distillation framework ,1
+multi-stage framework ,1
+multi-stage prompting ,1
+multi-stage summarization framework ,1
+multi-table summarization ,1
+multi-task end-to-end training ,1
+multi-task event ,1
+multi-task learning ,2
+multi-task mixture-of-experts re-ranking framework ,1
+multi-task pre-training ,1
+multi-task problem ,1
+multi-triple extraction ,1
+multi-turn dialog ,1
+multi-turn dialogue ,3
+multi-view response selection ,1
+multidimensional language ,1
+multifaceted evaluation ,1
+multilingual benchmark ,1
+multilingual bert ,1
+multilingual ccg ,1
+multilingual corpus ,1
+multilingual dataset ,1
+multilingual document-level translation ,1
+multilingual domain adaptation ,1
+multilingual exploration ,1
+multilingual generative language ,1
+multilingual knowledge base construction ,1
+multilingual machine translation ,2
+multilingual neural machine translation ,1
+multilingual offensive lexicon ,1
+multilingual pre-training ,2
+multilingual syntax-aware language ,1
+multilingual task-oriented dialogue ,1
+multilingual text generation ,1
+multilingual text style transfer ,1
+multilingual unsupervised sequence segmentation ,1
+multilinguality ,1
+multimodal ,1
+multimodal advertising caption generation ,1
+multimodal audio-textual architecture ,1
+multimodal audio-visual speech recognition ,1
+multimodal entity ,1
+multimodal fusing ,1
+multimodal fusion ,1
+multimodal generation ,1
+multimodal knowledge ,1
+multimodal knowledge base ,1
+multimodal learning ,1
+multimodal machine translation ,1
+multimodal procedural knowledge ,1
+multimodal recurrent ,1
+multimodal review helpfulness prediction ,1
+multimodal semi-supervised learning ,1
+multimodal sentiment analysis ,2
+multimodal speech recognition ,1
+multiparallel word alignment ,2
+multiparty ,1
+multiple knowledge ,1
+multiple knowledge selection ,1
+multiple synonyms matching network ,1
+multiple-teacher model ,1
+multitask learning ,1
+multivariate ,1
+mutual information ,2
+mutual learning network ,1
+n-ary relation extraction ,1
+n-grammer ,1
+n-shot learning ,1
+name entity extraction ,1
+narrative comprehension ,1
+native language ,1
+natural contrastive learning ,1
+natural diet ,1
+natural language ,9
+natural language code search ,1
+natural language crowdsourcing ,1
+natural language generation ,2
+natural language inference ,3
+natural language processing ,4
+natural language understanding ,2
+naturalness ,1
+negative distillation ,1
+negative sampling ,1
+negative-aware entity ,1
+neighborhood contrastive learning ,1
+nepal bhasa complement ,1
+network ,3
+neural approach ,2
+neural cross-lingual summarization ,1
+neural dependency ,1
+neural dialogue generation ,1
+neural information retrieval ,1
+neural keyphrase generation ,1
+neural machine translation ,12
+neural network compression ,1
+neural nli ,1
+neural pipeline ,1
+neural predictive text ,1
+neural ranker ,1
+neural selective prediction ,1
+neural sequence ,1
+neural text generation ,2
+neural topic ,2
+neural-symbolic argument mining ,2
+neural-symbolic edit grammar ,1
+new benchmark ,1
+new data augmentation method ,1
+new dataset ,3
+new framework ,1
+new knowledge distillation framework ,1
+new nlp benchmark ,1
+new search paradigm ,1
+new solution ,1
+new task ,2
+new way ,1
+new web-scale question ,1
+news ,1
+news article revision ,1
+news recommendation ,1
+news text classification ,1
+newsfarm ,1
+next sentence prediction ,2
+night owls ,1
+nli ,1
+nlp ,6
+nlp task ,2
+nlp technology ,1
+nlp world ,1
+nlu ,1
+nmt ,6
+nmt corpus ,1
+nmtology ,1
+node classification ,1
+noise ,1
+noise-based augmentation ,1
+noise-robust dialogue state tracking ,2
+noisy channel model ,1
+non-autoregressive machine translation ,1
+non-autoregressive neural machine translation ,1
+non-autoregressive text-to-speech ,1
+non-autoregressive translation ,1
+non-isomorphic embedding ,1
+non-linear relational information ,1
+non-parametric domain adaptation ,1
+non-residual prompting ,1
+non-semantic speech representation ,1
+nonhuman animal bias ,1
+normalizing ,1
+novel approach ,1
+novel dataset ,1
+novel document-level graph convolution network ,1
+novel efficient ,1
+novel end-to-end capt system ,1
+novel framework ,1
+novel labeling strategy ,1
+novel simple ,2
+nsp-ner ,1
+number line ,1
+numerical reasoning ,1
+numerical reasoning pretraining ,1
+nyght ,1
+objective generative adversarial network ,1
+observation ,1
+ode transformer ,1
+offensive language ,1
+offensive text detection ,3
+oh wise ,1
+okwugbé ,1
+old bert ,1
+one-shot learning ,1
+onealigner ,1
+ongoing colonialism ,1
+online ,1
+online dialogue response generation ,1
+online support ,1
+only textual information ,1
+ontology ,1
+ood ,1
+open domain question ,3
+open information extraction ,1
+open knowledge graphs ,1
+open ye ,1
+open-domain ,1
+open-domain chatbot ,1
+open-domain conversation ,1
+open-domain dialogue ,1
+open-domain dialogue system ,1
+open-domain passage retrieval ,1
+open-domain question ,3
+openkorpos ,1
+opinion-based relational pivoting ,1
+optimized adversarial training ,1
+order ,1
+ordered image attention ,1
+ordersum ,1
+ordinal text classification ,1
+ordinary differential equation-inspired model ,1
+origin ,1
+original pre-training task ,1
+out-of-distribution ,1
+out-of-distribution robustness ,1
+out-of-domain q\ ,1
+out-of-scope detection ,1
+outside-knowledge visual question ,1
+overlooked architecture ,1
+pair-based joint ,1
+pairwise ,1
+pairwise proximity ,1
+pairwise sentence classification ,1
+palbert ,1
+parameter ,1
+parameter aggregation strategy ,1
+parameter scaling ,1
+parameter-efficient abstractive question ,1
+parameter-efficient language model ,1
+parameter-efficient token-dependent embedding shift ,1
+parameterization ,1
+paraphrase ,3
+paraphrase evaluation ,1
+paraphrase generation ,2
+paraphrase identification ,1
+pare ,1
+parse ,1
+parser error ,1
+part-of-speech ,1
+passage ,2
+passage retrieval ,1
+past ,1
+past mistake ,2
+patient ,2
+pattern disentanglement insight ,1
+peer review ,1
+peer review dataset ,1
+peersum ,1
+performance ,3
+persian natural language inference ,1
+person ,1
+persona ,2
+persona-based dialogue generation ,1
+personality ,1
+personality prediction ,1
+personality recognition ,1
+persuasiveness ,1
+perturbation ,1
+perturbation study ,1
+perturbation-based self-supervised attention ,1
+pesto ,1
+phrase ,1
+phrase-aware ,1
+pictalky ,1
+pilot study ,1
+pinyin-bert ,1
+pipeline ,1
+pivot ,1
+place ,1
+placing ,2
+planning ,1
+plug-and-play method ,1
+plug-and-play task-oriented dialogue system ,1
+plug-tagger ,1
+pluggable sequence ,1
+pm ,1
+pmi-based approach ,1
+point ,2
+polise ,1
+political bias ,1
+political heterogeneity ,1
+pool ,1
+pos ,1
+pos tagging ,1
+position-aware attention mechanism ,1
+position-aware weighted decoding ,1
+positional representation ,1
+post-user fusion network ,1
+power ,1
+power norm ,1
+ppt ,1
+practice ,1
+pre-trained document-grounded conversation model ,1
+pre-trained language ,18
+pre-trained language model ,4
+pre-trained latent ,1
+pre-trained memory ,1
+pre-trained model ,2
+pre-trained prompt ,1
+pre-trained sentence ,1
+pre-training ,5
+pre-training objective affect ,1
+precise thingtalk+ representation ,1
+precision-driven sentence ,1
+predicate-argument ,1
+prediction ,1
+prediction sensitivity ,2
+predictive text ,2
+preference-based meeting exploration ,1
+preme ,1
+prerequisite relation discovery ,1
+preservation ,1
+pretrain-and-finetune paradigm ,1
+pretrained contrastive learning ,1
+pretrained language ,3
+pretrained language model generation ,1
+pretrained transformer-based language ,1
+pretraining ,2
+primer ,1
+primera ,1
+primum non ,1
+principled lexically-constrained decoding ,2
+privacy ,2
+privacy-preserving graph ,1
+privacy-preserving nlp ,1
+private text ,1
+prix-lm ,1
+probabilistic box ,1
+probabilistic framework ,1
+probability ,1
+probing ,2
+procedural environment generation ,1
+procedural reasoning ,1
+procedural text ,1
+processing ,1
+processing advantage ,1
+program ,1
+program synthesis ,2
+program transfer ,1
+progression-aware autonomous dialogue agent ,1
+progressive down-sampling ,1
+prompt ,2
+prompt tuning ,1
+prompt verbalizer ,2
+prompt-based environmental self-exploration ,1
+prompt-based few-shot tuning ,1
+prompt-based learner ,1
+prompt-based zero-shot learner ,1
+prompt-based zero-shot relation extraction method ,1
+prompt-guided few-shot event detection ,1
+prompt-learning ,1
+promptbert ,1
+prompting ,1
+propositional analysis ,1
+prototypical verbalizer ,1
+pruning transformer ,1
+pseudo label ,1
+pseudo-error generation ,1
+pseudo-label selection ,1
+pseudoamr ,1
+psych-e ,1
+psychiatrist-proofread dialogue dataset ,1
+pyramid-based masked sentence pre-training ,1
+qa ,3
+qa domain adaptation ,1
+qa software ,1
+qaconv ,1
+quality-aware decoding ,1
+quantifying ,1
+quantitative analysis ,1
+quantum-inspired representation ,1
+quaser ,1
+qubit ,1
+qubite ,1
+query ,1
+query-specific siamese similarity ,1
+question ,12
+question answering ,5
+question generation ,1
+question matching ,1
+question-led semantic structure ,1
+question-schema interaction graph encoder ,1
+quirk ,1
+quote recommendation ,1
+quoter ,1
+radiology ,1
+radiology report retrieval ,1
+random ,2
+random character ,1
+rank approach ,1
+rational speech act ,1
+re ,1
+re-evaluating conversational question ,1
+re-evaluating extreme multi-label text classification ,1
+re-examination ,1
+re-ranking ,1
+re-ranking model ,1
+re-thinking ,1
+re-translating simultaneous speech translation ,1
+reade ,1
+reading order-aware ,1
+real-time ,1
+real-time evaluation ,1
+real-time visual feedback ,1
+realistic adversarial attack ,1
+realistic adversarial table perturbation ,1
+reasonable approach ,1
+rebuild ,2
+recall-then-verify framework ,1
+recent development ,1
+recipe ,2
+reciperef corpus ,1
+reclip ,1
+reco ,1
+recognition ,1
+recommender ,1
+reconstruction ,1
+reddit ,1
+reduplication detection ,1
+reference resolution ,1
+refinement ,1
+refining event extraction ,1
+region-specific image captioning ,1
+registration ,1
+reinforce attack ,1
+reinforcement learning ,2
+reinforcing empathy ,1
+reinforcing politeness ,1
+relation classification ,2
+relation extraction ,10
+relation extraction dataset ,1
+relation extraction method ,1
+relational graph ,1
+relational triple extraction ,1
+relational triplet extraction ,1
+relationship ,1
+relaxed multi-document summarization ,1
+relevance ,2
+relevant commonsense subgraphs ,1
+reliability ,2
+reliable evaluation ,1
+reliable human assessment ,1
+reliable multi-hop causal ,1
+relic ,1
+relo ,1
+remembering ,1
+repal ,1
+reparameterization ,1
+repetition ,1
+repo4qa ,1
+report document ,1
+reporting ,1
+represent ,1
+representation ,2
+reproducibility ,1
+rescue ,2
+research ,1
+research manifold ,1
+resistance ,1
+resource ,1
+response generation ,2
+response selection ,1
+rethinking ,1
+retraining ,1
+retrieval ,1
+retrieval-based layer-wise adaptive transformer ,1
+retrieval-guided counterfactual generation ,1
+retrieving evidence ,1
+rewire-then-probe ,1
+rich document understanding ,1
+rich representation ,1
+rich-resource language pair ,1
+right ,1
+right reason ,1
+right recipe ,1
+risk impact ,2
+rng-kbqa ,1
+robust ,2
+robust attention distribution ,1
+robust code-mixed translation ,3
+robust density estimation ,1
+robust passage ,1
+robust reinforcement learning ,1
+robust spoken language understanding ,1
+robust transformer ,1
+robustness ,10
+rock ,1
+role ,2
+rome ,1
+rotation ,1
+round-trip translation ,1
+rule ,2
+rule-based weak supervision ,1
+rumor detection ,1
+rumor veracity ,1
+rumour detection ,1
+run-time ,1
+s ,2
+s legal framework ,2
+s turn ,1
+s vocabulary ,1
+safety ,1
+safety bench ,1
+sagdre ,1
+salesbot ,1
+salient phrase ,1
+sambert ,1
+same-story article comparison ,1
+sample efficiency ,1
+sampling ,1
+sancl ,1
+sarcasm explanation ,1
+sarcasm recognition ,1
+satisfaction ,1
+scalable document-level translation ,1
+scalable extractive rationalization ,1
+scalable holistic approach ,1
+scalable methodology ,1
+scalable representation ,1
+scale ,1
+schema ,1
+schema-aware denoising ,1
+schema-free dependency ,1
+scientific document ,1
+scientific paper review ,1
+scientific trend ,1
+script ,1
+sead ,1
+search ,1
+search engine ,1
+second-order ,1
+segment ,1
+segmix ,1
+selection ,1
+selective attention ,1
+selective prediction ,1
+self-adaptive learning rate ,1
+self-adaptive mixture ,1
+self-attention ,4
+self-competitive learning ,1
+self-conditioning pre-trained language ,1
+self-contrastive learning ,1
+self-distilled pruning ,1
+self-reliant finite automata ,1
+self-supervised contrastive learning ,1
+self-supervised entity alignment ,1
+self-supervised learning ,1
+self-supervised pre-training ,1
+self-supervised schema induction ,1
+self-supervised semantic-driven phoneme discovery ,1
+self-training ,1
+semantic change ,1
+semantic code search ,1
+semantic composition ,1
+semantic enhanced relation detection model ,1
+semantic expansion ,1
+semantic parsing ,5
+semantic role ,1
+semantic role labeling ,2
+semantic search ,1
+semantic segmentation ,1
+semantic tokenizer ,1
+semantic-aware contrastive learning framework ,1
+semantic-level contrastive learning ,1
+semantic-oriented unlabeled priming ,1
+semantics-aware attention ,1
+semi-superivsed learning ,1
+semi-supervised math word problem ,1
+semi-supervised new event type induction ,1
+semi-supervised self-training ,1
+semi-supervised text classification ,2
+sense ,1
+sensitivity ,2
+sensorimotor ,1
+sensorimotor strength ,1
+sentence ,4
+sentence awareness ,1
+sentence embedding ,1
+sentence encoding ,1
+sentence recombination method ,1
+sentence representation ,1
+sentence selection ,1
+sentence-aware contrastive learning ,1
+sentence-level discourse parsing ,1
+sentence-level privacy ,1
+sentiment ,1
+sentiment analysis ,4
+sentiment conflict ,1
+seq2rel ,1
+sequence ,2
+sequence generation ,3
+sequence labeling ,1
+sequence-aware graph-based document-level relation extraction ,1
+sequence-to-sequence ,1
+sequence-to-sequence amr ,1
+sequence-to-sequence knowledge graph ,1
+sequence-to-sequence pretraining ,1
+sequence-to-sequence-based approach ,1
+serial reproduction ,1
+service ,1
+shallow parsing ,1
+shape ,1
+shaping ,1
+shapley ,1
+shct ,1
+shield ,1
+short stance text ,1
+short text classification ,1
+short text document classification ,1
+short texts ,1
+shortcut ,1
+signed language generation ,1
+significance ,1
+simple ,5
+simple cross-lingual sub-network tuning method ,1
+simple cycle self-augmenting ,1
+simple demonstration-based learning ,1
+simple general method ,1
+simple hash-based early exiting approach ,1
+simple information-based approach ,1
+simple log-based loss function ,1
+simple parameter-efficient fine-tuning ,1
+simplicity bias ,1
+simultaneous neural machine translation ,1
+sina-bert ,1
+single model ,1
+single neural model architecture ,1
+single sequence prediction ,1
+single transformer model ,1
+single-path one-shot operator exploratory training ,1
+single-step textual entailment ,1
+sisp ,1
+situated language generation ,1
+size ,1
+skill induction ,1
+slang ,1
+slangvolution ,1
+slot ,2
+slot filling ,1
+slot tagging ,1
+slotgan ,1
+small language ,1
+social science ,1
+social world ,1
+socio-political event coreference resolution ,1
+soft transitivity ,1
+softmax ,2
+softmax bottleneck ,1
+sos ,2
+sound ,1
+sound correspondence ,1
+source ,1
+source code ,1
+source code summarization ,2
+source text ,1
+source-free domain adaptation ,1
+south asia ,1
+space ,1
+space regularization ,2
+span boundary alignment ,1
+sparql silhouette generation ,1
+sparse ,1
+sparse experience replay ,1
+sparse fuzzy attention ,1
+sparse progressive distillation ,1
+sparse regularization ,1
+sparsity ,1
+sparsity regularization ,1
+spatial commonsense ,1
+spatiotemporal evidence finding ,1
+spatiotemporal quantity extraction ,1
+spe ,1
+speaker ,2
+speaker information ,1
+speaker-aware ,1
+speciesist language ,1
+specified intensity ,1
+speech ,6
+speech recognition ,1
+speech synthesis ,1
+speech translation ,3
+speech-to-sql parsing ,1
+speeding ,1
+spelling bee ,1
+spellm ,1
+spoken language ,2
+spontaneous conversation ,1
+spot ,1
+sql ,1
+stability ,1
+stable natural language ,1
+stablemoe ,1
+stance ,1
+stance detection ,1
+stance dissonance detection ,1
+star ,1
+statistical typology ,1
+stem ,1
+step-by-step correction ,1
+stm ,1
+stochastic multi-expert patcher ,2
+stock movement prediction ,1
+stone ,1
+story ,2
+strategy ,1
+stress detection ,1
+strong baseline ,1
+strong zero-shot baseline ,1
+structural causal recurrent unit ,1
+structural characterization ,1
+structure ,2
+structure representation learning ,1
+structure-aware argument encoder ,1
+structure-controllable text generation ,1
+structured information ,1
+structured semantic reinforcement method ,1
+structured sentiment analysis ,2
+student behavior ,1
+student feedback ,1
+study ,4
+sub-task ,1
+sub-word ,2
+sub-word model ,1
+sublexical semantic information ,1
+substructure distribution projection ,1
+subtopic ,1
+subword ,2
+subword information ,1
+subword tokenization ,1
+subword-based cross-lingual transfer ,1
+subword-level decoding ,1
+suicide understanding ,1
+sume ,1
+sumhis ,1
+summareranker ,1
+summarization ,3
+summary ,1
+summary generation ,1
+superb-sg ,1
+supershaper ,1
+supervised mt ,1
+supervision ,1
+survey ,11
+suspicious reaction ,1
+symmetrical prompt enhancement ,1
+synchronization ,1
+synonyms ,1
+syntactic information ,1
+syntactic parsing ,1
+syntactic structure prediction ,1
+syntactic task ,1
+syntax-aware memory network ,1
+synthesis ,1
+synthetic question value estimation ,1
+system ,1
+systematic generalization ,1
+systematic offensive stereotyping bias ,2
+systematic style ,1
+systematicity ,1
+systemic knowledge review learning ,1
+t ,1
+tabi ,1
+table ,1
+table-and-text open domain question ,1
+table-based fact verification ,2
+table-text encoding ,1
+table-to-text generation ,1
+tableformer ,1
+tableie ,1
+tabular ,1
+taco ,1
+tail label performance ,1
+tail label prediction ,1
+tailor ,2
+target ,2
+target information ,1
+target-guided dialogue response generation ,1
+targeted aspect-based financial sentiment analysis ,1
+task ,6
+task adaptation ,1
+task hardness ,1
+task-agnostic super pre-training ,1
+task-independent benchmark ,2
+task-oriented dialog ,2
+task-oriented dialogue ,9
+task-oriented dialogue state tracking ,1
+task-specific information ,1
+taxonomy ,2
+te reo māori ,2
+teaching albert ,1
+technique ,1
+temporal concept drift ,1
+temporal expression extraction ,1
+temporal knowledge graph ,1
+temporal knowledge-aware image captioning ,1
+temporal language ,1
+temporal tagging ,1
+tensor augmentation ,1
+tent ,1
+text ,10
+text anonymization ,1
+text augmentation ,1
+text classification ,17
+text complexity ,1
+text generation ,5
+text smoothing ,1
+text summarization ,2
+text-based counseling ,1
+text-to-sql parsing ,1
+text-to-text generation ,1
+text-to-text model ,1
+textmosaic ,1
+texts ,1
+textual adversarial example detection ,2
+textual backdoor ,1
+textual entailment ,2
+theoretic measurement ,1
+theoretic perspective ,1
+theoretical limitation ,1
+theory ,1
+ticket ,1
+time ,4
+time-aware modeling ,1
+timeline ,2
+timeliness perspective ,1
+title ,1
+title generation ,1
+title representation learning ,1
+token classification ,1
+token imbalance degree ,1
+tokenization ,3
+top-down influence ,2
+topic ,2
+topic mining ,1
+topic model ,1
+topic sentence ,1
+topic zero- ,1
+topic-aware response generation ,1
+topic-independent detection ,1
+topical relevance ,1
+toponym resolution ,4
+toxic text classification ,1
+toxic-to-civil transfer ,1
+tracing ,1
+tracking ,1
+trade-off ,1
+traditional document classification ,1
+train ,1
+trainable representation pooling ,1
+training ,3
+transductive learning ,1
+transfer ,2
+transfer learning ,2
+transformation ,1
+transformer ,6
+transformer encoder ,1
+transformer training ,1
+transformer-based translation ,1
+transition-based modeling ,1
+transitioning ,1
+transitivity ,1
+translation ,2
+translation suggestion ,1
+transliteration ,1
+transparent interactive semantic parsing ,1
+transsgan ,1
+treatment effect estimation ,1
+treebank ,1
+trend ,1
+triaffine mechanism ,1
+triangular machine translation ,1
+trigger-enhanced relation-extraction network ,1
+triplet position ,1
+trustworthy tabular reasoning ,1
+truth ,1
+turkish ,1
+turkish nlp ,1
+turn-level user engagingness predictor ,1
+twitch ,1
+twitter ,2
+twittirish ,1
+two-level ,1
+two-stage contrastive learning ,1
+two-stage curriculum training framework ,1
+two-stage evidence ,1
+two-step approach ,1
+two-way span-prediction ,1
+type-oriented binary decoding ,1
+uctopic ,1
+umls dictionary fine-tuning ,1
+uncertainty ,3
+uncertainty approximation ,1
+uncertainty-based joint training ,1
+uncertainty-based visual question answering ,1
+under-specified optimization ,1
+understanding ,3
+understanding evaluation ,1
+understanding evaluation framework ,1
+understanding model ,1
+uni-modal self-supervised learning ,1
+unicon ,1
+unified abstractive model ,1
+unified approach ,1
+unified framework ,2
+unified nmt ,1
+unified speech-text pre-training ,1
+unified structure-aware autoregressive language model ,1
+unipelt ,1
+unisar ,1
+universal performance benchmark ,1
+universal phone recognition ,1
+universal sample-efficient strategy ,1
+universal sentence ,1
+unlabeled learning ,1
+unstructured electronic health ,1
+unstructured knowledge ,1
+unstructured knowledge access ,1
+unstructured text ,1
+unsupervised approach ,1
+unsupervised bi-lingual word alignment ,1
+unsupervised chinese word segmentation ,1
+unsupervised clinical questionnaire filling ,1
+unsupervised constituency ,1
+unsupervised constituency parser ,1
+unsupervised contrastive learning ,1
+unsupervised dependency graph network ,1
+unsupervised domain adaptation ,2
+unsupervised domain-adaptive aspect-based sentiment analysis ,1
+unsupervised intent discovery ,1
+unsupervised keyphrase extraction ,2
+unsupervised learning ,1
+unsupervised multi-granularity summarization ,1
+unsupervised multiple-choice question generation ,1
+unsupervised multiple-task ,1
+unsupervised neural machine translation ,1
+unsupervised open-domain question ,1
+unsupervised opinion summarization ,1
+unsupervised personality-aware language identification ,1
+unsupervised post-hoc knowledge injection ,1
+unsupervised preference-aware language identification ,1
+unsupervised sentence ,2
+unsupervised sentence simplification ,2
+unsupervised sentence summarization ,1
+unsupervised text style transfer ,2
+unsupervised weighted concatenation ,1
+update ,1
+update fast ,1
+upper bound ,1
+use ,3
+user dictionary ,1
+user feedback ,1
+user sentiment ,1
+useridentifier ,1
+utterance ,3
+utterance filtering ,1
+v ,1
+vae ,1
+valid division ,1
+validity ,1
+valse ,2
+variable encoder-decoder model ,1
+variable quantization noise ,1
+variation ,3
+variational hierarchical model ,1
+vec2node ,1
+vector-based approach ,1
+verb agreement ,1
+verification ,2
+vicinity ,1
+video ,1
+viquae ,1
+vision ,4
+vision-and-language navigation ,1
+vision-language ,1
+vision-language knowledge distillation ,1
+visual knowledge ,1
+visual-language navigation ,1
+vocabulary size ,1
+voice-based intelligent personal digital ,1
+voting-based open corpus annotation ,1
+voxel-informed language grounding ,1
+vqa ,1
+vqn ,1
+vs model ,1
+wasserstein space ,1
+weak self-supervision ,1
+weak supervision ,5
+weakly ,1
+weakly-supervised meme analysis ,1
+weanf ,1
+wechsel ,1
+weight squeezing ,1
+well-composed text ,1
+whole word masking ,1
+wild ,1
+word ,8
+word order ,1
+word sense disambiguation ,2
+word sense information ,1
+word translation ,1
+word-level quality estimation ,1
+word2box ,1
+world ’ s ,1
+xgqa ,1
+xltime ,1
+zero-resource approach ,1
+zero-resource speech recognition ,1
+zero-shot aspect-based scientific document summarization ,1
+zero-shot constrained keyphrase generation ,1
+zero-shot cross-language transfer ,1
+zero-shot cross-lingual conversational semantic role labeling ,1
+zero-shot cross-lingual dependency ,1
+zero-shot cross-lingual event argument extraction ,1
+zero-shot cross-lingual text classification ,1
+zero-shot cross-lingual transfer ,2
+zero-shot data-to-text generation ,1
+zero-shot dependency ,1
+zero-shot domain ,1
+zero-shot entity ,3
+zero-shot learning ,1
+zero-shot low-resource language ,1
+zero-shot ner ,1
+zero-shot relational learning ,1
+zero-shot script parsing ,1
+zero-shot transfer ,1
+zero-shot visual grounding ,1
