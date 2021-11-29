@@ -19,7 +19,7 @@ all = True
 
 keyword = ''
 for word in args.keyword: 
-	keyword += word + ' '
+	keyword += word.capitalize() + ' '
 
 month = args.month.capitalize()
 print(month)

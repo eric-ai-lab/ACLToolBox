@@ -24,9 +24,11 @@ You can query right out of the box by doing the following:
 
 For querying the database for specific keyword (first letter needs to be capitalized): 
 
-	./main.py  -month [month|all] -keyword [keyword]
+	./main.py  -month [month|all] -keyword [keyword] -csv [y|n]
 
-This will output the pdf, forum and any additional information in a csv file in the current directory. 
+This will output the title and link of the paper. 
+
+If you need additional information, you can add `-csv y` to save other infomation in a csv file in the current directory. 
 
 
 ## Analysis 
@@ -38,7 +40,7 @@ We have taken all the title of the recent months papers to find the keyword and 
 ## Example
 For example, you want to find papers that are related to "Entity Recognition" in all the months present:
 
-	./main.py  -month all -keyword Entity Recognition
+	./main.py  -month all -keyword Entity Recognition -csv y
 
 The result will save in `result.csv` in the current directory which includes title, abstract, pdf link, and additional software, code. 
 
