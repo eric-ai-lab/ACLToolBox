@@ -35,7 +35,7 @@ For example, you want to find papers that are related to "Entity Recognition" in
 
 	./main.py  -month all -keyword Entity Recognition
 
-The result will save in result.csv in the current directory which includes title, abstract, pdf link, and additional software, code. 
+The result will save in `result.csv` in the current directory which includes title, abstract, pdf link, and additional software, code. 
 
 
 [ACL]: https://openreview.net/group?id=aclweb.org/ACL/ARR/2021&referrer=%5BHomepage%5D(%2F)
