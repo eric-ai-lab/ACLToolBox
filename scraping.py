@@ -18,7 +18,7 @@ pdf = 'https://openreview.net/pdf?id='
 
 print('Starting scraping the data...')
 for month in months:
-    print(month)
+    # print(month)
     URL = url + month
 
     # get the page by senting request 
@@ -38,7 +38,7 @@ for month in months:
     data = []
     big_json = {}
     for id in ids: 
-        print(id)
+        # print(id)
         page = requests.get(forum+id)
         soup = BeautifulSoup(page.content, "lxml")
         script = soup.find("script", id="__NEXT_DATA__")
@@ -59,5 +59,5 @@ for month in months:
     df = df.rename(columns={'Unnamed: 0': 'id'})
     # print(df)
     df.to_csv(dir + month + '.csv')
-    print('Data had saved in the ' + dir )
+    print('Data have saved in the ' + dir )
   
