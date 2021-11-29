@@ -6,14 +6,17 @@ import json
 import re
 import pandas as pd 
 
+dir = 'csv/'
+# June is written as Jun on website 
 months = ['November', 'October', 'September', 'August', 'July', 'Jun', 'May']
+
 
 
 url = "https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/" 
 forum = 'https://openreview.net/forum?id='
 pdf = 'https://openreview.net/pdf?id=' 
 
-
+print('Starting scraping the data...')
 for month in months:
     print(month)
     URL = url + month
@@ -53,6 +56,8 @@ for month in months:
     # big_json = json.dumps(big_json)
     df = pd.DataFrame.from_dict(big_json)
     df = df.swapaxes("index", "columns")
+    df = df.rename(columns={'Unnamed: 0': 'id'})
     # print(df)
-    df.to_csv(month + '.csv')
+    df.to_csv(dir + month + '.csv')
+    print('Data had saved in the ' + dir )
   

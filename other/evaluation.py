@@ -4,7 +4,7 @@ from nltk.tokenize import word_tokenize
 nltk.download('punkt')
 nltk.download("averaged_perceptron_tagger")
 
-dir = "./csv/"
+dir = "../csv/"
 
 months = ['November', 'October', 'September', 'August', 'July', 'Jun', 'May']
 
