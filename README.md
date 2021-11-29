@@ -14,9 +14,13 @@ To make sure that you have the same environment that the program needs:
 
 	pip install -r requirements.txt
 
-To get the latest database you can run the `scraping.py`:
+We will maintain the newest updates consistently,
+
+(Optional) to get the latest database you can run the `scraping.py`:
 
 	./scraping.py 
+
+You can query right out of the box by doing the following:
 
 For querying the database for specific keyword (first letter needs to be capitalized): 
 

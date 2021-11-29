@@ -6,6 +6,31 @@ import json
 import re
 import pandas as pd 
 
+
+# Print iterations progress
+def printProgressBar (iteration, total, prefix = '', suffix = '', decimals = 1, length = 100, fill = '█', printEnd = "\r"):
+    """
+    Call in a loop to create terminal progress bar
+    @params:
+        iteration   - Required  : current iteration (Int)
+        total       - Required  : total iterations (Int)
+        prefix      - Optional  : prefix string (Str)
+        suffix      - Optional  : suffix string (Str)
+        decimals    - Optional  : positive number of decimals in percent complete (Int)
+        length      - Optional  : character length of bar (Int)
+        fill        - Optional  : bar fill character (Str)
+        printEnd    - Optional  : end character (e.g. "\r", "\r\n") (Str)
+    """
+    percent = ("{0:." + str(decimals) + "f}").format(100 * (iteration / float(total)))
+    filledLength = int(length * iteration // total)
+    bar = fill * filledLength + '-' * (length - filledLength)
+    print(f'\r{prefix} |{bar}| {percent}% {suffix}', end = printEnd)
+    # Print New Line on Complete
+    if iteration == total: 
+        print()
+
+
+
 dir = 'csv/'
 # June is written as Jun on website 
 months = ['November', 'October', 'September', 'August', 'July', 'Jun', 'May']
@@ -17,8 +42,11 @@ forum = 'https://openreview.net/forum?id='
 pdf = 'https://openreview.net/pdf?id=' 
 
 print('Starting scraping the data...')
+printProgressBar(0, len(months), prefix = 'Progress:', suffix = 'Complete', length = 50)
+count = 0 
 for month in months:
     # print(month)
+
     URL = url + month
 
     # get the page by senting request 
@@ -39,6 +67,8 @@ for month in months:
     big_json = {}
     for id in ids: 
         # print(id)
+        printProgressBar(count + 1, len(ids), prefix = month + ' Progress:', suffix = 'Complete', length = 50)
+        count += 1
         page = requests.get(forum+id)
         soup = BeautifulSoup(page.content, "lxml")
         script = soup.find("script", id="__NEXT_DATA__")
