@@ -7,14 +7,15 @@ import pandas as pd
 my_parser = argparse.ArgumentParser(description='Get the related links to the keyword papers')
 
 # ./main.py -month all  -keyword Translation
-my_parser.add_argument('-month', metavar='[month or all]', type=str, help='Month searching')
-my_parser.add_argument('-keyword', metavar='[keyboard]', nargs='+', type=str, help='keyword', required=True)
+my_parser.add_argument('-month', metavar='[month or all(none)]', type=str, help='Month searching')
+my_parser.add_argument('-keyword', metavar='[keyword]', nargs='+', type=str, help='keyword', required=True)
+my_parser.add_argument('-csv', metavar='[y or n]', type=str, help='save csv')
 args = my_parser.parse_args()
 
 
 months = ['November', 'October', 'September', 'August', 'July', 'Jun', 'May']
 
-all = False
+all = True
 
 keyword = ''
 for word in args.keyword: 
@@ -25,16 +26,17 @@ print(month)
 if month == 'June' or month == 'june': 
 	month = 'Jun'
 
-	
 
+if args.csv:
+	csv = args.csv.capitalize()
+else: 
+	csv = None
 index = []
 
 
 
 if month in months: 
 	path = 'csv/' + month 
-elif month == 'All':
-	all = True 
 else: 
 	print('No month is in the database')
 
@@ -72,6 +74,9 @@ final_df['data'] = 'https://openreview.net' + final_df['data']
 
 
 print(final_df[['title', 'pdf']].to_string())
-print('saving the result to result.csv')
-# final_df.to_csv('result.csv')
+
+if csv=='Y':
+	final_df.to_csv('result.csv')
+	print('saving the result to result.csv')
+
 
