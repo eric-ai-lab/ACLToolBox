@@ -8,6 +8,7 @@ Doing the analyics of the ACL paper from all the months(will keep updated) we ha
 Clone the repository: 
 
 	git clone https://github.com/eric-ai-lab/ACLToolBox.git
+	cd ACLToolBox
 
 To make sure that you have the same environment that the program needs: 
 
