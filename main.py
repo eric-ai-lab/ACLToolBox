@@ -62,6 +62,9 @@ else:
 			pass 
 	final_df = df.iloc[index]
 
+final_df['pdf'] = 'https://openreview.net'+final_df['pdf']
+final_df['software'] = 'https://openreview.net' + final_df['software']
+final_df['data'] = 'https://openreview.net' + final_df['data']
 
 print('saving the result to result.csv')
 # print(final_df)

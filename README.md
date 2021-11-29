@@ -16,7 +16,7 @@ To make sure that you have the same environment that the program needs:
 
 We will maintain the newest updates consistently,
 
-(Optional) to get the latest database you can run the `scraping.py`:
+**(Optional)** to get the latest database you can run the `scraping.py`:
 
 	./scraping.py 
 

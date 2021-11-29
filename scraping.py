@@ -36,14 +36,11 @@ dir = 'csv/'
 months = ['November', 'October', 'September', 'August', 'July', 'Jun', 'May']
 
 
-
 url = "https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/" 
 forum = 'https://openreview.net/forum?id='
 pdf = 'https://openreview.net/pdf?id=' 
 
 print('Starting scraping the data...')
-printProgressBar(0, len(months), prefix = 'Progress:', suffix = 'Complete', length = 50)
-count = 0 
 for month in months:
     # print(month)
 
@@ -65,6 +62,8 @@ for month in months:
     ids = re.findall(r"forum\?id=(.+?)\\", str(json_object['props']))
     data = []
     big_json = {}
+    count = 0 
+    printProgressBar(0, len(ids), prefix = month + ' Progress:', suffix = 'Complete', length = 50)
     for id in ids: 
         # print(id)
         printProgressBar(count + 1, len(ids), prefix = month + ' Progress:', suffix = 'Complete', length = 50)
@@ -89,5 +88,6 @@ for month in months:
     df = df.rename(columns={'Unnamed: 0': 'id'})
     # print(df)
     df.to_csv(dir + month + '.csv')
-    print('Data have saved in the ' + dir )
+
+print('Data have saved in the ' + dir )
   
