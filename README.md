@@ -24,7 +24,7 @@ You can query right out of the box by doing the following:
 
 For querying the database for specific keyword (first letter needs to be capitalized): 
 
-	./main.py  -month [month|all] -keyword [keyword] -csv [y|n]
+	./main.py  -year [2021-2022|2021(none)] -month [month|all(none)] -keyword [keyword] -csv [y|n]
 
 This will output the title and link of the paper. 
 
