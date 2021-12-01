@@ -26,7 +26,7 @@ For querying the database for specific keyword (first letter needs to be capital
 
 	./main.py  -year [2021-2022|2021(none)] -month [month|all(none)] -keyword [keyword] -csv [y|n]
 
-This will output the title and link of the paper. 
+This will output the title and link of the papers. 
 
 If you need additional information, you can add `-csv y` to save other infomation in a csv file in the current directory. 
 
