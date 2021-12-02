@@ -38,9 +38,9 @@ We have taken all the title of the recent months papers to find the keyword and 
 
 
 ## Example
-For example, you want to find papers that are related to "Entity Recognition" in all the months present:
+For example, you want to find papers that are related to "Entity Recognition" in all the months in 2021:
 
-	./main.py  -month all -keyword Entity Recognition -csv y
+	./main.py -year 2021 -month all -keyword Entity Recognition -csv y
 
 The result will save in `result.csv` in the current directory which includes title, abstract, pdf link, and additional software, code. 
 
