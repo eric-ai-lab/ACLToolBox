@@ -30,7 +30,7 @@ def query(all, keyword, month, year, csv):
 			
 
 	else: 
-		df = pd.read_csv('csv/' + year+' '+month + '.csv')
+		df = pd.read_csv('csv/' + year + ' '+ month + '.csv')
 		for title in df['title']: 
 			try:
 				if keyword in title: 

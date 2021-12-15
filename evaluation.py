@@ -7,7 +7,8 @@ from os.path import exists
 import matplotlib.pyplot as plt
 import pandas as pd
 from wordcloud import WordCloud, STOPWORDS
-from pattern.text.en import singularize
+
+# from pattern.text.en import singularize
 
 
 nltk.download('punkt')
@@ -40,9 +41,9 @@ def parse_nouns_to_frequency(title, freq):
   if not title_words: 
     return 
   # print(title_words)
-  words = [singularize(plural) for plural in title_words]
+  # words = [singularize(plural) for plural in title_words]
   # print(words)
-  title_tags = nltk.pos_tag(words)
+  title_tags = nltk.pos_tag(title_words)
   grammar = "NP: {<JJ>*<NN>?<NN>?<NN>?}"
   chunk_parser = nltk.RegexpParser(grammar)
   tree = chunk_parser.parse(title_tags)
@@ -52,8 +53,6 @@ def parse_nouns_to_frequency(title, freq):
     for i in subtree.leaves(): 
       phrase += i[0] + ' ' 
     add_to_dict(phrase, freq)
-
-
 
 
 
@@ -94,7 +93,7 @@ def graph_wordcloud(freq, name):
 
 
 
-def main(): 
+if __name__ == '__main__':
   dir = "csv/"
   months = {1:'January', 2:'Feburary', 3:'March', 4:'April', 5:'May', 6:'Jun', 7:'July',8:'August', 9:'September', 10:'October', 11:'November', 12:'December'}
   years = {2021:'2021', 2022:'2022'}
@@ -123,13 +122,6 @@ def main():
   df = df[cols]
   df = df.sort_values(by=['frequency'], ascending=False, ignore_index=True)
   # print(df)
-  # df.to_csv("title_verb_freq.csv")
+  df.to_csv("title_with_plural.csv")
 
   graph_wordcloud(freq, 'title')
-
-
-
-
-
-if __name__ == '__main__':
-  main()
