@@ -71,7 +71,9 @@ def create_dir(parent_dir, year):
 
 def get_ids_from_page(main_page, func=None):
 	"""
-	
+	get the information needed based on which func to use 
+	input: main_page (request), func (year, month, None)
+	output: list of ids on the page
 	"""
 	# beautifulSoup by using lxml to get the raw html and store in soup with different class 
 	soup = BeautifulSoup(main_page.content, "lxml")
