@@ -22,24 +22,30 @@ soup = BeautifulSoup(html_source,'lxml')
 
 ids = dict()
 count = 0
-print(len(soup.find_all('a')))
+# print(len(soup.find_all('a')))
 for link in soup.find_all("a"):
 	addr = link.get('href')
+
 	if addr:
 		# print(addr)
 		
 		temp = re.findall(r"\/(.+?)\?(\w*)(=|&)([a-zA-Z0-9_\-]*)(=|&)*(\w*)(=|&)*(\w*)", str(addr))
+
+
+
 		if not temp: 
 			continue
 		# print(temp[0])
 		
 		type = temp[0][0]  
 		id = temp[0][3]
+		title = str(link.text)
+
 		# print(id)
 		# print(type)
 
 		if type == 'forum': 
-			print(type, id)
+			print(type, id, title)
 		elif type =='attachment': 
 			name = temp[0][-1]
 

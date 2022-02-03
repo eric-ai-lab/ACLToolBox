@@ -11,14 +11,7 @@ from library import *
 
 dir = 'database/'
 file_type = '.csv'
-# June is written as Jun on website 
-# months = {1:'January', 2:'Feburary', 3:'March', 4:'April', 5:'May', 6:'Jun', 7:'July',8:'August', 9:'September', 10:'October', 11:'November', 12:'December'}
-# years = {2021:'2021', 2022:'2022'}
-# start_year = 2021
-# start_month = 1 
 
-# end_year = get_cur_year
-# end_month = get_cur_month
 
 url = "https://openreview.net/group?id=aclweb.org/ACL/ARR" 
 forum = 'https://openreview.net/forum?id='
@@ -72,31 +65,35 @@ for year in years:
         ids = get_ids_from_page(main_page)
         data = []
         big_json = {}
-        count = 0 
+        count = 1
         # print(ids)
         if not ids: 
-            print('no ids')
-            continue
-        
-        printProgressBar(0, len(ids), prefix = month + ' Progress:', suffix = 'Complete', length = 50)
-        for id in ids: 
+            df = alternative_scrape(URL, month) 
+            if df.empty:
+                print('no ids')
+                continue
+        else: 
+            c = len(ids)
+            printProgressBar(0, c, prefix = month + ' Progress:', suffix = 'Complete', length = 50)
+            for id in ids: 
 
-            printProgressBar(count + 1, len(ids), prefix = month + ' Progress:', suffix = 'Complete', length = 50)
-            count += 1
-            page = requests.get(forum+id)
-            soup = BeautifulSoup(page.content, "lxml")
-            script = soup.find("script", id="__NEXT_DATA__")
+                printProgressBar(count, c, prefix = month + ' Progress:', suffix = 'Complete', length = 50)
+                count += 1
+                page = requests.get(forum+id)
+                soup = BeautifulSoup(page.content, "lxml")
+                script = soup.find("script", id="__NEXT_DATA__")
 
-            # loading the script into json format
-            json_object = json.loads(script.string)
-        
-            data = None 
-            if 'forumNote' in json_object['props']['pageProps']: 
-                data=json_object['props']['pageProps']['forumNote']['content']
-            big_json[id] = data
+                # loading the script into json format
+                json_object = json.loads(script.string)
             
-        df = pd.DataFrame.from_dict(big_json)
-        df = modify_df(df)
+                data = None 
+                if 'forumNote' in json_object['props']['pageProps']: 
+                    data=json_object['props']['pageProps']['forumNote']['content']
+                big_json[id] = data
+            
+            df = pd.DataFrame.from_dict(big_json)
+            df = modify_df(df)
+
         path = os.path.join(dir, year, month)
         path += '.csv'
         df.to_csv(path)
