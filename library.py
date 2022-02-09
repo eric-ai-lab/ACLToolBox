@@ -11,6 +11,9 @@ from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 import time
 
+opts = webdriver.ChromeOptions()
+opts.headless = True
+driver = webdriver.Chrome(ChromeDriverManager().install(), options=opts)
 
 # Print iterations progress
 def printProgressBar (iteration, total, prefix = '', suffix = '', decimals = 1, length = 100, fill = '█', printEnd = "\r"):
@@ -74,12 +77,10 @@ def create_dir(parent_dir, year):
 
 
 def alternative_scrape(url, month): 
-    opts = webdriver.ChromeOptions()
-    opts.headless = True
-    driver = webdriver.Chrome(ChromeDriverManager().install())
+    
     # driver = webdriver.Chrome('./chromedriver')
     driver.get(url)
-    # time.sleep(3)
+    time.sleep(3)
     html_source = driver.page_source
     soup = BeautifulSoup(html_source,'lxml')
     header = ['id','title','authorids','authors','TL;DR','abstract','pdf','software','preprint','existing_preprints','preferred_venue','consent','paperhash','reviewer/Editor_reassignment_request','reviewer/Editor_reassignment_justification','data','previous_URL','previous_PDF','response_PDF']
