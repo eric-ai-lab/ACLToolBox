@@ -105,567 +105,566 @@
 103,qvANqbdTvzb,Unmasking the Trade-off: Measuring Gender Bias Mitigation and Over-debiasing Effects in Pretrained Language Models,,,,,/pdf?id=qvANqbdTvzb,,,,,,,,,,,,,Anonymous,/forum?id=qvANqbdTvzb
 104,RxOWqx2hwgz,Disaggregating Hops: Can We Guide a Multi-Hop Reasoning Language Model to Incrementally Learn at each Hop?,,,,,/pdf?id=RxOWqx2hwgz,,,,,,,,,,,,,Anonymous,/forum?id=RxOWqx2hwgz
 105,cHWTyW7uY6c,Lifting the Curse of Multilinguality by Pre-training Modular Transformers,,,,,/pdf?id=cHWTyW7uY6c,,,,,,,,,,,,,Anonymous,/forum?id=cHWTyW7uY6c
-106,wta72hshmVk,Modeling Hierarchical Reasoning Chains for Reading Comprehension,,,,,/pdf?id=wta72hshmVk,,,,,,,,,,,,,Anonymous,/forum?id=wta72hshmVk
-107,1LTH7-y4oUn,Augmenting Document Representations for Dense Retrieval with Interpolation and Perturbation,,,,,/pdf?id=1LTH7-y4oUn,,,,,,,,,,,,,Anonymous,/forum?id=1LTH7-y4oUn
-108,vD5JzgHTt9Q,Towards Interactive Language Modeling,,,,,/pdf?id=vD5JzgHTt9Q,,,,,,,,,,,,,Anonymous,/forum?id=vD5JzgHTt9Q
-109,05JLuxoSbX5,Exploring the Value of Multi-View Learning for Session-Aware Query Representation,,,,,/pdf?id=05JLuxoSbX5,,,,,,,,,,,,,Anonymous,/forum?id=05JLuxoSbX5
-110,joltZKL-0q3,Practical Dataless Text Classification Through Dense Retrieval,,,,,/pdf?id=joltZKL-0q3,,,,,,,,,,,,,Anonymous,/forum?id=joltZKL-0q3
-111,p5jgs957DXh,"EVI: Multilingual Spoken Dialogue Tasks and Dataset for Knowledge-Based Enrolment, Verification, and Identification",,,,,/pdf?id=p5jgs957DXh,,,,,,,,,,,,,Anonymous,/forum?id=p5jgs957DXh
-112,7Oed3xqyEp-,Improving Fairness without Demographic by Lagged Dynamic Grouping,,,,,/pdf?id=7Oed3xqyEp-,,,,,,,,,,,,,Anonymous,/forum?id=7Oed3xqyEp-
-113,Xg0hWle2l-c,A Generative Language Model for Few-shot Aspect-Based Sentiment Analysis,,,,,/pdf?id=Xg0hWle2l-c,,,,,,,,,,,,,Anonymous,/forum?id=Xg0hWle2l-c
-114,-ZsTBN3IAwW,Nearest Neighbor Knowledge Distillation for Neural Machine Translation,,,,,/pdf?id=-ZsTBN3IAwW,,,,,,,,,,,,,Anonymous,/forum?id=-ZsTBN3IAwW
-115,vb7QMBpFO-3,Experiments with adversarial attacks on text genres,,,,,/pdf?id=vb7QMBpFO-3,,,,,,,,,,,,,Anonymous,/forum?id=vb7QMBpFO-3
-116,ZJHxuYn-sXn,Measuring Word-Context Biases in Lexical Semantic Datasets,,,,,/pdf?id=ZJHxuYn-sXn,,,,,,,,,,,,,Anonymous,/forum?id=ZJHxuYn-sXn
-117,s6KeZrpn3Xm,Incorporating Question Answering-Based Signals into Abstractive Summarization via Salient Span Selection,,,,,/pdf?id=s6KeZrpn3Xm,,,,,,,,,,,,,Anonymous,/forum?id=s6KeZrpn3Xm
-118,y5e8K7dzRXM,Generative Pretraining for Paraphrase Evaluation,,,,,/pdf?id=y5e8K7dzRXM,,,,,,,,,,,,,Anonymous,/forum?id=y5e8K7dzRXM
-119,tQMLoEFrZUZ,Patching Leaks in the Charformer for Generative Tasks,,,,,/pdf?id=tQMLoEFrZUZ,,,,,,,,,,,,,Anonymous,/forum?id=tQMLoEFrZUZ
-120,pUwtbIy9xiW,MixQG: Neural Question Generation with Mixed Answer Types,,,,,/pdf?id=pUwtbIy9xiW,,,,,,,,,,,,,Anonymous,/forum?id=pUwtbIy9xiW
-121,IuIP-BWC88W,Few-Shot Authorship Attribution in English Reddit Posts,,,,,/pdf?id=IuIP-BWC88W,,,,,,,,,,,,,Anonymous,/forum?id=IuIP-BWC88W
-122,0BvzMpR0zkJ,PPL-MCTS: Constrained Textual Generation Through Discriminator-Guided MCTS Decoding,,,,,/pdf?id=0BvzMpR0zkJ,,,,,,,,,,,,,Anonymous,/forum?id=0BvzMpR0zkJ
-123,BG3CJCM3jLX,Neural Pipeline for Zero-Shot Data-to-Text Generation,,,,,/pdf?id=BG3CJCM3jLX,,,,,,,,,,,,,Anonymous,/forum?id=BG3CJCM3jLX
-124,3brEESkiXOJ,GUSUM: Graph-Based Unsupervised Summarization using Sentence-BERT and Sentence Features,,,,,/pdf?id=3brEESkiXOJ,,,,,,,,,,,,,Anonymous,/forum?id=3brEESkiXOJ
-125,6RjSJUjpcuV,Breaking Character: Are Subwords Good Enough for MRLs After All?,,,,,/pdf?id=6RjSJUjpcuV,,,,,,,,,,,,,Anonymous,/forum?id=6RjSJUjpcuV
-126,ifRFQoYYrpu,Uninformative Input Features and Counterfactual Invariance: Two Perspectives on Spurious Correlations in Natural Language,,,,,/pdf?id=ifRFQoYYrpu,,,,,,,,,,,,,Anonymous,/forum?id=ifRFQoYYrpu
-127,nQuO_vNMGlf,Retrieving Visual Facts For Few-Shot Visual Question Answering,,,,,/pdf?id=nQuO_vNMGlf,,,,,,,,,,,,,Anonymous,/forum?id=nQuO_vNMGlf
-128,jmKioyb4HW5,Exploring Topic-Metadata Relationships with the STM: A Bayesian Approach,,,,,/pdf?id=jmKioyb4HW5,,,,,,,,,,,,,Anonymous,/forum?id=jmKioyb4HW5
-129,AQd70VuZumt,NewsClaims: A New Benchmark for Claim Detection from News with Background Knowledge,,,,,/pdf?id=AQd70VuZumt,,,,,,,,,,,,,Anonymous,/forum?id=AQd70VuZumt
-130,ks4BvF7kpiP,Fine-tuning Strategies for Domain Specific Question Answering under Low Annotation Budget Constraints,,,,,/pdf?id=ks4BvF7kpiP,,,,,,,,,,,,,Anonymous,/forum?id=ks4BvF7kpiP
-131,LGG1BDdBf6T,Imagination-Augmented Natural Language Understanding,,,,,/pdf?id=LGG1BDdBf6T,,,,,,,,,,,,,Anonymous,/forum?id=LGG1BDdBf6T
-132,qSMK1JCZcr7,Learning to Transpile AMR into SPARQL,,,,,/pdf?id=qSMK1JCZcr7,,,,,,,,,,,,,Anonymous,/forum?id=qSMK1JCZcr7
-133,Ut_dJIRjaTE,Framework for Weakly Supervised Causal Knowledge Extraction from Text,,,,,/pdf?id=Ut_dJIRjaTE,,,,,,,,,,,,,Anonymous,/forum?id=Ut_dJIRjaTE
-134,jCqESRWnumE,Cross-Lingual Speaker Identification from Weak Local Evidence,,,,,/pdf?id=jCqESRWnumE,,,,,,,,,,,,,Anonymous,/forum?id=jCqESRWnumE
-135,oI5rz7RpJkE,Cooperative Self-training of Machine Reading Comprehension,,,,,/pdf?id=oI5rz7RpJkE,,,,,,,,,,,,,Anonymous,/forum?id=oI5rz7RpJkE
-136,6A1KnBQ3C4i,Applying SoftTriple Loss for Supervised Language Model Fine Tuning,,,,,/pdf?id=6A1KnBQ3C4i,,,,,,,,,,,,,Anonymous,/forum?id=6A1KnBQ3C4i
-137,vCZJ9Lsonbr,A Dataset for Cross-Domain Reasoning via Template Filling,,,,,/pdf?id=vCZJ9Lsonbr,,,,,,,,,,,,,Anonymous,/forum?id=vCZJ9Lsonbr
-138,myR1JFrsAyf,Original or Translated? A Causal Analysis of the Impact of Translationese on Machine Translation Performance,,,,,/pdf?id=myR1JFrsAyf,,,,,,,,,,,,,Anonymous,/forum?id=myR1JFrsAyf
-139,_R7UMusdRsc,"Re2G: Retrieve, Rerank, Generate",,,,,/pdf?id=_R7UMusdRsc,,,,,,,,,,,,,Anonymous,/forum?id=_R7UMusdRsc
-140,hVMTX-VI0Os,Cross-document Misinformation Detection based on Event Graph Reasoning,,,,,/pdf?id=hVMTX-VI0Os,,,,,,,,,,,,,Anonymous,/forum?id=hVMTX-VI0Os
-141,ec9cpZPy5g5,Analyzing Gender Representation in Multilingual Models,,,,,/pdf?id=ec9cpZPy5g5,,,,,,,,,,,,,Anonymous,/forum?id=ec9cpZPy5g5
-142,5vIHjwJQ5gd,Simple Local Attentions Remain Competitive for Long-Context Tasks,,,,,/pdf?id=5vIHjwJQ5gd,,,,,,,,,,,,,Anonymous,/forum?id=5vIHjwJQ5gd
-143,NYmf7gXUxEp,Unsupervised Sentence Simplification via Dependency Parsing,,,,,/pdf?id=NYmf7gXUxEp,,,,,,,,,,,,,Anonymous,/forum?id=NYmf7gXUxEp
-144,OXqk4rKn9LT,Learning Cross-Lingual IR from an English Retriever,,,,,/pdf?id=OXqk4rKn9LT,,,,,,,,,,,,,Anonymous,/forum?id=OXqk4rKn9LT
-145,O7myCI2gRxz,MedDistant19: A Challenging Benchmark for Distantly Supervised Biomedical Relation Extraction,,,,,/pdf?id=O7myCI2gRxz,,,,,,,,,,,,,Anonymous,/forum?id=O7myCI2gRxz
-146,AY2bywSJyHt,Knowledge-Grounded Dialogue Generation with a Unified Knowledge Representation,,,,,/pdf?id=AY2bywSJyHt,,,,,,,,,,,,,Anonymous,/forum?id=AY2bywSJyHt
-147,VjqE1LTyBTQ,On Leakage in Some Popular Benchmarks on Graphs,,,,,/pdf?id=VjqE1LTyBTQ,,,,,,,,,,,,,Anonymous,/forum?id=VjqE1LTyBTQ
-148,sINbaZ78joE,Multi-Task End-to-End Training Improves Conversational Recommendation,,,,,/pdf?id=sINbaZ78joE,,,,,,,,,,,,,Anonymous,/forum?id=sINbaZ78joE
-149,8cwJDZ1VezG,Evidentiality-guided Generation for Knowledge-Intensive NLP Tasks,,,,,/pdf?id=8cwJDZ1VezG,,,,,,,,,,,,,Anonymous,/forum?id=8cwJDZ1VezG
-150,_MI2TODL0Hp,Challenges in Generalization in Open Domain Question Answering,,,,,/pdf?id=_MI2TODL0Hp,,,,,,,,,,,,,Anonymous,/forum?id=_MI2TODL0Hp
-151,c6XVYvJR9ZI,Towards Personalized Intelligence at Scale,,,,,/pdf?id=c6XVYvJR9ZI,,,,,,,,,,,,,Anonymous,/forum?id=c6XVYvJR9ZI
-152,dWjknwjRtZ0,End-to-end Dense Video Captioning as Sequence Generation,,,,,/pdf?id=dWjknwjRtZ0,,,,,,,,,,,,,Anonymous,/forum?id=dWjknwjRtZ0
-153,Dye-_x--S_y,PROMPT WAYWARDNESS: The Curious Case of Discretized Interpretation of Continuous Prompts,,,,,/pdf?id=Dye-_x--S_y,,,,,,,,,,,,,Anonymous,/forum?id=Dye-_x--S_y
-154,_q_aybC1ZS3,Semantically Informed Slang Interpretation,,,,,/pdf?id=_q_aybC1ZS3,,,,,,,,,,,,,Anonymous,/forum?id=_q_aybC1ZS3
-155,3ffY9B-oiAm,VEE-BERT: Accelerating BERT Inference for Named Entity Recognition via Vote Early Exiting,,,,,/pdf?id=3ffY9B-oiAm,,,,,,,,,,,,,Anonymous,/forum?id=3ffY9B-oiAm
-156,YTxDTt2aPnF,Unsupervised Domain Adaptation for Event Detection via Meta Self-Paced Learning,,,,,/pdf?id=YTxDTt2aPnF,,,,,,,,,,,,,Anonymous,/forum?id=YTxDTt2aPnF
-157,y2JTDJjhthn,PRIMERA: Pyramid-based Masked Sentence Pre-training for Multi-document Summarization,,,,,/pdf?id=y2JTDJjhthn,,,,,,,,,,,,,Anonymous,/forum?id=y2JTDJjhthn
-158,acG8o1SAFc2,From Stance to Concern: Adaptation of Propositional Analysis to New Tasks and Domains,,,,,/pdf?id=acG8o1SAFc2,,,,,,,,,,,,,Anonymous,/forum?id=acG8o1SAFc2
-159,o_PVsoXEC46,Generated Knowledge Prompting for Commonsense Reasoning,,,,,/pdf?id=o_PVsoXEC46,,,,,,,,,,,,,Anonymous,/forum?id=o_PVsoXEC46
-160,TBimhW-8Fk6,A Simple But Powerful Graph Encoder for Temporal Knowledge Graph Completion,,,,,/pdf?id=TBimhW-8Fk6,,,,,,,,,,,,,Anonymous,/forum?id=TBimhW-8Fk6
-161,VKrHeIorbiv,CONQRR: Conversational Query Rewriting for Retrieval with Reinforcement Learning,,,,,/pdf?id=VKrHeIorbiv,,,,,,,,,,,,,Anonymous,/forum?id=VKrHeIorbiv
-162,76qMNL5EUjq,Logical Story Representations via FrameNet + Semantic Parsing,,,,,/pdf?id=76qMNL5EUjq,,,,,,,,,,,,,Anonymous,/forum?id=76qMNL5EUjq
-163,tuGA1H84mfp,Boosted Dense Retriever,,,,,/pdf?id=tuGA1H84mfp,,,,,,,,,,,,,Anonymous,/forum?id=tuGA1H84mfp
-164,nIHACCIqjpV,Analyzing Modality Robustness in Multimodal Sentiment Analysis,,,,,/pdf?id=nIHACCIqjpV,,,,,,,,,,,,,Anonymous,/forum?id=nIHACCIqjpV
-165,I_YteLtAYsM,CheckDST: Measuring Real-World Generalization of Dialogue State Tracking Performance,,,,,/pdf?id=I_YteLtAYsM,,,,,,,,,,,,,Anonymous,/forum?id=I_YteLtAYsM
-166,rc76vtp7L-h,Masked Measurement Prediction: Learning to Jointly Predict Quantities and Units from Textual Context,,,,,/pdf?id=rc76vtp7L-h,,,,,,,,,,,,,Anonymous,/forum?id=rc76vtp7L-h
-167,fh0cgJ0SLvv,On a Benefit of Masked Language Model Pretraining: Robustness to Simplicity Bias,,,,,/pdf?id=fh0cgJ0SLvv,,,,,,,,,,,,,Anonymous,/forum?id=fh0cgJ0SLvv
-168,oVTXcHphZ6F,"Detection, Disambiguation, Re-ranking: Autoregressive Entity Linking as a Multi-Task Problem",,,,,/pdf?id=oVTXcHphZ6F,,,,,,,,,,,,,Anonymous,/forum?id=oVTXcHphZ6F
-169,Uk35p3W3nPh,Crossmodal-3600: A Massively Multilingual Multimodal Evaluation Dataset,,,,,/pdf?id=Uk35p3W3nPh,,,,,,,,,,,,,Anonymous,/forum?id=Uk35p3W3nPh
-170,_LCSeFudYuR,Guiding Topic Flows in the Generative Chatbot by Enhancing the ConceptNet with the Conversation Corpora,,,,,/pdf?id=_LCSeFudYuR,,,,,,,,,,,,,Anonymous,/forum?id=_LCSeFudYuR
-171,tBmBpIA14Wl,Enhanced Protein-Protein Interactions Extraction from the Literature using Entity Type- and Position-aware Representation,,,,,/pdf?id=tBmBpIA14Wl,,,,,,,,,,,,,Anonymous,/forum?id=tBmBpIA14Wl
-172,HtE8HqiU1iX,MetaICL: Learning to Learn In Context,,,,,/pdf?id=HtE8HqiU1iX,,,,,,,,,,,,,Anonymous,/forum?id=HtE8HqiU1iX
-173,BE-GuWpMN55,Language Models for Code-switch Detection of te reo Māori and English in a Low-resource Setting,,,,,/pdf?id=BE-GuWpMN55,,,,,,,,,,,,,Anonymous,/forum?id=BE-GuWpMN55
-174,yc7WkAn9hob,Tree Knowledge Distillation for Compressing Transformer-Based Language Models,,,,,/pdf?id=yc7WkAn9hob,,,,,,,,,,,,,Anonymous,/forum?id=yc7WkAn9hob
-175,qQslHiBlEOX,Quantifying Adaptability in Pre-trained Language Models with 500 Tasks,,,,,/pdf?id=qQslHiBlEOX,,,,,,,,,,,,,Anonymous,/forum?id=qQslHiBlEOX
-176,-knOw9zLTMR,Visual Commonsense in Pretrained Unimodal and Multimodal Models,,,,,/pdf?id=-knOw9zLTMR,,,,,,,,,,,,,Anonymous,/forum?id=-knOw9zLTMR
-177,2bAHv09NM8l,KCD: Knowledge Walks and Textual Cues Enhanced Political Perspective Detection in News Media,,,,,/pdf?id=2bAHv09NM8l,,,,,,,,,,,,,Anonymous,/forum?id=2bAHv09NM8l
-178,wFLuWmwTVY1,Competition Dynamics in the Meme Ecosystem,,,,,/pdf?id=wFLuWmwTVY1,,,,,,,,,,,,,Anonymous,/forum?id=wFLuWmwTVY1
-179,Th85CkD5831,Cross-lingual Lifelong Learning,,,,,/pdf?id=Th85CkD5831,,,,,,,,,,,,,Anonymous,/forum?id=Th85CkD5831
-180,fXKOj7fOcTD,Integrating Empirical Knowledge into Multi-View Feature Attention Network for Disease Diagnosis,,,,,/pdf?id=fXKOj7fOcTD,,,,,,,,,,,,,Anonymous,/forum?id=fXKOj7fOcTD
-181,kVeV2zg8EV,Improving negation detection with negation-focused pre-training,,,,,/pdf?id=kVeV2zg8EV,,,,,,,,,,,,,Anonymous,/forum?id=kVeV2zg8EV
-182,GZI4ynYCCYT,DG2: Data Augmentation Through Document Grounded Dialogue Generation,,,,,/pdf?id=GZI4ynYCCYT,,,,,,,,,,,,,Anonymous,/forum?id=GZI4ynYCCYT
-183,J_o_J6B1wJ-,Can Multilinguality Benefit Non-autoregressive Machine Translation?,,,,,/pdf?id=J_o_J6B1wJ-,,,,,,,,,,,,,Anonymous,/forum?id=J_o_J6B1wJ-
-184,LdHAEuAKQQ,Causal Distillation for Language Models,,,,,/pdf?id=LdHAEuAKQQ,,,,,,,,,,,,,Anonymous,/forum?id=LdHAEuAKQQ
-185,0gAU9W2ScBs,Beyond Emotion: A Multi-Modal Dataset for Human Desire Understanding,,,,,/pdf?id=0gAU9W2ScBs,,,,,,,,,,,,,Anonymous,/forum?id=0gAU9W2ScBs
-186,3H91FatHfa,Word-level Stroke Trajectory Recovery for Handwriting with Gaussian Dynamic Time Warping,,,,,/pdf?id=3H91FatHfa,,,,,,,,,,,,,Anonymous,/forum?id=3H91FatHfa
-187,UdoZZGT6xz,Good Examples Make A Faster Learner: Simple Demonstration-based Learning for Low-resource NER,,,,,/pdf?id=UdoZZGT6xz,,,,,,,,,,,,,Anonymous,/forum?id=UdoZZGT6xz
-188,T-Wh9Ds-qk,Neighbors Are Not Strangers: Improving Non-Autoregressive Translation under Low-Frequency Lexical Constraints,,,,,/pdf?id=T-Wh9Ds-qk,,,,,,,,,,,,,Anonymous,/forum?id=T-Wh9Ds-qk
-189,Hw_24T72STY,Balancing the Style-Content Trade-Off in Sentiment Transfer UsingPolarity-Aware Denoising,,,,,/pdf?id=Hw_24T72STY,,,,,,,,,,,,,Anonymous,/forum?id=Hw_24T72STY
-190,jv-6ampZ15,Rebuild and Ensemble: Exploring Defense Against Text Adversaries,,,,,/pdf?id=jv-6ampZ15,,,,,,,,,,,,,Anonymous,/forum?id=jv-6ampZ15
-191,faiJDv-u1i,KNN-BERT: Fine-Tuning Pre-Trained Models with KNN Classifier,,,,,/pdf?id=faiJDv-u1i,,,,,,,,,,,,,Anonymous,/forum?id=faiJDv-u1i
-192,ZYhBVKekfnW,Mosaic Augmentation for Text: Cropping and Collaging as Cross-Domain Techniques,,,,,/pdf?id=ZYhBVKekfnW,,,,,,,,,,,,,Anonymous,/forum?id=ZYhBVKekfnW
-193,FitLLp-Jwa,Progressive Class Semantic Matching for Semi-supervised Text Classification,,,,,/pdf?id=FitLLp-Jwa,,,,,,,,,,,,,Anonymous,/forum?id=FitLLp-Jwa
-194,WDHOVLFtGkO,BERT Learns to Teach: Knowledge Distillation with Meta Learning,,,,,/pdf?id=WDHOVLFtGkO,,,,,,,,,,,,,Anonymous,/forum?id=WDHOVLFtGkO
-195,iYsvE50zOL,Addressing Segmentation Ambiguity in Neural Linguistic Steganography,,,,,/pdf?id=iYsvE50zOL,,,,,,,,,,,,,Anonymous,/forum?id=iYsvE50zOL
-196,rKkRorMuKFY,Topic-controllable Abstractive Summarization,,,,,/pdf?id=rKkRorMuKFY,,,,,,,,,,,,,Anonymous,/forum?id=rKkRorMuKFY
-197,03-jwvIDYf,SemAttack: Natural Textual Attacks via Different Semantic Spaces,,,,,/pdf?id=03-jwvIDYf,,,,,,,,,,,,,Anonymous,/forum?id=03-jwvIDYf
-198,nF4l_-qSDtq,HIE-SQL: History Information Enhanced Network for Context-Dependent Text-to-SQL Semantic Parsing,,,,,/pdf?id=nF4l_-qSDtq,,,,,,,,,,,,,Anonymous,/forum?id=nF4l_-qSDtq
-199,N_ENe9EJzj,Data Augmentation for Biomedical Factoid Question Answering,,,,,/pdf?id=N_ENe9EJzj,,,,,,,,,,,,,Anonymous,/forum?id=N_ENe9EJzj
-200,f0KsTiVPZWZ,Is More Data Better? Using Transformers-Based Active Learning for Efficient and Effective Detection of Abusive Language,,,,,/pdf?id=f0KsTiVPZWZ,,,,,,,,,,,,,Anonymous,/forum?id=f0KsTiVPZWZ
-201,jIzuQcXZ74U,LMTurk: Few-Shot Learners as Crowdsourcing Workers,,,,,/pdf?id=jIzuQcXZ74U,,,,,,,,,,,,,Anonymous,/forum?id=jIzuQcXZ74U
-202,PgcGLPyh8f,An MRC Framework for Semantic Role Labeling,,,,,/pdf?id=PgcGLPyh8f,,,,,,,,,,,,,Anonymous,/forum?id=PgcGLPyh8f
-203,pBgzoJqVr6,Learning Non-Autoregressive Models from Search for Unsupervised Sentence Summarization,,,,,/pdf?id=pBgzoJqVr6,,,,,,,,,,,,,Anonymous,/forum?id=pBgzoJqVr6
-204,3eNATGzQIK7,DEGREE: A Data-Efficient Generation-Based Event Extraction Model,,,,,/pdf?id=3eNATGzQIK7,,,,,,,,,,,,,Anonymous,/forum?id=3eNATGzQIK7
-205,LBTF60vGUfH,Faster Nearest Neighbor Machine Translation,,,,,/pdf?id=LBTF60vGUfH,,,,,,,,,,,,,Anonymous,/forum?id=LBTF60vGUfH
-206,iqgS95plUN,Improving both domain robustness and domain adaptability in machine translation,,,,,/pdf?id=iqgS95plUN,,,,,,,,,,,,,Anonymous,/forum?id=iqgS95plUN
-207,TVsyDo9hbX,Divide and Conquer: Text Semantic Matching with Disentangled Keywords and Intents,,,,,/pdf?id=TVsyDo9hbX,,,,,,,,,,,,,Anonymous,/forum?id=TVsyDo9hbX
-208,zbz_FmoDRkV,Defending against Backdoor Attacks in Natural Language Generation,,,,,/pdf?id=zbz_FmoDRkV,,,,,,,,,,,,,Anonymous,/forum?id=zbz_FmoDRkV
-209,U3XEltFKh2q,MANGO: Enhancing the Robustness of VQA Models via Adversarial Noise Generation,,,,,/pdf?id=U3XEltFKh2q,,,,,,,,,,,,,Anonymous,/forum?id=U3XEltFKh2q
-210,_nY7qzxZoT,Exploring Example Selection for Few-shot Text-to-SQL Semantic Parsing,,,,,/pdf?id=_nY7qzxZoT,,,,,,,,,,,,,Anonymous,/forum?id=_nY7qzxZoT
-211,bzqte0FZQH,Toward Automatic Misinformation Detection Utilizing Fact-checked Information,,,,,/pdf?id=bzqte0FZQH,,,,,,,,,,,,,Anonymous,/forum?id=bzqte0FZQH
-212,X0FT-mSssJ,ANNA: Enhanced Language Representation for Question Answering,,,,,/pdf?id=X0FT-mSssJ,,,,,,,,,,,,,Anonymous,/forum?id=X0FT-mSssJ
-213,v3HB2E5FEgd,Generating Scientific Claims for Zero-Shot Scientific Fact Checking,,,,,/pdf?id=v3HB2E5FEgd,,,,,,,,,,,,,Anonymous,/forum?id=v3HB2E5FEgd
-214,lVdtKciDMGt,Do BERTs Learn to Use Browser User Interface? Exploring Multi-Step Tasks with Unified Vision-and-Language BERTs,,,,,/pdf?id=lVdtKciDMGt,,,,,,,,,,,,,Anonymous,/forum?id=lVdtKciDMGt
-215,9HhJMv0h_pU,The Algorithmic Inflection and Morphological Variability of Russian,,,,,/pdf?id=9HhJMv0h_pU,,,,,,,,,,,,,Anonymous,/forum?id=9HhJMv0h_pU
-216,iP2cWgCQz3,Latent Group Dropout for Multilingual and Multidomain Machine Translation,,,,,/pdf?id=iP2cWgCQz3,,,,,,,,,,,,,Anonymous,/forum?id=iP2cWgCQz3
-217,AC8P4mj14AM,ITA: Image-Text Alignments for Multi-Modal Named Entity Recognition,,,,,/pdf?id=AC8P4mj14AM,,,,,,,,,,,,,Anonymous,/forum?id=AC8P4mj14AM
-218,VwOB2V9ybT,Detection and Mitigation of Political Bias in Natural Language Processing: A Literature Review,,,,,/pdf?id=VwOB2V9ybT,,,,,,,,,,,,,Anonymous,/forum?id=VwOB2V9ybT
-219,y42xxJ_xx8,CL-ReKD: Cross-lingual Knowledge Distillation for Multilingual Retrieval Question Answering,,,,,/pdf?id=y42xxJ_xx8,,,,,,,,,,,,,Anonymous,/forum?id=y42xxJ_xx8
-220,EtZ9h4Lqs5-,A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for African News Translation,,,,,/pdf?id=EtZ9h4Lqs5-,,,,,,,,,,,,,Anonymous,/forum?id=EtZ9h4Lqs5-
-221,Isf6O2t_99,Enhancing Robustness in Aspect-based Sentiment Analysis by Better Exploiting Data Augmentation,,,,,/pdf?id=Isf6O2t_99,,,,,,,,,,,,,Anonymous,/forum?id=Isf6O2t_99
-222,VBZCrsaUpsM,Robust (Controlled) Table-to-Text Generation with Structure-Aware Equivariance Learning,,,,,/pdf?id=VBZCrsaUpsM,,,,,,,,,,,,,Anonymous,/forum?id=VBZCrsaUpsM
-223,kWmg7pTa4sN,It's What You Say and How You Say It: Exploring Textual and Audio Features for Podcast Data,,,,,/pdf?id=kWmg7pTa4sN,,,,,,,,,,,,,Anonymous,/forum?id=kWmg7pTa4sN
-224,v-bnB6VcX_,Improving language models fine-tuning with representation consistency targets,,,,,/pdf?id=v-bnB6VcX_,,,,,,,,,,,,,Anonymous,/forum?id=v-bnB6VcX_
-225,yQvObmRwUAP,Exploiting Coreference and Schema Structure for Document-level Event Extraction,,,,,/pdf?id=yQvObmRwUAP,,,,,,,,,,,,,Anonymous,/forum?id=yQvObmRwUAP
-226,zq8SarAI9Bg,"The Common Readability Formula & Five Adjusted Readability Formulas for Text Simplification, Medical Documents and Other General Uses",,,,,/pdf?id=zq8SarAI9Bg,,,,,,,,,,,,,Anonymous,/forum?id=zq8SarAI9Bg
-227,6wKqI-x0Vb,Sonnet Generation by Training on Non-poetic Texts with Discourse-level Coherence and Poetic Features,,,,,/pdf?id=6wKqI-x0Vb,,,,,,,,,,,,,Anonymous,/forum?id=6wKqI-x0Vb
-228,fRhlVm4beJ,Learning from Mental Disorder Self-tests: Multi-head Siamese Network for Few-shot Knowledge Learning,,,,,/pdf?id=fRhlVm4beJ,,,,,,,,,,,,,Anonymous,/forum?id=fRhlVm4beJ
-229,HgKHz57ExP,Knowledge Base Index Compression via Dimensionality and Precision Reduction,,,,,/pdf?id=HgKHz57ExP,,,,,,,,,,,,,Anonymous,/forum?id=HgKHz57ExP
-230,GnlD4Dzr1t,Are Pretrained Multilingual Models Equally Fair Across Languages?,,,,,/pdf?id=GnlD4Dzr1t,,,,,,,,,,,,,Anonymous,/forum?id=GnlD4Dzr1t
-231,y7fHwbLnr_C,KALA: Knowledge-Augmented Language Model Adaptation,,,,,/pdf?id=y7fHwbLnr_C,,,,,,,,,,,,,Anonymous,/forum?id=y7fHwbLnr_C
-232,0psbTwsqtox,Shapeshifter and the impact of representation in classification,,,,,/pdf?id=0psbTwsqtox,,,,,,,,,,,,,Anonymous,/forum?id=0psbTwsqtox
-233,ZZcjPRp5F1q,Code Summarization: Do Transformers Really Understand Code?,,,,,/pdf?id=ZZcjPRp5F1q,,,,,,,,,,,,,Anonymous,/forum?id=ZZcjPRp5F1q
-234,jTm9F6FB63z,Exploring Neural Models for Query-Focused Summarization,,,,,/pdf?id=jTm9F6FB63z,,,,,,,,,,,,,Anonymous,/forum?id=jTm9F6FB63z
-235,9ZfOipB8_kb,KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation,,,,,/pdf?id=9ZfOipB8_kb,,,,,,,,,,,,,Anonymous,/forum?id=9ZfOipB8_kb
-236,l1rk8Or3_k,QAFactEval: Improved QA-Based Factual Consistency Evaluation for Summarization,,,,,/pdf?id=l1rk8Or3_k,,,,,,,,,,,,,Anonymous,/forum?id=l1rk8Or3_k
-237,T4mIFZTlEF,Weakly Supervised Text-to-SQL Parsing through Question Decomposition,,,,,/pdf?id=T4mIFZTlEF,,,,,,,,,,,,,Anonymous,/forum?id=T4mIFZTlEF
-238,BYZDlNXLKl4,JointLK: Joint Reasoning with Language Models and Knowledge Graphs for Commonsense Question Answering,,,,,/pdf?id=BYZDlNXLKl4,,,,,,,,,,,,,Anonymous,/forum?id=BYZDlNXLKl4
-239,GSjFaaRWQZ0,Generate it. A simple method for End-to-End Relation Extraction,,,,,/pdf?id=GSjFaaRWQZ0,,,,,,,,,,,,,Anonymous,/forum?id=GSjFaaRWQZ0
-240,aEYu7N9GNgV,BOOKSUM: A Collection of Datasets for Long-form Narrative Summarization,,,,,/pdf?id=aEYu7N9GNgV,,,,,,,,,,,,,Anonymous,/forum?id=aEYu7N9GNgV
-241,gKbTek8Ewj,Learning to Predict Persona Information for Dialogue Personalization without Explicit Persona Description,,,,,/pdf?id=gKbTek8Ewj,,,,,,,,,,,,,Anonymous,/forum?id=gKbTek8Ewj
-242,9D65hK833L,Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis,,,,,/pdf?id=9D65hK833L,,,,,,,,,,,,,Anonymous,/forum?id=9D65hK833L
-243,cLe29FcNAKb,Non-Autoregressive Neural Machine Translation with Consistency Regularization Optimized Variational Framework,,,,,/pdf?id=cLe29FcNAKb,,,,,,,,,,,,,Anonymous,/forum?id=cLe29FcNAKb
-244,O1KYtyGu_0,A Transformer-based Threshold-Free Framework for Multi-Intent NLU,,,,,/pdf?id=O1KYtyGu_0,,,,,,,,,,,,,Anonymous,/forum?id=O1KYtyGu_0
-245,CqvI1aRa0-,When Does Syntax Mediate Neural Language Model Performance? Evidence from Dropout Probes,,,,,/pdf?id=CqvI1aRa0-,,,,,,,,,,,,,Anonymous,/forum?id=CqvI1aRa0-
-246,CcaOiLPJfZY,Expanding Pretrained Models to Thousands More Languages via Lexicon-based Adaptation,,,,,/pdf?id=CcaOiLPJfZY,,,,,,,,,,,,,Anonymous,/forum?id=CcaOiLPJfZY
-247,PzwuKQAeHmH,RED-ACE: Robust Error Detection for ASR using Confidence Embeddings,,,,,/pdf?id=PzwuKQAeHmH,,,,,,,,,,,,,Anonymous,/forum?id=PzwuKQAeHmH
-248,TkDA4dXNy8,Emphasis on Easy Samples for Distantly Supervised Relation Extraction,,,,,/pdf?id=TkDA4dXNy8,,,,,,,,,,,,,Anonymous,/forum?id=TkDA4dXNy8
-249,h0tPIek3cK,Seq-GAN-BERT：Sequence Generative Adversarial Learning for Low-resource Name Entity Recognition,,,,,/pdf?id=h0tPIek3cK,,,,,,,,,,,,,Anonymous,/forum?id=h0tPIek3cK
-250,8Mc8UmaYBa,Don’t Forget Cheap Training Signals Before Building Unsupervised Bilingual Word Embeddings,,,,,/pdf?id=8Mc8UmaYBa,,,,,,,,,,,,,Anonymous,/forum?id=8Mc8UmaYBa
-251,Drn7scCUrM,Towards Coherent and Captivating Topic Transitions in Knowledge-Grounded Conversations,,,,,/pdf?id=Drn7scCUrM,,,,,,,,,,,,,Anonymous,/forum?id=Drn7scCUrM
-252,ZwxOAddSH5,A Federated Approach to Predict Emojis in Hindi Tweets,,,,,/pdf?id=ZwxOAddSH5,,,,,,,,,,,,,Anonymous,/forum?id=ZwxOAddSH5
-253,IPjj472JB4,CLoCE:Contrastive Learning Optimize Continous Prompt Embedding Space in Relation Extraction,,,,,/pdf?id=IPjj472JB4,,,,,,,,,,,,,Anonymous,/forum?id=IPjj472JB4
-254,V0-0TzFvQaq,DialogueScore: Evaluating Responses in Task-Oriented Dialogue,,,,,/pdf?id=V0-0TzFvQaq,,,,,,,,,,,,,Anonymous,/forum?id=V0-0TzFvQaq
-255,p_-ZgMkRD3,Low Resource Style Transfer via Domain Adaptive Meta Learning,,,,,/pdf?id=p_-ZgMkRD3,,,,,,,,,,,,,Anonymous,/forum?id=p_-ZgMkRD3
-256,WOQU5QlEw6,An Isotropy Analysis in the Multilingual BERT Embedding Space,,,,,/pdf?id=WOQU5QlEw6,,,,,,,,,,,,,Anonymous,/forum?id=WOQU5QlEw6
-257,5DErzHehx0,On the current state of reproducibility and reporting of uncertainty for Aspect-based Sentiment Analysis,,,,,/pdf?id=5DErzHehx0,,,,,,,,,,,,,Anonymous,/forum?id=5DErzHehx0
-258,omlP5LEknHy,A Dual-Channel Framework for Sarcasm Recognition by Detecting Sentiment Conflict,,,,,/pdf?id=omlP5LEknHy,,,,,,,,,,,,,Anonymous,/forum?id=omlP5LEknHy
-259,l9H3-sPAnY,Mukayese: Turkish NLP Strikes Back,,,,,/pdf?id=l9H3-sPAnY,,,,,,,,,,,,,Anonymous,/forum?id=l9H3-sPAnY
-260,BIA1x03Mnv,Task Formulation Matters When Learning Continuously: A Case Study in Visual Question Answering,,,,,/pdf?id=BIA1x03Mnv,,,,,,,,,,,,,Anonymous,/forum?id=BIA1x03Mnv
-261,5Jcma3gBao,Auto-regressive Text Generation with Pre-Trained Language Models: An Empirical Study on Question-type Short Text Generation,,,,,/pdf?id=5Jcma3gBao,,,,,,,,,,,,,Anonymous,/forum?id=5Jcma3gBao
-262,jMI7ZlAC_J,Investigating Math Word Problems using Pretrained Multilingual Language Models,,,,,/pdf?id=jMI7ZlAC_J,,,,,,,,,,,,,Anonymous,/forum?id=jMI7ZlAC_J
-263,CPzwzb9eRZu,An Empirical Study on Cross-Lingual and Cross-Domain Transfer for Legal Judgment Prediction,,,,,/pdf?id=CPzwzb9eRZu,,,,,,,,,,,,,Anonymous,/forum?id=CPzwzb9eRZu
-264,V9kbHITRY_4,WECHSEL: Effective initialization of subword embeddings for cross-lingual transfer of monolingual language models,,,,,/pdf?id=V9kbHITRY_4,,,,,,,,,,,,,Anonymous,/forum?id=V9kbHITRY_4
-265,xlAeueEL97g,When More is not Necessary Better: Multilingual Auxiliary Tasks for Zero-Shot Cross-Lingual Transfer of Hate Speech Detection Models,,,,,/pdf?id=xlAeueEL97g,,,,,,,,,,,,,Anonymous,/forum?id=xlAeueEL97g
-266,oyxcYevum5Z,Weakly Supervised Turn-level Engagingness Evaluator for Dialogues,,,,,/pdf?id=oyxcYevum5Z,,,,,,,,,,,,,Anonymous,/forum?id=oyxcYevum5Z
-267,R_OaHG1juW,Investigating Zero- and Few-shot Generalization in Fact Verification,,,,,/pdf?id=R_OaHG1juW,,,,,,,,,,,,,Anonymous,/forum?id=R_OaHG1juW
-268,RDCgxEa1lgC,Schema Encoding for Transferable Dialogue State Tracking,,,,,/pdf?id=RDCgxEa1lgC,,,,,,,,,,,,,Anonymous,/forum?id=RDCgxEa1lgC
-269,Y5wI2k1-knQ,Measuring and Improving Semantic Diversity of Dialogue Generation,,,,,/pdf?id=Y5wI2k1-knQ,,,,,,,,,,,,,Anonymous,/forum?id=Y5wI2k1-knQ
-270,NMCnFK_ZYUR,What do tokens know about their characters and how do they know it?,,,,,/pdf?id=NMCnFK_ZYUR,,,,,,,,,,,,,Anonymous,/forum?id=NMCnFK_ZYUR
-271,5FENjGCL0Eu,Meta Learning for Natural Language Processing: A Survey,,,,,/pdf?id=5FENjGCL0Eu,,,,,,,,,,,,,Anonymous,/forum?id=5FENjGCL0Eu
-272,wHlujJiFYfj,Event Detection via Derangement Reading Comprehension,,,,,/pdf?id=wHlujJiFYfj,,,,,,,,,,,,,Anonymous,/forum?id=wHlujJiFYfj
-273,C1NSnnXEMuU,CSD: A Chinese Dataset for Subtext Problem,,,,,/pdf?id=C1NSnnXEMuU,,,,,,,,,,,,,Anonymous,/forum?id=C1NSnnXEMuU
-274,qgQiDQatk7,ReadE: Learning Relation-Dependent Entity Representation for Knowledge Graph Completion,,,,,/pdf?id=qgQiDQatk7,,,,,,,,,,,,,Anonymous,/forum?id=qgQiDQatk7
-275,CJCLBc4zVhB,Empathic Machines: Using Intermediate Features as Levers to Emulate Emotions in Text-To-Speech Systems,,,,,/pdf?id=CJCLBc4zVhB,,,,,,,,,,,,,Anonymous,/forum?id=CJCLBc4zVhB
-276,-5R9TsypRrW,A Two-Stage Approach towards Generalization in Knowledge Base Question Answering,,,,,/pdf?id=-5R9TsypRrW,,,,,,,,,,,,,Anonymous,/forum?id=-5R9TsypRrW
-277,wFCEfmAFNHY,Efficient Hierarchical Domain Adaptation for Pretrained Language Models,,,,,/pdf?id=wFCEfmAFNHY,,,,,,,,,,,,,Anonymous,/forum?id=wFCEfmAFNHY
-278,iDLrO042IB,Answering Open-Domain Multi-Answer Questions via a Recall-then-Verify Framework,,,,,/pdf?id=iDLrO042IB,,,,,,,,,,,,,Anonymous,/forum?id=iDLrO042IB
-279,lQn89WLbBzh,Representation Learning for Conversational Data using Discourse Mutual Information Maximization,,,,,/pdf?id=lQn89WLbBzh,,,,,,,,,,,,,Anonymous,/forum?id=lQn89WLbBzh
-280,V58-YGdAQFZ,Generalized Quantifiers as a Source of Error in Multilingual NLU Benchmarks,,,,,/pdf?id=V58-YGdAQFZ,,,,,,,,,,,,,Anonymous,/forum?id=V58-YGdAQFZ
-281,ntULSVWpj8,Meet Your Favorite Character: Open-domain Chatbot Mimicking Fictional Characters with only a Few Utterances,,,,,/pdf?id=ntULSVWpj8,,,,,,,,,,,,,Anonymous,/forum?id=ntULSVWpj8
-282,DQxrL9ypmEe,Unsupervised Preference-Aware Language Identification,,,,,/pdf?id=DQxrL9ypmEe,,,,,,,,,,,,,Anonymous,/forum?id=DQxrL9ypmEe
-283,Ol9GPe9iqPf,Improving Contextual Representation with Gloss Regularized Pre-training,,,,,/pdf?id=Ol9GPe9iqPf,,,,,,,,,,,,,Anonymous,/forum?id=Ol9GPe9iqPf
-284,6iua-pogy7R,Why are NLP Models Fumbling at Elementary Math? A Survey of Automatic Word Problem Solvers,,,,,/pdf?id=6iua-pogy7R,,,,,,,,,,,,,Anonymous,/forum?id=6iua-pogy7R
-285,hKBRTZBaggi,When does Parameter-Efficient Transfer Learning Work for Machine Translation?,,,,,/pdf?id=hKBRTZBaggi,,,,,,,,,,,,,Anonymous,/forum?id=hKBRTZBaggi
-286,OzC_YcPn2QA,CodeBPE: Investigating Subtokenization Options for Large Language Model Pretraining on Source Code,,,,,/pdf?id=OzC_YcPn2QA,,,,,,,,,,,,,Anonymous,/forum?id=OzC_YcPn2QA
-287,Woi12EDR_fj,DISARM: Detecting the Victims Targeted by Harmful Memes,,,,,/pdf?id=Woi12EDR_fj,,,,,,,,,,,,,Anonymous,/forum?id=Woi12EDR_fj
-288,DPeMy4LFpal,Realistic Zero-Shot Cross-Lingual Transfer in Legal Topic Classification,,,,,/pdf?id=DPeMy4LFpal,,,,,,,,,,,,,Anonymous,/forum?id=DPeMy4LFpal
-289,7q-tsYesY2p,Conventional clustering-based method for event detection on social networks,,,,,/pdf?id=7q-tsYesY2p,,,,,,,,,,,,,Anonymous,/forum?id=7q-tsYesY2p
-290,lQ7FDmOFL1,Lexicon based Fine-tuning of Multilingual Language Models for Sentiment Analysis of Low-resource Languages,,,,,/pdf?id=lQ7FDmOFL1,,,,,,,,,,,,,Anonymous,/forum?id=lQ7FDmOFL1
-291,UfE8r1gSnbc,How to be Helpful on Online Support Forums?,,,,,/pdf?id=UfE8r1gSnbc,,,,,,,,,,,,,Anonymous,/forum?id=UfE8r1gSnbc
-292,5hEUhYxlIY2,GREENER: Graph Neural Networks for News Media Profiling,,,,,/pdf?id=5hEUhYxlIY2,,,,,,,,,,,,,Anonymous,/forum?id=5hEUhYxlIY2
-293,J-n7vm7_fK,"AMRize, then Parse! Enhancing AMR Parsing with PseudoAMR Data",,,,,/pdf?id=J-n7vm7_fK,,,,,,,,,,,,,Anonymous,/forum?id=J-n7vm7_fK
-294,TcbIyMYNNbj,FRUIT: Faithfully Reflecting Updated Information in Text,,,,,/pdf?id=TcbIyMYNNbj,,,,,,,,,,,,,Anonymous,/forum?id=TcbIyMYNNbj
-295,mdAhC06ICCb,Early Guessing for Dialect Identification,,,,,/pdf?id=mdAhC06ICCb,,,,,,,,,,,,,Anonymous,/forum?id=mdAhC06ICCb
-296,XoX-pZFp_Zl,BAD-X: Bilingual Adapters Improve Zero-Shot Cross-Lingual Transfer,,,,,/pdf?id=XoX-pZFp_Zl,,,,,,,,,,,,,Anonymous,/forum?id=XoX-pZFp_Zl
-297,5_9JXdWdysn,Pre-trained language models evaluating themselves - A comparative study,,,,,/pdf?id=5_9JXdWdysn,,,,,,,,,,,,,Anonymous,/forum?id=5_9JXdWdysn
-298,HKHYga4bGhT,Robin: A Novel Online Suicidal Text Corpus of Substantial Breadth and Scale,,,,,/pdf?id=HKHYga4bGhT,,,,,,,,,,,,,Anonymous,/forum?id=HKHYga4bGhT
-299,hbpCn_hxFxC,Multi-Stage Pre-Training for Math-Understanding: μ2(AL)BERT,,,,,/pdf?id=hbpCn_hxFxC,,,,,,,,,,,,,Anonymous,/forum?id=hbpCn_hxFxC
-300,z8c-HLryN5U,Batch-Softmax Contrastive Loss for Pairwise Sentence Scoring Tasks,,,,,/pdf?id=z8c-HLryN5U,,,,,,,,,,,,,Anonymous,/forum?id=z8c-HLryN5U
-301,wtN0E2OAraT,Falsesum: Generating Document-level NLI Examples for Recognizing Factual Inconsistency in Summarization,,,,,/pdf?id=wtN0E2OAraT,,,,,,,,,,,,,Anonymous,/forum?id=wtN0E2OAraT
-302,bZnoJo7-58T,"When a sentence does not introduce a discourse entity, Transformer-based models still often refer to it",,,,,/pdf?id=bZnoJo7-58T,,,,,,,,,,,,,Anonymous,/forum?id=bZnoJo7-58T
-303,wbGYjoUHMZ-,Conceptualizing Treatment Leakage in Text-based Causal Inference,,,,,/pdf?id=wbGYjoUHMZ-,,,,,,,,,,,,,Anonymous,/forum?id=wbGYjoUHMZ-
-304,Zaf-WBZM9H6,Visual content classifier for cultural heritage repositories,,,,,/pdf?id=Zaf-WBZM9H6,,,,,,,,,,,,,Anonymous,/forum?id=Zaf-WBZM9H6
-305,HlatErbyIMX,"Zombies Eat Brains, You are Safe: A Knowledge Infusion based Multitasking System for Sarcasm Detection in Meme",,,,,/pdf?id=HlatErbyIMX,,,,,,,,,,,,,Anonymous,/forum?id=HlatErbyIMX
-306,twgwH7lZj2_,"Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs",,,,,/pdf?id=twgwH7lZj2_,,,,,,,,,,,,,Anonymous,/forum?id=twgwH7lZj2_
-307,LINkFIdHsuZ,Improving Data Augmentation in Low-resource Question Answering with Active Learning in Multiple Stages,,,,,/pdf?id=LINkFIdHsuZ,,,,,,,,,,,,,Anonymous,/forum?id=LINkFIdHsuZ
-308,lU_OFbSmH8f,On the data requirements of probing,,,,,/pdf?id=lU_OFbSmH8f,,,,,,,,,,,,,Anonymous,/forum?id=lU_OFbSmH8f
-309,whyKc_QTL86,Improved grammatical error correction by ranking elementary edits,,,,,/pdf?id=whyKc_QTL86,,,,,,,,,,,,,Anonymous,/forum?id=whyKc_QTL86
-310,Y8xhvoui4cO,Improving Coherence of Language Model Generation with Latent Semantic State,,,,,/pdf?id=Y8xhvoui4cO,,,,,,,,,,,,,Anonymous,/forum?id=Y8xhvoui4cO
-311,eiTCK6FDs_N,Towards Understanding Large-Scale Discourse Structures in Pre-Trained and Fine-Tuned Language Models,,,,,/pdf?id=eiTCK6FDs_N,,,,,,,,,,,,,Anonymous,/forum?id=eiTCK6FDs_N
-312,fU-oy1PI4Xl,Measuring Context-Dependent Syntactic Information Across Layers,,,,,/pdf?id=fU-oy1PI4Xl,,,,,,,,,,,,,Anonymous,/forum?id=fU-oy1PI4Xl
-313,WBs58CEQDXj,Massive-scale Decoding for Text Generation using Lattices,,,,,/pdf?id=WBs58CEQDXj,,,,,,,,,,,,,Anonymous,/forum?id=WBs58CEQDXj
-314,W0qoUVgr2N9,Forecasting COVID-19 Caseloads Using Unsupervised Embedding Clusters of Social Media Posts,,,,,/pdf?id=W0qoUVgr2N9,,,,,,,,,,,,,Anonymous,/forum?id=W0qoUVgr2N9
-315,zwJGTYR9w13,Orthogonal Language and Task Adapters in Zero-Shot Cross-Lingual Transfer,,,,,/pdf?id=zwJGTYR9w13,,,,,,,,,,,,,Anonymous,/forum?id=zwJGTYR9w13
-316,y8JuO2FmOqN,Sense Embeddings are also Biased -- Evaluating Social Biases in Static and Contextualised Sense Embeddings,,,,,/pdf?id=y8JuO2FmOqN,,,,,,,,,,,,,Anonymous,/forum?id=y8JuO2FmOqN
-317,FFtK98WqJZa,Bilingual Lexicon Induction for Low-Resource Languages using Graph Matching via Optimal Transport,,,,,/pdf?id=FFtK98WqJZa,,,,,,,,,,,,,Anonymous,/forum?id=FFtK98WqJZa
-318,gDlEcjjqbVx,OneAligner: Zero-shot Cross-lingual Transfer with One Rich-Resource Language Pair for Low-Resource Sentence Retrieval,,,,,/pdf?id=gDlEcjjqbVx,,,,,,,,,,,,,Anonymous,/forum?id=gDlEcjjqbVx
-319,q0eySQ7OU07,Learning to Borrow– Relation Representation for Without-Mention Entity-Pairs for Knowledge Graph Completion,,,,,/pdf?id=q0eySQ7OU07,,,,,,,,,,,,,Anonymous,/forum?id=q0eySQ7OU07
-320,6HqDgYUCiqM,Slangvolution: A Causal Analysis of Semantic Change and Frequency Dynamics in Slang,,,,,/pdf?id=6HqDgYUCiqM,,,,,,,,,,,,,Anonymous,/forum?id=6HqDgYUCiqM
-321,j_ydETLwbsv,Looking Into the Black Box - How Are Idioms Processed in BERT?,,,,,/pdf?id=j_ydETLwbsv,,,,,,,,,,,,,Anonymous,/forum?id=j_ydETLwbsv
-322,6sXWzu3pWQE,Open Domain Response Generation Guided by Retrieved Conversations,,,,,/pdf?id=6sXWzu3pWQE,,,,,,,,,,,,,Anonymous,/forum?id=6sXWzu3pWQE
-323,ZdBAJ_wjgIn,Cross-Lingual Event Detection via Optimized Adversarial Training,,,,,/pdf?id=ZdBAJ_wjgIn,,,,,,,,,,,,,Anonymous,/forum?id=ZdBAJ_wjgIn
-324,4FHSEhaiCy,"Twitter-COMMs: Detecting Climate, COVID, and Military Multimodal Misinformation",,,,,/pdf?id=4FHSEhaiCy,,,,,,,,,,,,,Anonymous,/forum?id=4FHSEhaiCy
-325,MfCb1Xyopxf,Hardness Masking via Auto-Regressive Language Model,,,,,/pdf?id=MfCb1Xyopxf,,,,,,,,,,,,,Anonymous,/forum?id=MfCb1Xyopxf
-326,lXwSllWFAMK,Hybrid Semantic Type Representation for Zero-Shot Event Extraction,,,,,/pdf?id=lXwSllWFAMK,,,,,,,,,,,,,Anonymous,/forum?id=lXwSllWFAMK
-327,lkDt1ZHKaj7,Testing the Ability of Language Models to Interpret Figurative Language,,,,,/pdf?id=lkDt1ZHKaj7,,,,,,,,,,,,,Anonymous,/forum?id=lkDt1ZHKaj7
-328,xrNzov1EXao,"SSCAE: A Novel Semantic, Syntactic, and Context-Aware Natural Language Adversarial Example Generator",,,,,/pdf?id=xrNzov1EXao,,,,,,,,,,,,,Anonymous,/forum?id=xrNzov1EXao
-329,yd7uyR9_0iU,Continual Learning for Seq2Seq Generations with Transformer Calibration,,,,,/pdf?id=yd7uyR9_0iU,,,,,,,,,,,,,Anonymous,/forum?id=yd7uyR9_0iU
-330,Xs2rVn8mDOI,Inherently Explainable Reinforcement Learning in Natural Language,,,,,/pdf?id=Xs2rVn8mDOI,,,,,,,,,,,,,Anonymous,/forum?id=Xs2rVn8mDOI
-331,2vsYQS4ic6M,Polling Latent Opinions: A Method for Computational Sociolinguistics Using Transformer Language Models,,,,,/pdf?id=2vsYQS4ic6M,,,,,,,,,,,,,Anonymous,/forum?id=2vsYQS4ic6M
-332,cst0-LIBwku,Exact Paired Permutation Testing Algorithms for NLP Systems,,,,,/pdf?id=cst0-LIBwku,,,,,,,,,,,,,Anonymous,/forum?id=cst0-LIBwku
-333,LIs8IrSIUCd,Cross-stitched Multi-modal Encoders,,,,,/pdf?id=LIs8IrSIUCd,,,,,,,,,,,,,Anonymous,/forum?id=LIs8IrSIUCd
-334,-N3_r8zLTlL,Logical Satisfiability of Counterfactuals for Faithful Explanations in NLI,,,,,/pdf?id=-N3_r8zLTlL,,,,,,,,,,,,,Anonymous,/forum?id=-N3_r8zLTlL
-335,N4GAuW8r81Z,Extracting and Inferring Personal Attributes from Dialogue,,,,,/pdf?id=N4GAuW8r81Z,,,,,,,,,,,,,Anonymous,/forum?id=N4GAuW8r81Z
-336,HUW5H1n-ERu,Power Norm Based Lifelong Learning for Paraphrase Generations,,,,,/pdf?id=HUW5H1n-ERu,,,,,,,,,,,,,Anonymous,/forum?id=HUW5H1n-ERu
-337,F2dhh0WG_Gt,Paragraph-based Transformer Pretraining for Multi-Sentence Inference,,,,,/pdf?id=F2dhh0WG_Gt,,,,,,,,,,,,,Anonymous,/forum?id=F2dhh0WG_Gt
-338,r-Ku-qLRgVb,XQA-DST: Multi-Domain and Multi-Lingual Dialogue State Tracking,,,,,/pdf?id=r-Ku-qLRgVb,,,,,,,,,,,,,Anonymous,/forum?id=r-Ku-qLRgVb
-339,dIDQoALkjW_,Knowledge Based Template Machine Translation In Low-Resource Setting,,,,,/pdf?id=dIDQoALkjW_,,,,,,,,,,,,,Anonymous,/forum?id=dIDQoALkjW_
-340,VRDI2-ZmDZp,Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of Summaries,,,,,/pdf?id=VRDI2-ZmDZp,,,,,,,,,,,,,Anonymous,/forum?id=VRDI2-ZmDZp
-341,r6cH4hCr-n_,TraceNet: Tracing and Locating the Key Elements in Sentiment Analysis,,,,,/pdf?id=r6cH4hCr-n_,,,,,,,,,,,,,Anonymous,/forum?id=r6cH4hCr-n_
-342,KYj6NNlh2k0,Proposition-Level Clustering for Multi-Document Summarization,,,,,/pdf?id=KYj6NNlh2k0,,,,,,,,,,,,,Anonymous,/forum?id=KYj6NNlh2k0
-343,0oQTey2TEmP,On the Effectiveness of Quasi Character-Level Models for Machine Translation,,,,,/pdf?id=0oQTey2TEmP,,,,,,,,,,,,,Anonymous,/forum?id=0oQTey2TEmP
-344,WjQS-zVBOCJ,"Privacy, Interpretability, and Fairness in the Multilingual Space",,,,,/pdf?id=WjQS-zVBOCJ,,,,,,,,,,,,,Anonymous,/forum?id=WjQS-zVBOCJ
-345,RzAizH1aOtv,Evaluating Compositionality in Neural Models Using Arithmetic Expressions,,,,,/pdf?id=RzAizH1aOtv,,,,,,,,,,,,,Anonymous,/forum?id=RzAizH1aOtv
-346,eFGgjI4Wk-V,Residue-Based Natural Language Adversarial Attack Detection,,,,,/pdf?id=eFGgjI4Wk-V,,,,,,,,,,,,,Anonymous,/forum?id=eFGgjI4Wk-V
-347,PNUMO7p7SoC,Product Answer Generation from Heterogeneous Sources: A New Benchmark and Best Practices,,,,,/pdf?id=PNUMO7p7SoC,,,,,,,,,,,,,Anonymous,/forum?id=PNUMO7p7SoC
-348,JWT0D0HIXfI,A Multilingual Perspective Towards the Evaluation of Attribution Methods,,,,,/pdf?id=JWT0D0HIXfI,,,,,,,,,,,,,Anonymous,/forum?id=JWT0D0HIXfI
-349,nGyBrnYR9oL,Answer Uncertainty and Unanswerability in Multiple-Choice Machine Reading Comprehension,,,,,/pdf?id=nGyBrnYR9oL,,,,,,,,,,,,,Anonymous,/forum?id=nGyBrnYR9oL
-350,LrR-9tt62rw,An Encoder Attribution Analysis for Dense Passage Retriever in Open-Domain Question Answering,,,,,/pdf?id=LrR-9tt62rw,,,,,,,,,,,,,Anonymous,/forum?id=LrR-9tt62rw
-351,Pm1KGnRHV-e,Translated Texts Under the Lens: From Machine Translation Detection to Source Language Identification,,,,,/pdf?id=Pm1KGnRHV-e,,,,,,,,,,,,,Anonymous,/forum?id=Pm1KGnRHV-e
-352,_GYl3PcqzTY,On Systematic Style Differences between Unsupervised and Supervised MT and an Application for High-Resource Machine Translation,,,,,/pdf?id=_GYl3PcqzTY,,,,,,,,,,,,,Anonymous,/forum?id=_GYl3PcqzTY
-353,_KpPHn9ZoBR,Match made by BERT? Towards Interpretable Paper-Reviewer Assignments in NLP,,,,,/pdf?id=_KpPHn9ZoBR,,,,,,,,,,,,,Anonymous,/forum?id=_KpPHn9ZoBR
-354,Jaflbxb58j5,Guiding Neural Story Generation with Reader Models,,,,,/pdf?id=Jaflbxb58j5,,,,,,,,,,,,,Anonymous,/forum?id=Jaflbxb58j5
-355,uZaiKvl7C5p,Discriminative Models Can Still Outperform Generative Models in Aspect Based Sentiment Analysis,,,,,/pdf?id=uZaiKvl7C5p,,,,,,,,,,,,,Anonymous,/forum?id=uZaiKvl7C5p
-356,ZsKESql1Ykl,Investigating the saliency of sentiment expressions in aspect-based sentiment analysis,,,,,/pdf?id=ZsKESql1Ykl,,,,,,,,,,,,,Anonymous,/forum?id=ZsKESql1Ykl
-357,5moYSLDDnop,Unsupervised Slot Schema Induction for Task-oriented Dialog,,,,,/pdf?id=5moYSLDDnop,,,,,,,,,,,,,Anonymous,/forum?id=5moYSLDDnop
-358,-vK4uiJzmh,Label-guided Data Augmentation for Prompt-based Few Shot Learners,,,,,/pdf?id=-vK4uiJzmh,,,,,,,,,,,,,Anonymous,/forum?id=-vK4uiJzmh
-359,csAPyhhv2PE,Context-Aware Query Rewriting for Improving Users' Search Experience on E-commerce Websites,,,,,/pdf?id=csAPyhhv2PE,,,,,,,,,,,,,Anonymous,/forum?id=csAPyhhv2PE
-360,JhU9onUBeC,Multi2WOZ: A Robust Multilingual Dataset and Conversational Pretraining for Task-Oriented Dialog,,,,,/pdf?id=JhU9onUBeC,,,,,,,,,,,,,Anonymous,/forum?id=JhU9onUBeC
-361,DGyj3ClCJxd,Controlling the Focus of Pretrained Language Generation Models,,,,,/pdf?id=DGyj3ClCJxd,,,,,,,,,,,,,Anonymous,/forum?id=DGyj3ClCJxd
-362,Et5856ugQvc,Investigating the Roots of Gender Bias in Machine Translation: Observations on Gender Transfer between French and English,,,,,/pdf?id=Et5856ugQvc,,,,,,,,,,,,,Anonymous,/forum?id=Et5856ugQvc
-363,Y6KXfDatXxQ,"Validated Image Caption Rating (VICR) Scale, Dataset, and Model",,,,,/pdf?id=Y6KXfDatXxQ,,,,,,,,,,,,,Anonymous,/forum?id=Y6KXfDatXxQ
-364,faLMfINPMnn,Modeling Intensification for Signed Language Generation: A Computational Approach,,,,,/pdf?id=faLMfINPMnn,,,,,,,,,,,,,Anonymous,/forum?id=faLMfINPMnn
-365,ZTUpfEQrQsk,Towards Multi-Turn Empathetic Dialogs with Positive Emotion Elicitation,,,,,/pdf?id=ZTUpfEQrQsk,,,,,,,,,,,,,Anonymous,/forum?id=ZTUpfEQrQsk
-366,l4PQuVHr5WE,One-Shot Learning from a Demonstration with Hierarchical Latent Language,,,,,/pdf?id=l4PQuVHr5WE,,,,,,,,,,,,,Anonymous,/forum?id=l4PQuVHr5WE
-367,wAprE_MK-o-,Towards Policy-Guided Conversational Recommendation with Dialogue Acts,,,,,/pdf?id=wAprE_MK-o-,,,,,,,,,,,,,Anonymous,/forum?id=wAprE_MK-o-
-368,v5MwUDA11oO,A Study of the Attention Abnormality in Trojaned BERTs,,,,,/pdf?id=v5MwUDA11oO,,,,,,,,,,,,,Anonymous,/forum?id=v5MwUDA11oO
-369,FAqKLmeuOto,MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation,,,,,/pdf?id=FAqKLmeuOto,,,,,,,,,,,,,Anonymous,/forum?id=FAqKLmeuOto
-370,c3jvzFGYGWl,Embedding-Enhanced GIZA++: Improving Low-Resource Word Alignment Using Embeddings,,,,,/pdf?id=c3jvzFGYGWl,,,,,,,,,,,,,Anonymous,/forum?id=c3jvzFGYGWl
-371,rYNEmAStW6V,A Weak supervision with Syntactic Cues for Reference Resolution,,,,,/pdf?id=rYNEmAStW6V,,,,,,,,,,,,,Anonymous,/forum?id=rYNEmAStW6V
-372,jlqJg4Hs5G3,Improving Unsupervised Sentence Simplification Using Fine-Tuned Masked Language Models,,,,,/pdf?id=jlqJg4Hs5G3,,,,,,,,,,,,,Anonymous,/forum?id=jlqJg4Hs5G3
-373,Z1Vgh4I_5ur,Table Retrieval Does Not Necessitate Table-specific Model Design,,,,,/pdf?id=Z1Vgh4I_5ur,,,,,,,,,,,,,Anonymous,/forum?id=Z1Vgh4I_5ur
-374,qVGvaVycYbW,Better Uncertainty Quantification for Machine Translation Evaluation,,,,,/pdf?id=qVGvaVycYbW,,,,,,,,,,,,,Anonymous,/forum?id=qVGvaVycYbW
-375,Zyzxc2gcy3_,DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization,,,,,/pdf?id=Zyzxc2gcy3_,,,,,,,,,,,,,Anonymous,/forum?id=Zyzxc2gcy3_
-376,A-TvRBTnJ1m,A Masked Segmental Language Model for Unsupervised Natural Language Segmentation,,,,,/pdf?id=A-TvRBTnJ1m,,,,,,,,,,,,,Anonymous,/forum?id=A-TvRBTnJ1m
-377,DkiNFy9XbqQ,Efficient Zero-Shot Semantic Parsing with Paraphrasing from Pretrained Language Models,,,,,/pdf?id=DkiNFy9XbqQ,,,,,,,,,,,,,Anonymous,/forum?id=DkiNFy9XbqQ
-378,Qbt1IYQzL75,Retrieval-guided Counterfactual Generation for QA,,,,,/pdf?id=Qbt1IYQzL75,,,,,,,,,,,,,Anonymous,/forum?id=Qbt1IYQzL75
-379,0otQTsolCZi,ErAConD: Error Annotated Conversational Dialog Dataset for Grammatical Error Correction,,,,,/pdf?id=0otQTsolCZi,,,,,,,,,,,,,Anonymous,/forum?id=0otQTsolCZi
-380,GKTI_XSGRuJ,UserIdentifier: Implicit User Representations for Simple and Effective Personalized Sentiment Analysis,,,,,/pdf?id=GKTI_XSGRuJ,,,,,,,,,,,,,Anonymous,/forum?id=GKTI_XSGRuJ
-381,FAhkN-QGFMb,Explore the Potential Performance of Vision-and-Language Navigation Model: a Snapshot Ensemble Method,,,,,/pdf?id=FAhkN-QGFMb,,,,,,,,,,,,,Anonymous,/forum?id=FAhkN-QGFMb
-382,BTNclVH8Nl,A Well-Composed Text is Half Done! Semantic Composition Sampling for Diverse Conditional Generation,,,,,/pdf?id=BTNclVH8Nl,,,,,,,,,,,,,Anonymous,/forum?id=BTNclVH8Nl
-383,cjUocqbaCcF,CONFIT: Toward Faithful Dialogue Summarization with Linguistically-Informed Contrastive Fine-tuning,,,,,/pdf?id=cjUocqbaCcF,,,,,,,,,,,,,Anonymous,/forum?id=cjUocqbaCcF
-384,ZNNBK7HxH2,The Curious Case of Control,,,,,/pdf?id=ZNNBK7HxH2,,,,,,,,,,,,,Anonymous,/forum?id=ZNNBK7HxH2
-385,L2_Z6yMdFUj,Modular and Parameter-Efficient Multimodal Fusion with Prompting,,,,,/pdf?id=L2_Z6yMdFUj,,,,,,,,,,,,,Anonymous,/forum?id=L2_Z6yMdFUj
-386,_STGuYu62k,Learning To Retrieve Prompts for In-Context Learning,,,,,/pdf?id=_STGuYu62k,,,,,,,,,,,,,Anonymous,/forum?id=_STGuYu62k
-387,xiQ5Hc-n7cS,Can Language Models Take A Hint? Prompting for Controllable Contextualized Commonsense Inference,,,,,/pdf?id=xiQ5Hc-n7cS,,,,,,,,,,,,,Anonymous,/forum?id=xiQ5Hc-n7cS
-388,eeBRBqifx-t,Quality-Aware Decoding for Neural Machine Translation,,,,,/pdf?id=eeBRBqifx-t,,,,,,,,,,,,,Anonymous,/forum?id=eeBRBqifx-t
-389,f_1MD91kBza,Entity Linking via Explicit Mention-Mention Coreference Modeling,,,,,/pdf?id=f_1MD91kBza,,,,,,,,,,,,,Anonymous,/forum?id=f_1MD91kBza
-390,mJzm4ueUKrV,Zero-Shot On-the-Fly Event Schema Induction,,,,,/pdf?id=mJzm4ueUKrV,,,,,,,,,,,,,Anonymous,/forum?id=mJzm4ueUKrV
-391,l2AhcPIyEs,Modeling Multi-Granularity Hierarchical Features for Relation Extraction,,,,,/pdf?id=l2AhcPIyEs,,,,,,,,,,,,,Anonymous,/forum?id=l2AhcPIyEs
-392,5kRAO69DNez,What use can and should ACL researchers make of the CambridgeGrammar of the English Language?,,,,,/pdf?id=5kRAO69DNez,,,,,,,,,,,,,Anonymous,/forum?id=5kRAO69DNez
-393,1U7HCdg9Ed,Small Changes Make Big Differences: Improving Multi-turn Response Selection in Dialogue Systems via Fine-Grained Contrastive Learning,,,,,/pdf?id=1U7HCdg9Ed,,,,,,,,,,,,,Anonymous,/forum?id=1U7HCdg9Ed
-394,Sl9JFvzUnm,Efficient layout-aware pretraining for multimodal form understanding,,,,,/pdf?id=Sl9JFvzUnm,,,,,,,,,,,,,Anonymous,/forum?id=Sl9JFvzUnm
-395,BAuigajYY57,PrefScore: Pairwise Preference Learning for Reference-free Single-document Summarization Quality Assessment,,,,,/pdf?id=BAuigajYY57,,,,,,,,,,,,,Anonymous,/forum?id=BAuigajYY57
-396,-lc7q2DPo-,DEEP: DEnoising Entity Pre-training for Neural Machine Translation,,,,,/pdf?id=-lc7q2DPo-,,,,,,,,,,,,,Anonymous,/forum?id=-lc7q2DPo-
-397,KjmdDULiokJ,Co-training an Unsupervised Constituency Parser with Weak Supervision,,,,,/pdf?id=KjmdDULiokJ,,,,,,,,,,,,,Anonymous,/forum?id=KjmdDULiokJ
-398,F9NzZm3zqyu,The Case for a Single Model that can Both Generate Continuations and Fill-in-the-Blank,,,,,/pdf?id=F9NzZm3zqyu,,,,,,,,,,,,,Anonymous,/forum?id=F9NzZm3zqyu
-399,oPtnaks3Q6,StoryQA: Story Grounded Question Answering Dataset,,,,,/pdf?id=oPtnaks3Q6,,,,,,,,,,,,,Anonymous,/forum?id=oPtnaks3Q6
-400,NJRjdqQYAA,Novel Chapter Abstractive Summarization using Spinal Tree Aware Sub-Sentential Content Selection,,,,,/pdf?id=NJRjdqQYAA,,,,,,,,,,,,,Anonymous,/forum?id=NJRjdqQYAA
-401,dNXMRKjo__Z,Searching for Effective Multilingual Fine-Tuning Methods: A Case Study in Summarization,,,,,/pdf?id=dNXMRKjo__Z,,,,,,,,,,,,,Anonymous,/forum?id=dNXMRKjo__Z
-402,fU3zT-Ke9R,Can Rationalization Improve Robustness?,,,,,/pdf?id=fU3zT-Ke9R,,,,,,,,,,,,,Anonymous,/forum?id=fU3zT-Ke9R
-403,aLlrphtHUi1,Impart Contextualization to Static Word Embeddings through Semantic Relations,,,,,/pdf?id=aLlrphtHUi1,,,,,,,,,,,,,Anonymous,/forum?id=aLlrphtHUi1
-404,vAF6CBZ4jff,Improving Mental Health Classifier Generalization with Pre-Diagnosis Data,,,,,/pdf?id=vAF6CBZ4jff,,,,,,,,,,,,,Anonymous,/forum?id=vAF6CBZ4jff
-405,YKrSi_BzRh,A Family of Cognitively Realistic Parsing Environments for Deep Reinforcement Learning,,,,,/pdf?id=YKrSi_BzRh,,,,,,,,,,,,,Anonymous,/forum?id=YKrSi_BzRh
-406,EaVSzLCZkUu,{BlonDe}: An Automatic Evaluation Metric for Document-level Machine Translation,,,,,/pdf?id=EaVSzLCZkUu,,,,,,,,,,,,,Anonymous,/forum?id=EaVSzLCZkUu
-407,EtjsGJtlQWF,Faithful and Plausible Explanations of Medical Code Predictions,,,,,/pdf?id=EtjsGJtlQWF,,,,,,,,,,,,,Anonymous,/forum?id=EtjsGJtlQWF
-408,zFPnAh5OuQ-,The Change that Matters in Discourse Parsing: Estimating the Impact of Domain Shift on Parser Error,,,,,/pdf?id=zFPnAh5OuQ-,,,,,,,,,,,,,Anonymous,/forum?id=zFPnAh5OuQ-
-409,7OLQOO0DcX,S5 Framework: A Review of Self-Supervised Shared Semantic Space Optimization for Multimodal Zero-Shot Learning,,,,,/pdf?id=7OLQOO0DcX,,,,,,,,,,,,,Anonymous,/forum?id=7OLQOO0DcX
-410,QjMILpKWQM,DECK: Behavioral Tests to Improve Interpretability and Generalizability of BERT Models Detecting Depression from Text,,,,,/pdf?id=QjMILpKWQM,,,,,,,,,,,,,Anonymous,/forum?id=QjMILpKWQM
-411,jB4K33NvZsd,Balanced Adversarial Training: Balancing Tradeoffs Between Oversensitivity and Undersensitivity in NLP Models,,,,,/pdf?id=jB4K33NvZsd,,,,,,,,,,,,,Anonymous,/forum?id=jB4K33NvZsd
-412,ortbTKLR1c,Interpretability on Clinical Analysis from Pattern Disentanglement Insight,,,,,/pdf?id=ortbTKLR1c,,,,,,,,,,,,,Anonymous,/forum?id=ortbTKLR1c
-413,4He0StUV4Ds,AutoLEX: An Automatic Framework for Linguistic Exploration,,,,,/pdf?id=4He0StUV4Ds,,,,,,,,,,,,,Anonymous,/forum?id=4He0StUV4Ds
-414,mXN6PiswEOQ,Multilingual Event Linking to Wikidata,,,,,/pdf?id=mXN6PiswEOQ,,,,,,,,,,,,,Anonymous,/forum?id=mXN6PiswEOQ
-415,FJd9O1Nsax7,Towards Computationally Feasible Deep Active Learning,,,,,/pdf?id=FJd9O1Nsax7,,,,,,,,,,,,,Anonymous,/forum?id=FJd9O1Nsax7
-416,fg1zmL4XRu2,"Extract, Select and Rewrite: A New Modular Summarization Method",,,,,/pdf?id=fg1zmL4XRu2,,,,,,,,,,,,,Anonymous,/forum?id=fg1zmL4XRu2
-417,odHwNOndGgD,Event Linking: Grounding Event Mentions to Wikipedia,,,,,/pdf?id=odHwNOndGgD,,,,,,,,,,,,,Anonymous,/forum?id=odHwNOndGgD
-418,XVrgLklgZN,Target-Guided Dialogue Response Generation Using Commonsense and Data Augmentation,,,,,/pdf?id=XVrgLklgZN,,,,,,,,,,,,,Anonymous,/forum?id=XVrgLklgZN
-419,p5AyJdsG6Hi,A Feasibility Study of Answer-Unaware Question Generation for Education,,,,,/pdf?id=p5AyJdsG6Hi,,,,,,,,,,,,,Anonymous,/forum?id=p5AyJdsG6Hi
-420,zfMeLxBx6lC,"The Aligned Multimodal Movie Treebank: An audio, video, dependency-parse treebank",,,,,/pdf?id=zfMeLxBx6lC,,,,,,,,,,,,,Anonymous,/forum?id=zfMeLxBx6lC
-421,mQyHxnZejkB,Provably Confidential Language Modelling,,,,,/pdf?id=mQyHxnZejkB,,,,,,,,,,,,,Anonymous,/forum?id=mQyHxnZejkB
-422,stTWuHoV3A,Interpretable Proof Generation via Iterative Backward Reasoning,,,,,/pdf?id=stTWuHoV3A,,,,,,,,,,,,,Anonymous,/forum?id=stTWuHoV3A
-423,Yd0iEAdS_7m,Dynamic Relevance Graph Network for Knowledge-Aware Question Answering,,,,,/pdf?id=Yd0iEAdS_7m,,,,,,,,,,,,,Anonymous,/forum?id=Yd0iEAdS_7m
-424,f_NN0l6DfQo,One Step Is Enough for Few-Shot Cross-Lingual Transfer: Co-Training with Gradient Optimization,,,,,/pdf?id=f_NN0l6DfQo,,,,,,,,,,,,,Anonymous,/forum?id=f_NN0l6DfQo
-425,UiRi-PHvNlP,A Weakly Supervised Approach to Evaluating Single-Document Summarization via Negative Sampling,,,,,/pdf?id=UiRi-PHvNlP,,,,,,,,,,,,,Anonymous,/forum?id=UiRi-PHvNlP
-426,UIfT8ILMLT8,CofeNet: Context and Former-Label Enhanced Net for Complicated Quotation Extraction,,,,,/pdf?id=UIfT8ILMLT8,,,,,,,,,,,,,Anonymous,/forum?id=UIfT8ILMLT8
-427,X2UYdi_cYmG,How do QA models combine knowledge from LM and 100 passages?,,,,,/pdf?id=X2UYdi_cYmG,,,,,,,,,,,,,Anonymous,/forum?id=X2UYdi_cYmG
-428,aRUaZM9L7jM,On Measuring Social Biases in Prompt-Based Learning,,,,,/pdf?id=aRUaZM9L7jM,,,,,,,,,,,,,Anonymous,/forum?id=aRUaZM9L7jM
-429,MwYylY-abMC,Self-Supervised Bot Play for Transcript-Free Conversational Recommendation with Justification,,,,,/pdf?id=MwYylY-abMC,,,,,,,,,,,,,Anonymous,/forum?id=MwYylY-abMC
-430,X2r0B7sVN4j,An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels,,,,,/pdf?id=X2r0B7sVN4j,,,,,,,,,,,,,Anonymous,/forum?id=X2r0B7sVN4j
-431,4vzKyHRFnoz,EASE: Entity-Aware Contrastive Learning of Sentence Embedding,,,,,/pdf?id=4vzKyHRFnoz,,,,,,,,,,,,,Anonymous,/forum?id=4vzKyHRFnoz
-432,XSJemKn48Vk,Hallucinated but Factual! Inspecting the Factuality of Hallucinations in Abstractive Summarization,,,,,/pdf?id=XSJemKn48Vk,,,,,,,,,,,,,Anonymous,/forum?id=XSJemKn48Vk
-433,DEPL1Ua6-Cd,Improving Robustness in Multilingual Machine Translation via Data Augmentation,,,,,/pdf?id=DEPL1Ua6-Cd,,,,,,,,,,,,,Anonymous,/forum?id=DEPL1Ua6-Cd
-434,Bor9FIG9efd,Frustratingly Simple Regularization to Improve Zero-shot Cross-lingual Robustness,,,,,/pdf?id=Bor9FIG9efd,,,,,,,,,,,,,Anonymous,/forum?id=Bor9FIG9efd
-435,rQ8-ul4m629,Towards Coding Social Science Datasets with Language Models,,,,,/pdf?id=rQ8-ul4m629,,,,,,,,,,,,,Anonymous,/forum?id=rQ8-ul4m629
-436,URtrOEPzljc,"Hey AI, Can You Solve Complex Tasks by Talking to Agents?",,,,,/pdf?id=URtrOEPzljc,,,,,,,,,,,,,Anonymous,/forum?id=URtrOEPzljc
-437,4K9KxAZG4sg,Parsing Natural Language into Propositional and First-Order Logic with Dual Reinforcement Learning,,,,,/pdf?id=4K9KxAZG4sg,,,,,,,,,,,,,Anonymous,/forum?id=4K9KxAZG4sg
-438,6iScGvJZfat,SUBS: Subtree Substitution for Compositional Semantic Parsing,,,,,/pdf?id=6iScGvJZfat,,,,,,,,,,,,,Anonymous,/forum?id=6iScGvJZfat
-439,0OsDhYxIXR9,Experience Affected in the Act of Remembering: A Study of Discursivity of Verb Tense Shifts in Memory Narrative,,,,,/pdf?id=0OsDhYxIXR9,,,,,,,,,,,,,Anonymous,/forum?id=0OsDhYxIXR9
-440,juCRn4bNIAp,SummaReranker: A Multi-Task Mixture-of-Experts Re-Ranking Framework for Abstractive Summarization,,,,,/pdf?id=juCRn4bNIAp,,,,,,,,,,,,,Anonymous,/forum?id=juCRn4bNIAp
-441,QYk8ZblQ1Bj,Do Pretrained Contextual Language Models Distinguish between Hebrew Homograph Analyses?,,,,,/pdf?id=QYk8ZblQ1Bj,,,,,,,,,,,,,Anonymous,/forum?id=QYk8ZblQ1Bj
-442,ZB58jLvryqw,SEQZERO: Few-shot Compositional Semantic Parsing with Sequential Prompts and Zero-shot Models,,,,,/pdf?id=ZB58jLvryqw,,,,,,,,,,,,,Anonymous,/forum?id=ZB58jLvryqw
-443,OFzvrBameCo,Exploring the Universal Vulnerability of Prompt-based Learning Paradigm,,,,,/pdf?id=OFzvrBameCo,,,,,,,,,,,,,Anonymous,/forum?id=OFzvrBameCo
-444,_XYt8vr9_wB,Putting the Con in Context: Identifying Deceptive Actors in the Game of Mafia,,,,,/pdf?id=_XYt8vr9_wB,,,,,,,,,,,,,Anonymous,/forum?id=_XYt8vr9_wB
-445,EQGE1PGZgi8,Exposing the Limits of Video-Text Models through Contrast Sets,,,,,/pdf?id=EQGE1PGZgi8,,,,,,,,,,,,,Anonymous,/forum?id=EQGE1PGZgi8
-446,IlZWYmQDPAd,Meta-learning via Language Model In-context Tuning,,,,,/pdf?id=IlZWYmQDPAd,,,,,,,,,,,,,Anonymous,/forum?id=IlZWYmQDPAd
-447,zQu1ZzJE-D2,DOCmT5: Document-Level Pre-training of Multilingual Language Models,,,,,/pdf?id=zQu1ZzJE-D2,,,,,,,,,,,,,Anonymous,/forum?id=zQu1ZzJE-D2
-448,8i4dEXzbe89,Zero-shot Cross-lingual Transfer is Under-specified Optimization,,,,,/pdf?id=8i4dEXzbe89,,,,,,,,,,,,,Anonymous,/forum?id=8i4dEXzbe89
-449,G3htPNdMoMO,Perturbations in the Wild: Leveraging Human-Written Text Perturbations for Realistic Adversarial Attack and Defense,,,,,/pdf?id=G3htPNdMoMO,,,,,,,,,,,,,Anonymous,/forum?id=G3htPNdMoMO
-450,6dXfj57KVdp,XLTime: A Cross-Lingual Knowledge Transfer Framework for Temporal Expression Extraction,,,,,/pdf?id=6dXfj57KVdp,,,,,,,,,,,,,Anonymous,/forum?id=6dXfj57KVdp
-451,ocsgIiRIxxO,Template-free Prompt Tuning for Few-shot NER,,,,,/pdf?id=ocsgIiRIxxO,,,,,,,,,,,,,Anonymous,/forum?id=ocsgIiRIxxO
-452,DF0R3AsZ5IB,Reframing Human-AI Collaboration for Generating Free-Text Explanations,,,,,/pdf?id=DF0R3AsZ5IB,,,,,,,,,,,,,Anonymous,/forum?id=DF0R3AsZ5IB
-453,wOiBnHu79_P,PREME: Preference-based Meeting Exploration through an Interactive Questionnaire,,,,,/pdf?id=wOiBnHu79_P,,,,,,,,,,,,,Anonymous,/forum?id=wOiBnHu79_P
-454,tbpEVzeiCto,IDPG: An Instance-Dependent Prompt Generation Method,,,,,/pdf?id=tbpEVzeiCto,,,,,,,,,,,,,Anonymous,/forum?id=tbpEVzeiCto
-455,MW7BLqZEyAp,Explaining Toxic Text via Knowledge Enhanced Text Generation,,,,,/pdf?id=MW7BLqZEyAp,,,,,,,,,,,,,Anonymous,/forum?id=MW7BLqZEyAp
-456,YtYdvDYadUM,Penguins Don’t Fly: Reasoning about Generics through Instantiations and Exceptions,,,,,/pdf?id=YtYdvDYadUM,,,,,,,,,,,,,Anonymous,/forum?id=YtYdvDYadUM
-457,gKUFYzRJ3FT,KAT: A Knowledge Augmented Transformer for Vision-and-Language,,,,,/pdf?id=gKUFYzRJ3FT,,,,,,,,,,,,,Anonymous,/forum?id=gKUFYzRJ3FT
-458,kDoswLAgdjj,Opponent Modeling in Negotiation Dialogues by Related Data Adaptation,,,,,/pdf?id=kDoswLAgdjj,,,,,,,,,,,,,Anonymous,/forum?id=kDoswLAgdjj
-459,sRmw2pIirH7,DialSummEval: Revisiting Summarization Evaluation for Dialogues,,,,,/pdf?id=sRmw2pIirH7,,,,,,,,,,,,,Anonymous,/forum?id=sRmw2pIirH7
-460,_OLdnDdAgwm,The Role of Context in Detecting Previously Fact-Checked Claims,,,,,/pdf?id=_OLdnDdAgwm,,,,,,,,,,,,,Anonymous,/forum?id=_OLdnDdAgwm
-461,Ig8xeTpEmHf,Prompt Consistency for Zero-Shot Task Generalization,,,,,/pdf?id=Ig8xeTpEmHf,,,,,,,,,,,,,Anonymous,/forum?id=Ig8xeTpEmHf
-462,f3ClV3LjsOJ,Retrieval Enhanced Data Augmentation for Question Answering on Privacy Policies,,,,,/pdf?id=f3ClV3LjsOJ,,,,,,,,,,,,,Anonymous,/forum?id=f3ClV3LjsOJ
-463,BHGiiUwLwz0,TD-ConE: An Information-Theoretic Approach to Assessing Parallel Text Generation Data,,,,,/pdf?id=BHGiiUwLwz0,,,,,,,,,,,,,Anonymous,/forum?id=BHGiiUwLwz0
-464,ic1jE-kkXcO,Memformer: A Memory-Augmented Transformer for Sequence Modeling,,,,,/pdf?id=ic1jE-kkXcO,,,,,,,,,,,,,Anonymous,/forum?id=ic1jE-kkXcO
-465,18ZSFcwP6Ad,Learn to Adapt for Generalized Zero-Shot Text Classification,,,,,/pdf?id=18ZSFcwP6Ad,,,,,,,,,,,,,Anonymous,/forum?id=18ZSFcwP6Ad
-466,bk_cJHyHNZE,Dangling-Aware Entity Alignment with Mixed High-Order Proximities,,,,,/pdf?id=bk_cJHyHNZE,,,,,,,,,,,,,Anonymous,/forum?id=bk_cJHyHNZE
-467,SeV26RtJLP1,Identifying the Source of Vulnerability in Fragile Interpretations: A Case Study in Neural Text Classification,,,,,/pdf?id=SeV26RtJLP1,,,,,,,,,,,,,Anonymous,/forum?id=SeV26RtJLP1
-468,ksXwO-c09NX,Structured Pruning Learns Compact and Accurate Models,,,,,/pdf?id=ksXwO-c09NX,,,,,,,,,,,,,Anonymous,/forum?id=ksXwO-c09NX
-469,wRSO5S_S-Bu,FedNLP: Benchmarking Federated Learning Methods for Natural Language Processing Tasks,,,,,/pdf?id=wRSO5S_S-Bu,,,,,,,,,,,,,Anonymous,/forum?id=wRSO5S_S-Bu
-470,tIBWSVJ3OZY,Real-time ASR Customization via Hypotheses Re-ordering: A Comparative Study of Different Scoring Functions,,,,,/pdf?id=tIBWSVJ3OZY,,,,,,,,,,,,,Anonymous,/forum?id=tIBWSVJ3OZY
-471,9QL52Tjx4cw,UBERT: A Novel Language Model for Synonymy Prediction at Scale in the UMLS Metathesaurus,,,,,/pdf?id=9QL52Tjx4cw,,,,,,,,,,,,,Anonymous,/forum?id=9QL52Tjx4cw
-472,l_Wlug2cgDi,A Word is Worth A Thousand Dollars: Adversarial Attack on Tweets Fools Stock Prediction,,,,,/pdf?id=l_Wlug2cgDi,,,,,,,,,,,,,Anonymous,/forum?id=l_Wlug2cgDi
-473,eo7Nn3ppfB1,Combinatorial Scientific Discovery: Finding New Concept Combinations Beyond Link Prediction,,,,,/pdf?id=eo7Nn3ppfB1,,,,,,,,,,,,,Anonymous,/forum?id=eo7Nn3ppfB1
-474,gwrtuxoDN-P,Probing The Linguistic Capacity of Pre-Trained Vision-Language Models,,,,,/pdf?id=gwrtuxoDN-P,,,,,,,,,,,,,Anonymous,/forum?id=gwrtuxoDN-P
-475,sfZvEKKUHss,Summarize and Generate to Back-translate: Unsupervised Translation of Programming Languages,,,,,/pdf?id=sfZvEKKUHss,,,,,,,,,,,,,Anonymous,/forum?id=sfZvEKKUHss
-476,dD1h80r3Abp,Towards Robust Online Dialogue Response Generation,,,,,/pdf?id=dD1h80r3Abp,,,,,,,,,,,,,Anonymous,/forum?id=dD1h80r3Abp
-477,u5GA1Gs8FIk,Rationalized Co-Training,,,,,/pdf?id=u5GA1Gs8FIk,,,,,,,,,,,,,Anonymous,/forum?id=u5GA1Gs8FIk
-478,-jsbjyhE6tu,AcTune: Uncertainty-Aware Active Self-Training for Active Fine-Tuning of Pretrained Language Models,,,,,/pdf?id=-jsbjyhE6tu,,,,,,,,,,,,,Anonymous,/forum?id=-jsbjyhE6tu
-479,n-pZduaeJvB,Investigating Non-local Features for Neural Constituency Parsing,,,,,/pdf?id=n-pZduaeJvB,,,,,,,,,,,,,Anonymous,/forum?id=n-pZduaeJvB
-480,ccydKRvl9w9,In-BoXBART: Get Instructions into Biomedical Multi-task Learning,,,,,/pdf?id=ccydKRvl9w9,,,,,,,,,,,,,Anonymous,/forum?id=ccydKRvl9w9
-481,daa5ySA6ysA,Hierarchical Relation-Guided Type-Sentence Alignment for Long-Tail Relation Extraction with Distant Supervision,,,,,/pdf?id=daa5ySA6ysA,,,,,,,,,,,,,Anonymous,/forum?id=daa5ySA6ysA
-482,iLbT0Xg3PE8,Why Does Surprisal From Smaller GPT-2 Models Provide Better Fit to Human Reading Times?,,,,,/pdf?id=iLbT0Xg3PE8,,,,,,,,,,,,,Anonymous,/forum?id=iLbT0Xg3PE8
-483,lln-R37yXqQ,Teaching BERT to Wait: Balancing Accuracy and Latency for Streaming Disfluency Detection,,,,,/pdf?id=lln-R37yXqQ,,,,,,,,,,,,,Anonymous,/forum?id=lln-R37yXqQ
-484,MXqSsBbZkF-,\textscAmbiPun: Generating Humorous Puns with Ambiguous Context,,,,,/pdf?id=MXqSsBbZkF-,,,,,,,,,,,,,Anonymous,/forum?id=MXqSsBbZkF-
-485,NjbRbM054n7,An Emoji-aware Multitask Framework for Multimodal Sarcasm Detection,,,,,/pdf?id=NjbRbM054n7,,,,,,,,,,,,,Anonymous,/forum?id=NjbRbM054n7
-486,UVSh0d78e7Q,Sparsely Activated Mixture-of-Experts are Robust Multi-Task Learners,,,,,/pdf?id=UVSh0d78e7Q,,,,,,,,,,,,,Anonymous,/forum?id=UVSh0d78e7Q
-487,r_2z0-tufhS,CERES: Pretraining of Graph-Conditioned Transformer for Semi-Structured Session Data,,,,,/pdf?id=r_2z0-tufhS,,,,,,,,,,,,,Anonymous,/forum?id=r_2z0-tufhS
-488,5bH2GQY5dT1,Unsupervised Reinforcement Adaptation for Class-Imbalanced TextClassification,,,,,/pdf?id=5bH2GQY5dT1,,,,,,,,,,,,,Anonymous,/forum?id=5bH2GQY5dT1
-489,DXqsUAb12WX,Offensive Content Detection Via Synthetic Code-Switched Text,,,,,/pdf?id=DXqsUAb12WX,,,,,,,,,,,,,Anonymous,/forum?id=DXqsUAb12WX
-490,Iny-0jdESTx,Document-Level Event Argument Extraction by Leveraging Redundant Information and Closed Boundary Loss,,,,,/pdf?id=Iny-0jdESTx,,,,,,,,,,,,,Anonymous,/forum?id=Iny-0jdESTx
-491,Snc4w01t7hI,HybriDialogue: An Information-Seeking Dialogue Dataset Grounded on Tabular and Textual Data,,,,,/pdf?id=Snc4w01t7hI,,,,,,,,,,,,,Anonymous,/forum?id=Snc4w01t7hI
-492,K_fV_YHD_D,PCEE-BERT: Accelerating BERT Inference via Patient and Confident Early Exiting,,,,,/pdf?id=K_fV_YHD_D,,,,,,,,,,,,,Anonymous,/forum?id=K_fV_YHD_D
-493,MsM1S8Dk-r8,The Art of Prompting: Event Detection based on Type Specific Prompts,,,,,/pdf?id=MsM1S8Dk-r8,,,,,,,,,,,,,Anonymous,/forum?id=MsM1S8Dk-r8
-494,mLnFSDl8cah,Surprisingly Simple Adapter Ensembling for Zero-Shot Cross-Lingual Sequence Tagging,,,,,/pdf?id=mLnFSDl8cah,,,,,,,,,,,,,Anonymous,/forum?id=mLnFSDl8cah
-495,RlwvZrvcv8,Learning to repair: Repairing model output errors after deployment using a dynamic memory of feedback,,,,,/pdf?id=RlwvZrvcv8,,,,,,,,,,,,,Anonymous,/forum?id=RlwvZrvcv8
-496,KkXjo4lo58K,Incremental Prompting: Episodic Memory Prompt for Lifelong Event Detection,,,,,/pdf?id=KkXjo4lo58K,,,,,,,,,,,,,Anonymous,/forum?id=KkXjo4lo58K
-497,0IM8TAmQe9,A Deep Paradigm for Articulatory Speech Representation Learning via Neural Convolutive Sparse Matrix Factorization,,,,,/pdf?id=0IM8TAmQe9,,,,,,,,,,,,,Anonymous,/forum?id=0IM8TAmQe9
-498,weZF7X0V3j-,Commonsense Knowledge Transfer for Pre-trained Language Models,,,,,/pdf?id=weZF7X0V3j-,,,,,,,,,,,,,Anonymous,/forum?id=weZF7X0V3j-
-499,cX78e5m3aM,Do Prompts Solve NLP Tasks Using Natural Language?,,,,,/pdf?id=cX78e5m3aM,,,,,,,,,,,,,Anonymous,/forum?id=cX78e5m3aM
-500,Wrpo1h4dxOM,AdapterBias: Parameter-efficient Token-dependent Representation Shift for Adapters in NLP Tasks,,,,,/pdf?id=Wrpo1h4dxOM,,,,,,,,,,,,,Anonymous,/forum?id=Wrpo1h4dxOM
-501,canvJzQNs09,Analyzing CodeBERT's Performance on Natural Language Code Search,,,,,/pdf?id=canvJzQNs09,,,,,,,,,,,,,Anonymous,/forum?id=canvJzQNs09
-502,pdwCJHW5G9,Navigating Connected Memories with a Task-oriented Dialog System,,,,,/pdf?id=pdwCJHW5G9,,,,,,,,,,,,,Anonymous,/forum?id=pdwCJHW5G9
-503,_EZT1Q_0ZTq,Are All the Datasets in Benchmark Necessary? A Pilot Study of Dataset Evaluation for Text Classification,,,,,/pdf?id=_EZT1Q_0ZTq,,,,,,,,,,,,,Anonymous,/forum?id=_EZT1Q_0ZTq
-504,mwygbrMylCq,When do Contrastive Word Alignments Improve Many-to-many Neural Machine Translation?,,,,,/pdf?id=mwygbrMylCq,,,,,,,,,,,,,Anonymous,/forum?id=mwygbrMylCq
-505,gSBKV8nmjP2,Lacuna Reconstruction: Self-supervised Pre-training for Low-Resource Historical Document Transcription,,,,,/pdf?id=gSBKV8nmjP2,,,,,,,,,,,,,Anonymous,/forum?id=gSBKV8nmjP2
-506,yqL30wlJi2F,Using Natural Sentence Prompts for Understanding Biases in Language Models,,,,,/pdf?id=yqL30wlJi2F,,,,,,,,,,,,,Anonymous,/forum?id=yqL30wlJi2F
-507,2J8zoGnOTn,ViL-Sum: Enhancing Vision and Language Representations via Multi-task Learning for Multi-modal Summarization,,,,,/pdf?id=2J8zoGnOTn,,,,,,,,,,,,,Anonymous,/forum?id=2J8zoGnOTn
-508,pVCUf5HWC4n,A Text-Image Pair Is not Enough: Language-Vision Relation Inference with Auxiliary Modality Translation,,,,,/pdf?id=pVCUf5HWC4n,,,,,,,,,,,,,Anonymous,/forum?id=pVCUf5HWC4n
-509,tlVnmqE6r0,TemporalWiki: A Lifelong Benchmark for Training and Evaluating Ever-Evolving Language Models,,,,,/pdf?id=tlVnmqE6r0,,,,,,,,,,,,,Anonymous,/forum?id=tlVnmqE6r0
-510,igVquoXGiLo,Improving Conversational Recommendation Systems’ Quality with Context-Aware Item Meta-Information,,,,,/pdf?id=igVquoXGiLo,,,,,,,,,,,,,Anonymous,/forum?id=igVquoXGiLo
-511,sSTn26Y2oc,A Holistic Framework for Analyzing the COVID-19 Vaccine Debate,,,,,/pdf?id=sSTn26Y2oc,,,,,,,,,,,,,Anonymous,/forum?id=sSTn26Y2oc
-512,8WSg5VAhRCy,DAQE: Exploring the Direct Assessment on Word-Level Quality Estimation in Machine Translation,,,,,/pdf?id=8WSg5VAhRCy,,,,,,,,,,,,,Anonymous,/forum?id=8WSg5VAhRCy
-513,4sjBbrHJtKj,Fine-grained Location Extraction via Curriculum Learning,,,,,/pdf?id=4sjBbrHJtKj,,,,,,,,,,,,,Anonymous,/forum?id=4sjBbrHJtKj
-514,EpXKbPSsYqL,NewsEdits: A Dataset of News Article Revision Histories and a Novel Document-Level Reasoning Challenge,,,,,/pdf?id=EpXKbPSsYqL,,,,,,,,,,,,,Anonymous,/forum?id=EpXKbPSsYqL
-515,tym7kAeuj8,Database Search Results Disambiguation for Task-Oriented Dialog Systems,,,,,/pdf?id=tym7kAeuj8,,,,,,,,,,,,,Anonymous,/forum?id=tym7kAeuj8
-516,B1n_0_fSKDN,Towards Transparent Interactive Semantic Parsing via Step-by-Step Correction,,,,,/pdf?id=B1n_0_fSKDN,,,,,,,,,,,,,Anonymous,/forum?id=B1n_0_fSKDN
-517,kQWGURqrAW_,Don't Take It Literally: An Edit-Invariant Sequence Loss for Text Generation,,,,,/pdf?id=kQWGURqrAW_,,,,,,,,,,,,,Anonymous,/forum?id=kQWGURqrAW_
-518,4gmJAihAL8u,"""my stance decides my language"": Modeling of Framing and Political Stance in News Media",,,,,/pdf?id=4gmJAihAL8u,,,,,,,,,,,,,Anonymous,/forum?id=4gmJAihAL8u
-519,InPbQdUhmUH,Entity Cloze By Date: Understanding what LMs know about unseen entities,,,,,/pdf?id=InPbQdUhmUH,,,,,,,,,,,,,Anonymous,/forum?id=InPbQdUhmUH
-520,uympaMgttf,"An Empirical Study of Representation, Training and Decoding for Span-based Named Entity Recognition",,,,,/pdf?id=uympaMgttf,,,,,,,,,,,,,Anonymous,/forum?id=uympaMgttf
-521,ZLRckoIm-EH,Synopses of Movie Narratives: a Video-Language Dataset for Story Understanding,,,,,/pdf?id=ZLRckoIm-EH,,,,,,,,,,,,,Anonymous,/forum?id=ZLRckoIm-EH
-522,NbQ0o6dC6oO,TVShowGuess: Character Comprehension in Stories as Speaker Guessing,,,,,/pdf?id=NbQ0o6dC6oO,,,,,,,,,,,,,Anonymous,/forum?id=NbQ0o6dC6oO
-523,bmO0jrA2lP,Context-Aware Language Modeling for Goal-Oriented Dialogue Systems,,,,,/pdf?id=bmO0jrA2lP,,,,,,,,,,,,,Anonymous,/forum?id=bmO0jrA2lP
-524,NvrxyLLag7,Leveraging Visual Knowledge in Language Tasks: An Empirical Study on Intermediate Pre-training for Cross-modal Knowledge Transfer,,,,,/pdf?id=NvrxyLLag7,,,,,,,,,,,,,Anonymous,/forum?id=NvrxyLLag7
-525,dFW4mQrfWs,That is a good looking car !: Visual Aspect based Sentiment Controlled Personalized Response Generation,,,,,/pdf?id=dFW4mQrfWs,,,,,,,,,,,,,Anonymous,/forum?id=dFW4mQrfWs
-526,DANj-t4ucSE,Morphosyntactic Tagging with Pre-trained Language Models for Arabic and its Dialects,,,,,/pdf?id=DANj-t4ucSE,,,,,,,,,,,,,Anonymous,/forum?id=DANj-t4ucSE
-527,1c5HGUkc1SL,MWP-BERT: Numeracy-Augmented Pre-training for Math Word Problem Solving,,,,,/pdf?id=1c5HGUkc1SL,,,,,,,,,,,,,Anonymous,/forum?id=1c5HGUkc1SL
-528,ArWu5lXM5w,DISAPERE: A Dataset for Discourse Structure in Peer Review Discussions,,,,,/pdf?id=ArWu5lXM5w,,,,,,,,,,,,,Anonymous,/forum?id=ArWu5lXM5w
-529,XdN_Lq_5eY,The Impact of Cross-Lingual Adjustment of Contextual Word Representations on Zero-Shot Transfer,,,,,/pdf?id=XdN_Lq_5eY,,,,,,,,,,,,,Anonymous,/forum?id=XdN_Lq_5eY
-530,jl5nh3pjE4B,A New Dataset for Summarizing Radiology Reports,,,,,/pdf?id=jl5nh3pjE4B,,,,,,,,,,,,,Anonymous,/forum?id=jl5nh3pjE4B
-531,EYitFRZGwkk,A Cueing Strategy with Prompt Tuning for Relation Extraction,,,,,/pdf?id=EYitFRZGwkk,,,,,,,,,,,,,Anonymous,/forum?id=EYitFRZGwkk
-532,9tppnWrKYl,LoPE: Learnable Sinusoidal Positional Encoding for Improving Document Transformer Model,,,,,/pdf?id=9tppnWrKYl,,,,,,,,,,,,,Anonymous,/forum?id=9tppnWrKYl
-533,D0zGt8jxCIl,Understand before Answer: Improve Temporal Reading Comprehension via Precise Question Understanding,,,,,/pdf?id=D0zGt8jxCIl,,,,,,,,,,,,,Anonymous,/forum?id=D0zGt8jxCIl
-534,qMgcl_FU8V,On Synthetic Data for Back Translation,,,,,/pdf?id=qMgcl_FU8V,,,,,,,,,,,,,Anonymous,/forum?id=qMgcl_FU8V
-535,TO_7PHXMoUc,LongChecker: Improving scientific claim verification by modeling full-abstract context,,,,,/pdf?id=TO_7PHXMoUc,,,,,,,,,,,,,Anonymous,/forum?id=TO_7PHXMoUc
-536,4qXyFbi_0Z,Exploring Cross-Lingual Guidance in Abstractive Summarization,,,,,/pdf?id=4qXyFbi_0Z,,,,,,,,,,,,,Anonymous,/forum?id=4qXyFbi_0Z
-537,_sAJjkoxfuo,Few-Shot Semantic Parsing with Language Models Trained On Code,,,,,/pdf?id=_sAJjkoxfuo,,,,,,,,,,,,,Anonymous,/forum?id=_sAJjkoxfuo
-538,Dj9d8N5i5y,HiStruct+: Improving Extractive Text Summarization with Hierarchical Structure Information,,,,,/pdf?id=Dj9d8N5i5y,,,,,,,,,,,,,Anonymous,/forum?id=Dj9d8N5i5y
-539,qNDQc26ZxdP,POLITICS: Pretraining with Same-story Article Comparison for Ideology Prediction and Stance Detection,,,,,/pdf?id=qNDQc26ZxdP,,,,,,,,,,,,,Anonymous,/forum?id=qNDQc26ZxdP
-540,ULbQZpq9-B,Building Sequence-to-Sequence Document Revision Models from Matched and Multiple Partially-Matched Datasets,,,,,/pdf?id=ULbQZpq9-B,,,,,,,,,,,,,Anonymous,/forum?id=ULbQZpq9-B
-541,pK5HUWE-mz5,Efficient Weighted Deduction Systems for Earley’s Algorithm,,,,,/pdf?id=pK5HUWE-mz5,,,,,,,,,,,,,Anonymous,/forum?id=pK5HUWE-mz5
-542,MndqjaCwQX,A Benchmark for Text Quantification Learning Under Real-World Temporal Distribution Shift,,,,,/pdf?id=MndqjaCwQX,,,,,,,,,,,,,Anonymous,/forum?id=MndqjaCwQX
-543,GZIhD4D382d,A Meta-transfer Learning framework for Visually Grounded Compositional Concept Learning,,,,,/pdf?id=GZIhD4D382d,,,,,,,,,,,,,Anonymous,/forum?id=GZIhD4D382d
-544,Qnu6a4w81Z,Modeling Tension in Stories via Commonsense Reasoning and Emotional Word Embeddings,,,,,/pdf?id=Qnu6a4w81Z,,,,,,,,,,,,,Anonymous,/forum?id=Qnu6a4w81Z
-545,lABZiVvtU8x,Detecting Rumor Veracity with Only Textual Information by Double-Channel Structure,,,,,/pdf?id=lABZiVvtU8x,,,,,,,,,,,,,Anonymous,/forum?id=lABZiVvtU8x
-546,7L0yYMwPsW6,HiTab: A Hierarchical Table Dataset for Question Answering and Natural Language Generation,,,,,/pdf?id=7L0yYMwPsW6,,,,,,,,,,,,,Anonymous,/forum?id=7L0yYMwPsW6
-547,7ObvucmbjMM,CrowdChecked: Detecting Previously Fact-Checked Claims in Social Media,,,,,/pdf?id=7ObvucmbjMM,,,,,,,,,,,,,Anonymous,/forum?id=7ObvucmbjMM
-548,RKTicOSoaIk,δ-SAM: Sharpness-Aware Minimization with Dynamic Reweighting,,,,,/pdf?id=RKTicOSoaIk,,,,,,,,,,,,,Anonymous,/forum?id=RKTicOSoaIk
-549,PvwahGFHaq7,Headed-Span-Based Projective Dependency Parsing,,,,,/pdf?id=PvwahGFHaq7,,,,,,,,,,,,,Anonymous,/forum?id=PvwahGFHaq7
-550,kY86snNIzd9,Zero-Shot Aspect-Based Scientific Document Summarization using Self-Supervised Pre-training,,,,,/pdf?id=kY86snNIzd9,,,,,,,,,,,,,Anonymous,/forum?id=kY86snNIzd9
-551,hTYab1cRBl4,A Study of Syntactic Multi-Modality in Non-Autoregressive Machine Translation,,,,,/pdf?id=hTYab1cRBl4,,,,,,,,,,,,,Anonymous,/forum?id=hTYab1cRBl4
-552,oaA1xSdZD6h,AutoAttention: Automatic Attention Head Selection Through Differentiable Pruning,,,,,/pdf?id=oaA1xSdZD6h,,,,,,,,,,,,,Anonymous,/forum?id=oaA1xSdZD6h
-553,Ynu6z5iWxWJ,A Balanced Data Approach for Evaluating Cross-Lingual Transfer: Mapping the Linguistic Blood Bank,,,,,/pdf?id=Ynu6z5iWxWJ,,,,,,,,,,,,,Anonymous,/forum?id=Ynu6z5iWxWJ
-554,pPTZJQ7U_iX,"Revisiting Additive Compositionality: AND, OR, and NOT Operations with Word Embeddings",,,,,/pdf?id=pPTZJQ7U_iX,,,,,,,,,,,,,Anonymous,/forum?id=pPTZJQ7U_iX
-555,s-5K23UWff7,Speaker Clustering in Textual Dialogue with Utterance Correlation and Cross-corpus Dialogue Act Supervision,,,,,/pdf?id=s-5K23UWff7,,,,,,,,,,,,,Anonymous,/forum?id=s-5K23UWff7
-556,KiHUqUD8YWP,A Dataset for N-ary Relation Extraction of Drug Combinations,,,,,/pdf?id=KiHUqUD8YWP,,,,,,,,,,,,,Anonymous,/forum?id=KiHUqUD8YWP
-557,cMGM38rfl-,Sequentially Controlled Text Generation,,,,,/pdf?id=cMGM38rfl-,,,,,,,,,,,,,Anonymous,/forum?id=cMGM38rfl-
-558,8v_Uc_w4vUt,Great Truths are Always Simple: A Rather Simple Knowledge Encoder for Enhancing the Commonsense Reasoning Capacity of Pre-Trained Models,,,,,/pdf?id=8v_Uc_w4vUt,,,,,,,,,,,,,Anonymous,/forum?id=8v_Uc_w4vUt
-559,gcQjRKJx45I,Ask Me Anything in Your Native Language,,,,,/pdf?id=gcQjRKJx45I,,,,,,,,,,,,,Anonymous,/forum?id=gcQjRKJx45I
-560,tv612ry6_g9,Unbiased Math Word Problems Benchmark for Mitigating Solving Bias,,,,,/pdf?id=tv612ry6_g9,,,,,,,,,,,,,Anonymous,/forum?id=tv612ry6_g9
-561,rlTZqr_Sg4j,Cheat Codes to Quantify Missing Source Information in Neural Machine Translation,,,,,/pdf?id=rlTZqr_Sg4j,,,,,,,,,,,,,Anonymous,/forum?id=rlTZqr_Sg4j
-562,AGdAmuySMYN,Mix and Match: Learning-free Controllable Text Generation using Energy Language Models,,,,,/pdf?id=AGdAmuySMYN,,,,,,,,,,,,,Anonymous,/forum?id=AGdAmuySMYN
-563,nAErnzRoE2r,End-to-end Speech Translation with Spoken-to-Written Style Conversion,,,,,/pdf?id=nAErnzRoE2r,,,,,,,,,,,,,Anonymous,/forum?id=nAErnzRoE2r
-564,1jg0-AcYVo,Non-Autoregressive Machine Translation: It's Not as Fast as it Seems,,,,,/pdf?id=1jg0-AcYVo,,,,,,,,,,,,,Anonymous,/forum?id=1jg0-AcYVo
-565,R54Xtyh6XBj,Tapping BERT for Preposition Sense Disambiguation,,,,,/pdf?id=R54Xtyh6XBj,,,,,,,,,,,,,Anonymous,/forum?id=R54Xtyh6XBj
-566,W4SAqmbjVep,Bridge the Gap Between CV and NLP! A Gradient-based Textual Adversarial Attack Framework,,,,,/pdf?id=W4SAqmbjVep,,,,,,,,,,,,,Anonymous,/forum?id=W4SAqmbjVep
-567,JAU4kZ9mSd,Investigating and Explaining Feature and Representation Learning in Translationese Classification,,,,,/pdf?id=JAU4kZ9mSd,,,,,,,,,,,,,Anonymous,/forum?id=JAU4kZ9mSd
-568,F_9GY8mIRSw,Revisiting the Roles of “Text” in Text Games,,,,,/pdf?id=F_9GY8mIRSw,,,,,,,,,,,,,Anonymous,/forum?id=F_9GY8mIRSw
-569,tNjQ80IVBl,"Old BERT, New Tricks: Artificial Language Learning for Pre-Trained Language Models",,,,,/pdf?id=tNjQ80IVBl,,,,,,,,,,,,,Anonymous,/forum?id=tNjQ80IVBl
-570,AD2nMRaIrqb,ezCoref: A Scalable Approach for Collecting Crowdsourced Annotations for Coreference Resolution,,,,,/pdf?id=AD2nMRaIrqb,,,,,,,,,,,,,Anonymous,/forum?id=AD2nMRaIrqb
-571,QXSIhKXBaFP,Modeling Exemplification in Long-form Question Answering via Retrieval,,,,,/pdf?id=QXSIhKXBaFP,,,,,,,,,,,,,Anonymous,/forum?id=QXSIhKXBaFP
-572,e6jPQRUUWeT,Detection of Word Adversarial Examples in NLP: Benchmark and Baseline via Robust Density Estimation,,,,,/pdf?id=e6jPQRUUWeT,,,,,,,,,,,,,Anonymous,/forum?id=e6jPQRUUWeT
-573,ZQejhmTreE8,Hierarchical Transformers Are More Efficient Language Models,,,,,/pdf?id=ZQejhmTreE8,,,,,,,,,,,,,Anonymous,/forum?id=ZQejhmTreE8
-574,_uuDqxI1Fo6,ULF: Cross-Validation for Weak Supervision,,,,,/pdf?id=_uuDqxI1Fo6,,,,,,,,,,,,,Anonymous,/forum?id=_uuDqxI1Fo6
-575,6_HFFqdYjSO,A Relation Semantic Information Attentive Stereoscopic Framework for Relational Triple Extraction,,,,,/pdf?id=6_HFFqdYjSO,,,,,,,,,,,,,Anonymous,/forum?id=6_HFFqdYjSO
-576,RNI5LO-axuw,"Show, Don't Tell: Demonstrations Outperform Descriptions for Schema-Guided Task-Oriented Dialogue",,,,,/pdf?id=RNI5LO-axuw,,,,,,,,,,,,,Anonymous,/forum?id=RNI5LO-axuw
-577,TJSDdKdBjlA,ComSearch: Equation Searching with Combinatorial Mathematics for Solving Math Word Problems with Weak Supervision,,,,,/pdf?id=TJSDdKdBjlA,,,,,,,,,,,,,Anonymous,/forum?id=TJSDdKdBjlA
-578,29mx8VNszc,On the Anatomy of Latent-variable Generative Models for Conditional Text Generation,,,,,/pdf?id=29mx8VNszc,,,,,,,,,,,,,Anonymous,/forum?id=29mx8VNszc
-579,FBUPD9Xgt_A,Unsupervised Common Sense Relation Extraction,,,,,/pdf?id=FBUPD9Xgt_A,,,,,,,,,,,,,Anonymous,/forum?id=FBUPD9Xgt_A
-580,5kVxr1D_0Xq,GraphDiffs: Graph Modeling with Differential Sequence for Document-Grounded Conversation,,,,,/pdf?id=5kVxr1D_0Xq,,,,,,,,,,,,,Anonymous,/forum?id=5kVxr1D_0Xq
-581,oIHR0YKPDW4,NeuS: Neutral Multi-News Summarization for Framing Bias Mitigation,,,,,/pdf?id=oIHR0YKPDW4,,,,,,,,,,,,,Anonymous,/forum?id=oIHR0YKPDW4
-582,zQTeSUojkr5,Building a Role Specified Open-Domain Dialogue System Leveraging Large-Scale Language Models,,,,,/pdf?id=zQTeSUojkr5,,,,,,,,,,,,,Anonymous,/forum?id=zQTeSUojkr5
-583,i8_xrITB-_J,Detecting Unintended Social Bias in Toxic Language Datasets,,,,,/pdf?id=i8_xrITB-_J,,,,,,,,,,,,,Anonymous,/forum?id=i8_xrITB-_J
-584,QNDDSUiSuBD,Lexicon for multiword expression identification,,,,,/pdf?id=QNDDSUiSuBD,,,,,,,,,,,,,Anonymous,/forum?id=QNDDSUiSuBD
-585,Dweo3Oop7lV,LexiCon: Lexically Constrained Review Generation via Robust Insertion,,,,,/pdf?id=Dweo3Oop7lV,,,,,,,,,,,,,Anonymous,/forum?id=Dweo3Oop7lV
-586,GeuGp66hI18,Investigating the Benefits of Free-Form Rationales,,,,,/pdf?id=GeuGp66hI18,,,,,,,,,,,,,Anonymous,/forum?id=GeuGp66hI18
-587,AJR1_tl-VY-,Multimodal Semi-supervised Learning for Disaster Tweet Classification,,,,,/pdf?id=AJR1_tl-VY-,,,,,,,,,,,,,Anonymous,/forum?id=AJR1_tl-VY-
-588,wFEl0shQ9F1,Causal Language Model for Zero-shot Constrained Keyphrase Generation,,,,,/pdf?id=wFEl0shQ9F1,,,,,,,,,,,,,Anonymous,/forum?id=wFEl0shQ9F1
-589,Z1LmYdQluQz,Identifying and Measuring Token-Level Sentiment Bias in Pre-trained Language Models with Prompts,,,,,/pdf?id=Z1LmYdQluQz,,,,,,,,,,,,,Anonymous,/forum?id=Z1LmYdQluQz
-590,CAMSwlHXtoJ,Consecutive Question Generation with Multitask Joint Reranking and Dynamic Rationale Search,,,,,/pdf?id=CAMSwlHXtoJ,,,,,,,,,,,,,Anonymous,/forum?id=CAMSwlHXtoJ
-591,976tbEd9fxU,CQMrobust: A Chinese Dataset of Linguistically Perturbed Natural Questions for Evaluating the Robustness of Question Matching Models,,,,,/pdf?id=976tbEd9fxU,,,,,,,,,,,,,Anonymous,/forum?id=976tbEd9fxU
-592,t6Vo4bMzb9M,Gated Recursive and Sequential Deep Hierarchical Encoding for Detecting Incongruent News Articles,,,,,/pdf?id=t6Vo4bMzb9M,,,,,,,,,,,,,Anonymous,/forum?id=t6Vo4bMzb9M
-593,2bspCogtJ8L,Classification of Illegal Drug Sales Posts using Clustering-Based Topic Modeling.,,,,,/pdf?id=2bspCogtJ8L,,,,,,,,,,,,,Anonymous,/forum?id=2bspCogtJ8L
-594,2tq_R5_95x8,Challenge for open-domain targeted sentiment analysis,,,,,/pdf?id=2tq_R5_95x8,,,,,,,,,,,,,Anonymous,/forum?id=2tq_R5_95x8
-595,mW--9n3IMBJ,"""You might think about slightly revising the title"": identifying hedges in peer-tutoring interactions",,,,,/pdf?id=mW--9n3IMBJ,,,,,,,,,,,,,Anonymous,/forum?id=mW--9n3IMBJ
-596,gul1Kz8fzqE,Textual Backdoor Attacks Can Be More Harmful via Two Simple Tricks,,,,,/pdf?id=gul1Kz8fzqE,,,,,,,,,,,,,Anonymous,/forum?id=gul1Kz8fzqE
-597,x_JPbPyWbt2,A Study of Pre-trained Language Models for Analogy Generation,,,,,/pdf?id=x_JPbPyWbt2,,,,,,,,,,,,,Anonymous,/forum?id=x_JPbPyWbt2
-598,CN9Qj8cDtOP,MUST: A Framework for Training Task-oriented Dialogue Systems with Multiple User SimulaTors,,,,,/pdf?id=CN9Qj8cDtOP,,,,,,,,,,,,,Anonymous,/forum?id=CN9Qj8cDtOP
-599,cXGJy7WkHD0,Exploring the Low-Resource Transfer-Learning with mT5 model,,,,,/pdf?id=cXGJy7WkHD0,,,,,,,,,,,,,Anonymous,/forum?id=cXGJy7WkHD0
-600,AcKjgOYsDRh,PNEG: Prompt-based Negative Response Generation for Robust Response Selection Model,,,,,/pdf?id=AcKjgOYsDRh,,,,,,,,,,,,,Anonymous,/forum?id=AcKjgOYsDRh
-601,RhQZzJQrDdg,Learning from Explanations: Multi-aspect based Age-restricted Rating Prediction in Long Scripts,,,,,/pdf?id=RhQZzJQrDdg,,,,,,,,,,,,,Anonymous,/forum?id=RhQZzJQrDdg
-602,y7mbZumiRFQ,Modularized Transfer Learning with Multiple Knowledge Graphs for Zero-shot Commonsense Reasoning,,,,,/pdf?id=y7mbZumiRFQ,,,,,,,,,,,,,Anonymous,/forum?id=y7mbZumiRFQ
-603,zlGRLoYVegN,Document-level Neural Machine Translation Using Dependency RST Structure,,,,,/pdf?id=zlGRLoYVegN,,,,,,,,,,,,,Anonymous,/forum?id=zlGRLoYVegN
-604,D4O4QbXQfSn,Phrase-level Textual Adversarial Attack with Label Preservation,,,,,/pdf?id=D4O4QbXQfSn,,,,,,,,,,,,,Anonymous,/forum?id=D4O4QbXQfSn
-605,mNW3E3hfyTi,MultiCite: Modeling realistic citations requires moving beyond the single-sentence single-label setting,,,,,/pdf?id=mNW3E3hfyTi,,,,,,,,,,,,,Anonymous,/forum?id=mNW3E3hfyTi
-606,fE6Md7R_vqA,ValCAT: Generating Variable-Length Contextualized Adversarial Transformations using Encoder-Decoder,,,,,/pdf?id=fE6Md7R_vqA,,,,,,,,,,,,,Anonymous,/forum?id=fE6Md7R_vqA
-607,KBpfIEHa9Th,Dynamic Programming in Rank Space: Scaling Structured Inference with Low-Rank HMMs and PCFGs,,,,,/pdf?id=KBpfIEHa9Th,,,,,,,,,,,,,Anonymous,/forum?id=KBpfIEHa9Th
-608,zwUYKKosPKC,Can BERT Conduct Logical Reasoning? On the Difficulty of Learning to Reason from Data,,,,,/pdf?id=zwUYKKosPKC,,,,,,,,,,,,,Anonymous,/forum?id=zwUYKKosPKC
-609,ppmgJ-i_tSI,Rare Tokens Degenerate All Tokens: Improving Neural Text Generation via Adaptive Gradient Gating for Rare Token Embeddings,,,,,/pdf?id=ppmgJ-i_tSI,,,,,,,,,,,,,Anonymous,/forum?id=ppmgJ-i_tSI
-610,yBlgRDURgfN,SANCL: Multimodal Review Helpfulness Prediction with Selective Attention and Natural Contrastive Learning,,,,,/pdf?id=yBlgRDURgfN,,,,,,,,,,,,,Anonymous,/forum?id=yBlgRDURgfN
-611,8_8LIpyONKk,BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models,,,,,/pdf?id=8_8LIpyONKk,,,,,,,,,,,,,Anonymous,/forum?id=8_8LIpyONKk
-612,YTLFfSsh_Zi,A Self-Adaptive Learning Rate and Curriculum Learning Based Framework for Few-Shot Text Classification,,,,,/pdf?id=YTLFfSsh_Zi,,,,,,,,,,,,,Anonymous,/forum?id=YTLFfSsh_Zi
-613,NHECrvMz1LL,ERNIE-Layout: Layout-Knowledge Enhanced Multi-modal Pre-training for Document Understanding,,,,,/pdf?id=NHECrvMz1LL,,,,,,,,,,,,,Anonymous,/forum?id=NHECrvMz1LL
-614,amiUSC6LawM,Jointly Reinforced User Simulator and Task-oriented Dialog System with Simplified Generative Architecture,,,,,/pdf?id=amiUSC6LawM,,,,,,,,,,,,,Anonymous,/forum?id=amiUSC6LawM
-615,WwX4I6Vt3sL,FORTAP: Using Formulas for Numerical-Reasoning-Aware Table Pretraining,,,,,/pdf?id=WwX4I6Vt3sL,,,,,,,,,,,,,Anonymous,/forum?id=WwX4I6Vt3sL
-616,j1eEMYQv1xo,AraBART: a Pretrained Arabic Sequence-to-Sequence Model for Abstractive Summarization,,,,,/pdf?id=j1eEMYQv1xo,,,,,,,,,,,,,Anonymous,/forum?id=j1eEMYQv1xo
-617,oRzlpBCwNfT,Evaluating the Text-to-SQL Capabilities of Large Language Models,,,,,/pdf?id=oRzlpBCwNfT,,,,,,,,,,,,,Anonymous,/forum?id=oRzlpBCwNfT
-618,sYuJ1jrVQuL,MuCGEC: a Multi-Reference Multi-Source Evaluation Dataset for Chinese Grammatical Error Correction,,,,,/pdf?id=sYuJ1jrVQuL,,,,,,,,,,,,,Anonymous,/forum?id=sYuJ1jrVQuL
-619,6d9vG4hBd9s,GlobEnc: Quantifying Global Token Attribution by Incorporating the Whole Encoder Layer in Transformers,,,,,/pdf?id=6d9vG4hBd9s,,,,,,,,,,,,,Anonymous,/forum?id=6d9vG4hBd9s
-620,viX7312zHYb,Extending Multi-Text Sentence Fusion Resources via Pyramid Annotations,,,,,/pdf?id=viX7312zHYb,,,,,,,,,,,,,Anonymous,/forum?id=viX7312zHYb
-621,t6kEIvmYTuu,AllWOZ: Towards Multilingual Task-Oriented Dialog Systems for All,,,,,/pdf?id=t6kEIvmYTuu,,,,,,,,,,,,,Anonymous,/forum?id=t6kEIvmYTuu
-622,Qyk9zP29nNZ,"LawngNLI: a multigranular, long-premise NLI benchmark for evaluating models’ in-domain generalization from short to long contexts",,,,,/pdf?id=Qyk9zP29nNZ,,,,,,,,,,,,,Anonymous,/forum?id=Qyk9zP29nNZ
-623,8zJEDI2JyYR,Multi-way VNMT for UGC: Improving Robustness and Capacity via Mixture Density Networks,,,,,/pdf?id=8zJEDI2JyYR,,,,,,,,,,,,,Anonymous,/forum?id=8zJEDI2JyYR
-624,3qisgI1DAcd,Pruning Adatperfusion with Lottery Ticket Hypothesis,,,,,/pdf?id=3qisgI1DAcd,,,,,,,,,,,,,Anonymous,/forum?id=3qisgI1DAcd
-625,UVWsPH3vtn2,Towards a Fast Response Selection: Selecting the Optimal Dialogue Response Once for All,,,,,/pdf?id=UVWsPH3vtn2,,,,,,,,,,,,,Anonymous,/forum?id=UVWsPH3vtn2
-626,0DR74NlWR7u,FaiRR: Faithful and Robust Deductive Reasoning over Natural Language,,,,,/pdf?id=0DR74NlWR7u,,,,,,,,,,,,,Anonymous,/forum?id=0DR74NlWR7u
-627,O_W4h-44Rzf,RGL: A Simple yet Effective Relation Graph Augmented Prompt-based Tuning Approach for Few-Shot Learning,,,,,/pdf?id=O_W4h-44Rzf,,,,,,,,,,,,,Anonymous,/forum?id=O_W4h-44Rzf
-628,KYXXdGz43R02,"When Does Translation Require Context? A Data-driven, Multilingual Exploration",,,,,/pdf?id=KYXXdGz43R02,,,,,,,,,,,,,Anonymous,/forum?id=KYXXdGz43R02
-629,We8DbQJV64N,Continual Prompt Tuning for Dialog State Tracking,,,,,/pdf?id=We8DbQJV64N,,,,,,,,,,,,,Anonymous,/forum?id=We8DbQJV64N
-630,O1VX99FS0ER,Multi-stage Distillation Framework for Cross-Lingual Semantic Similarity Matching,,,,,/pdf?id=O1VX99FS0ER,,,,,,,,,,,,,Anonymous,/forum?id=O1VX99FS0ER
-631,NqEMt9LQcn8,How to Translate Your Samples and Choose Your Shots? Analyzing Translate-train & Few-shot Cross-lingual Transfer,,,,,/pdf?id=NqEMt9LQcn8,,,,,,,,,,,,,Anonymous,/forum?id=NqEMt9LQcn8
-632,Exj6aIhaZtN,Reinforcement Learning with Large Action Spaces for Neural Machine Translation,,,,,/pdf?id=Exj6aIhaZtN,,,,,,,,,,,,,Anonymous,/forum?id=Exj6aIhaZtN
-633,8-bMehdzFKG,Unlearnable Text for Neural Classifiers,,,,,/pdf?id=8-bMehdzFKG,,,,,,,,,,,,,Anonymous,/forum?id=8-bMehdzFKG
-634,GNfsr9EXKMH,Measuring and Improving Compositional Generalization in Text-to-SQL via Component Alignment,,,,,/pdf?id=GNfsr9EXKMH,,,,,,,,,,,,,Anonymous,/forum?id=GNfsr9EXKMH
-635,EjZROozGRQK,Improving Neural Models for Radiology Report Retrieval with Lexicon-based Automated Annotation,,,,,/pdf?id=EjZROozGRQK,,,,,,,,,,,,,Anonymous,/forum?id=EjZROozGRQK
-636,gqpNQEiu7rq,C3KG: A Chinese Commonsense Conversation Knowledge Graph,,,,,/pdf?id=gqpNQEiu7rq,,,,,,,,,,,,,Anonymous,/forum?id=gqpNQEiu7rq
-637,aqkvr7TJveE,AlephBERT: Language Model Pre-training and Evaluation from Sub-Word to Sentence Level,,,,,/pdf?id=aqkvr7TJveE,,,,,,,,,,,,,Anonymous,/forum?id=aqkvr7TJveE
-638,x1mQp1Q9bKq,CSL: A Large-scale Chinese Scientific Literature Dataset for Cross-task Evaluation,,,,,/pdf?id=x1mQp1Q9bKq,,,,,,,,,,,,,Anonymous,/forum?id=x1mQp1Q9bKq
-639,rrl7MTst9wV,DocEE: A Large-Scale and Fine-grained Benchmark for Document-level Event Extraction,,,,,/pdf?id=rrl7MTst9wV,,,,,,,,,,,,,Anonymous,/forum?id=rrl7MTst9wV
-640,YngWgPnaRNk,Rethinking Offensive Text Detection as a Multi-Hop Reasoning Problem,,,,,/pdf?id=YngWgPnaRNk,,,,,,,,,,,,,Anonymous,/forum?id=YngWgPnaRNk
-641,8KHmFphT9BA,Data Augmentation for Low-Resource Dialogue Summarization,,,,,/pdf?id=8KHmFphT9BA,,,,,,,,,,,,,Anonymous,/forum?id=8KHmFphT9BA
-642,hKxlrW6p7Od,Curriculum: A Broad-Coverage Benchmark for Linguistic Phenomena in Natural Language Understanding,,,,,/pdf?id=hKxlrW6p7Od,,,,,,,,,,,,,Anonymous,/forum?id=hKxlrW6p7Od
-643,rqONayCTQKl,Rethinking Style Transformer by Energy-based Interpretation: Adversarial Unsupervised Style Transfer using Pretrained Model,,,,,/pdf?id=rqONayCTQKl,,,,,,,,,,,,,Anonymous,/forum?id=rqONayCTQKl
-644,cSFK2fi_-Ya,Neural Discourse Deixis Resolution in Dialogue,,,,,/pdf?id=cSFK2fi_-Ya,,,,,,,,,,,,,Anonymous,/forum?id=cSFK2fi_-Ya
-645,adfU1eO0E-R,Contrastive Demonstration Tuning for Pre-trained Language Models,,,,,/pdf?id=adfU1eO0E-R,,,,,,,,,,,,,Anonymous,/forum?id=adfU1eO0E-R
-646,Q93cnfCFcVP,Learning Sense Embeddings from Definitions in Dictionaries,,,,,/pdf?id=Q93cnfCFcVP,,,,,,,,,,,,,Anonymous,/forum?id=Q93cnfCFcVP
-647,AXB1GhRvcpi,Towards a Progression-Aware Autonomous Dialogue Agent,,,,,/pdf?id=AXB1GhRvcpi,,,,,,,,,,,,,Anonymous,/forum?id=AXB1GhRvcpi
-648,0Zl3CPON9Xp,Layout-Aware Neural Model for Resolving Hierarchical Table Structure,,,,,/pdf?id=0Zl3CPON9Xp,,,,,,,,,,,,,Anonymous,/forum?id=0Zl3CPON9Xp
-649,0E6g4Ltb5fK,E-MMAD: Multimodal Advertising Caption Generation Based on Structured Information,,,,,/pdf?id=0E6g4Ltb5fK,,,,,,,,,,,,,Anonymous,/forum?id=0E6g4Ltb5fK
-650,iPKv1tzNiVT,Learning to Embed Multi-Modal Contexts for Situated Conversational Agents,,,,,/pdf?id=iPKv1tzNiVT,,,,,,,,,,,,,Anonymous,/forum?id=iPKv1tzNiVT
-651,s-BXA8RAyqG,Don’t Forget About Pronouns: Removing Gender Bias in Language Models without Losing Factual Gender Information,,,,,/pdf?id=s-BXA8RAyqG,,,,,,,,,,,,,Anonymous,/forum?id=s-BXA8RAyqG
-652,r6jj9mzJQoB,FAQ Search using Transformers,,,,,/pdf?id=r6jj9mzJQoB,,,,,,,,,,,,,Anonymous,/forum?id=r6jj9mzJQoB
-653,FWukYrX0t6j,Sentence-Level Discourse Parsing as Text-to-Text Generation,,,,,/pdf?id=FWukYrX0t6j,,,,,,,,,,,,,Anonymous,/forum?id=FWukYrX0t6j
-654,c9GC787LMH-,JEFF - Just Another EFFicient Reading Comprehension Test Generation,,,,,/pdf?id=c9GC787LMH-,,,,,,,,,,,,,Anonymous,/forum?id=c9GC787LMH-
-655,mTLXhBjTKfv,What Role Does BERT Play in the Neural Machine Translation Encoder?,,,,,/pdf?id=mTLXhBjTKfv,,,,,,,,,,,,,Anonymous,/forum?id=mTLXhBjTKfv
-656,fnYdYtgZZAf,Quantifying Synthesis and Fusion and their Impact on Machine Translation,,,,,/pdf?id=fnYdYtgZZAf,,,,,,,,,,,,,Anonymous,/forum?id=fnYdYtgZZAf
-657,LVmSkZmo54Q,Deep Speech Synthesis from Articulatory Features,,,,,/pdf?id=LVmSkZmo54Q,,,,,,,,,,,,,Anonymous,/forum?id=LVmSkZmo54Q
-658,QJLoLULSGgU,How do we get there? Evaluating transformer neural networks as cognitive models for English past tense inflection,,,,,/pdf?id=QJLoLULSGgU,,,,,,,,,,,,,Anonymous,/forum?id=QJLoLULSGgU
-659,L99I9HrEtEm,Generating a Temporally Coherent Visual Story by Multimodal Recurrent Transformers,,,,,/pdf?id=L99I9HrEtEm,,,,,,,,,,,,,Anonymous,/forum?id=L99I9HrEtEm
-660,GYoa5ACzHWz,AdapLeR: Speeding up Inference by Adaptive Length Reduction,,,,,/pdf?id=GYoa5ACzHWz,,,,,,,,,,,,,Anonymous,/forum?id=GYoa5ACzHWz
-661,-wc0jAX3vrc,A Bit Bayesian Facilitates Efficient Training in Token Classification,,,,,/pdf?id=-wc0jAX3vrc,,,,,,,,,,,,,Anonymous,/forum?id=-wc0jAX3vrc
-662,Na_kBu73Zu6,A Multi-Granularity Opinion Summarization Method,,,,,/pdf?id=Na_kBu73Zu6,,,,,,,,,,,,,Anonymous,/forum?id=Na_kBu73Zu6
-663,uZya7S2FTm8,Meta-CQG: A Meta-Learning Framework for Complex Question Generation over Knowledge Graph,,,,,/pdf?id=uZya7S2FTm8,,,,,,,,,,,,,Anonymous,/forum?id=uZya7S2FTm8
-664,4Gew0VrWfkx,Evaluating the timing and magnitude of semantic change in diachronic word embedding models,,,,,/pdf?id=4Gew0VrWfkx,,,,,,,,,,,,,Anonymous,/forum?id=4Gew0VrWfkx
-665,W0-o-iIrHdf,Enhanced Knowledge Graphs Using Typed Entailment Graphs,,,,,/pdf?id=W0-o-iIrHdf,,,,,,,,,,,,,Anonymous,/forum?id=W0-o-iIrHdf
-666,ws3nelDnj9a,Contrastive Event Extraction Using Video Enhancements,,,,,/pdf?id=ws3nelDnj9a,,,,,,,,,,,,,Anonymous,/forum?id=ws3nelDnj9a
-667,5QceorMcHAj,Exploring the Impact of Negative Samples of Contrastive Learning: A Case Study of Sentence Embedding,,,,,/pdf?id=5QceorMcHAj,,,,,,,,,,,,,Anonymous,/forum?id=5QceorMcHAj
-668,KR69SusWn57,Statistical word segmentation in spontaneous child-directed speech of Korean,,,,,/pdf?id=KR69SusWn57,,,,,,,,,,,,,Anonymous,/forum?id=KR69SusWn57
-669,Df_CpzeOUiL,EmpHi: Generating Empathetic Responses with Human-like Intents,,,,,/pdf?id=Df_CpzeOUiL,,,,,,,,,,,,,Anonymous,/forum?id=Df_CpzeOUiL
+106,1LTH7-y4oUn,Augmenting Document Representations for Dense Retrieval with Interpolation and Perturbation,,,,,/pdf?id=1LTH7-y4oUn,,,,,,,,,,,,,Anonymous,/forum?id=1LTH7-y4oUn
+107,vD5JzgHTt9Q,Towards Interactive Language Modeling,,,,,/pdf?id=vD5JzgHTt9Q,,,,,,,,,,,,,Anonymous,/forum?id=vD5JzgHTt9Q
+108,05JLuxoSbX5,Exploring the Value of Multi-View Learning for Session-Aware Query Representation,,,,,/pdf?id=05JLuxoSbX5,,,,,,,,,,,,,Anonymous,/forum?id=05JLuxoSbX5
+109,joltZKL-0q3,Practical Dataless Text Classification Through Dense Retrieval,,,,,/pdf?id=joltZKL-0q3,,,,,,,,,,,,,Anonymous,/forum?id=joltZKL-0q3
+110,p5jgs957DXh,"EVI: Multilingual Spoken Dialogue Tasks and Dataset for Knowledge-Based Enrolment, Verification, and Identification",,,,,/pdf?id=p5jgs957DXh,,,,,,,,,,,,,Anonymous,/forum?id=p5jgs957DXh
+111,7Oed3xqyEp-,Improving Fairness without Demographic by Lagged Dynamic Grouping,,,,,/pdf?id=7Oed3xqyEp-,,,,,,,,,,,,,Anonymous,/forum?id=7Oed3xqyEp-
+112,Xg0hWle2l-c,A Generative Language Model for Few-shot Aspect-Based Sentiment Analysis,,,,,/pdf?id=Xg0hWle2l-c,,,,,,,,,,,,,Anonymous,/forum?id=Xg0hWle2l-c
+113,-ZsTBN3IAwW,Nearest Neighbor Knowledge Distillation for Neural Machine Translation,,,,,/pdf?id=-ZsTBN3IAwW,,,,,,,,,,,,,Anonymous,/forum?id=-ZsTBN3IAwW
+114,vb7QMBpFO-3,Experiments with adversarial attacks on text genres,,,,,/pdf?id=vb7QMBpFO-3,,,,,,,,,,,,,Anonymous,/forum?id=vb7QMBpFO-3
+115,ZJHxuYn-sXn,Measuring Word-Context Biases in Lexical Semantic Datasets,,,,,/pdf?id=ZJHxuYn-sXn,,,,,,,,,,,,,Anonymous,/forum?id=ZJHxuYn-sXn
+116,s6KeZrpn3Xm,Incorporating Question Answering-Based Signals into Abstractive Summarization via Salient Span Selection,,,,,/pdf?id=s6KeZrpn3Xm,,,,,,,,,,,,,Anonymous,/forum?id=s6KeZrpn3Xm
+117,y5e8K7dzRXM,Generative Pretraining for Paraphrase Evaluation,,,,,/pdf?id=y5e8K7dzRXM,,,,,,,,,,,,,Anonymous,/forum?id=y5e8K7dzRXM
+118,tQMLoEFrZUZ,Patching Leaks in the Charformer for Generative Tasks,,,,,/pdf?id=tQMLoEFrZUZ,,,,,,,,,,,,,Anonymous,/forum?id=tQMLoEFrZUZ
+119,pUwtbIy9xiW,MixQG: Neural Question Generation with Mixed Answer Types,,,,,/pdf?id=pUwtbIy9xiW,,,,,,,,,,,,,Anonymous,/forum?id=pUwtbIy9xiW
+120,IuIP-BWC88W,Few-Shot Authorship Attribution in English Reddit Posts,,,,,/pdf?id=IuIP-BWC88W,,,,,,,,,,,,,Anonymous,/forum?id=IuIP-BWC88W
+121,0BvzMpR0zkJ,PPL-MCTS: Constrained Textual Generation Through Discriminator-Guided MCTS Decoding,,,,,/pdf?id=0BvzMpR0zkJ,,,,,,,,,,,,,Anonymous,/forum?id=0BvzMpR0zkJ
+122,BG3CJCM3jLX,Neural Pipeline for Zero-Shot Data-to-Text Generation,,,,,/pdf?id=BG3CJCM3jLX,,,,,,,,,,,,,Anonymous,/forum?id=BG3CJCM3jLX
+123,3brEESkiXOJ,GUSUM: Graph-Based Unsupervised Summarization using Sentence-BERT and Sentence Features,,,,,/pdf?id=3brEESkiXOJ,,,,,,,,,,,,,Anonymous,/forum?id=3brEESkiXOJ
+124,6RjSJUjpcuV,Breaking Character: Are Subwords Good Enough for MRLs After All?,,,,,/pdf?id=6RjSJUjpcuV,,,,,,,,,,,,,Anonymous,/forum?id=6RjSJUjpcuV
+125,ifRFQoYYrpu,Uninformative Input Features and Counterfactual Invariance: Two Perspectives on Spurious Correlations in Natural Language,,,,,/pdf?id=ifRFQoYYrpu,,,,,,,,,,,,,Anonymous,/forum?id=ifRFQoYYrpu
+126,nQuO_vNMGlf,Retrieving Visual Facts For Few-Shot Visual Question Answering,,,,,/pdf?id=nQuO_vNMGlf,,,,,,,,,,,,,Anonymous,/forum?id=nQuO_vNMGlf
+127,jmKioyb4HW5,Exploring Topic-Metadata Relationships with the STM: A Bayesian Approach,,,,,/pdf?id=jmKioyb4HW5,,,,,,,,,,,,,Anonymous,/forum?id=jmKioyb4HW5
+128,AQd70VuZumt,NewsClaims: A New Benchmark for Claim Detection from News with Background Knowledge,,,,,/pdf?id=AQd70VuZumt,,,,,,,,,,,,,Anonymous,/forum?id=AQd70VuZumt
+129,ks4BvF7kpiP,Fine-tuning Strategies for Domain Specific Question Answering under Low Annotation Budget Constraints,,,,,/pdf?id=ks4BvF7kpiP,,,,,,,,,,,,,Anonymous,/forum?id=ks4BvF7kpiP
+130,LGG1BDdBf6T,Imagination-Augmented Natural Language Understanding,,,,,/pdf?id=LGG1BDdBf6T,,,,,,,,,,,,,Anonymous,/forum?id=LGG1BDdBf6T
+131,qSMK1JCZcr7,Learning to Transpile AMR into SPARQL,,,,,/pdf?id=qSMK1JCZcr7,,,,,,,,,,,,,Anonymous,/forum?id=qSMK1JCZcr7
+132,Ut_dJIRjaTE,Framework for Weakly Supervised Causal Knowledge Extraction from Text,,,,,/pdf?id=Ut_dJIRjaTE,,,,,,,,,,,,,Anonymous,/forum?id=Ut_dJIRjaTE
+133,jCqESRWnumE,Cross-Lingual Speaker Identification from Weak Local Evidence,,,,,/pdf?id=jCqESRWnumE,,,,,,,,,,,,,Anonymous,/forum?id=jCqESRWnumE
+134,oI5rz7RpJkE,Cooperative Self-training of Machine Reading Comprehension,,,,,/pdf?id=oI5rz7RpJkE,,,,,,,,,,,,,Anonymous,/forum?id=oI5rz7RpJkE
+135,6A1KnBQ3C4i,Applying SoftTriple Loss for Supervised Language Model Fine Tuning,,,,,/pdf?id=6A1KnBQ3C4i,,,,,,,,,,,,,Anonymous,/forum?id=6A1KnBQ3C4i
+136,vCZJ9Lsonbr,A Dataset for Cross-Domain Reasoning via Template Filling,,,,,/pdf?id=vCZJ9Lsonbr,,,,,,,,,,,,,Anonymous,/forum?id=vCZJ9Lsonbr
+137,myR1JFrsAyf,Original or Translated? A Causal Analysis of the Impact of Translationese on Machine Translation Performance,,,,,/pdf?id=myR1JFrsAyf,,,,,,,,,,,,,Anonymous,/forum?id=myR1JFrsAyf
+138,_R7UMusdRsc,"Re2G: Retrieve, Rerank, Generate",,,,,/pdf?id=_R7UMusdRsc,,,,,,,,,,,,,Anonymous,/forum?id=_R7UMusdRsc
+139,hVMTX-VI0Os,Cross-document Misinformation Detection based on Event Graph Reasoning,,,,,/pdf?id=hVMTX-VI0Os,,,,,,,,,,,,,Anonymous,/forum?id=hVMTX-VI0Os
+140,ec9cpZPy5g5,Analyzing Gender Representation in Multilingual Models,,,,,/pdf?id=ec9cpZPy5g5,,,,,,,,,,,,,Anonymous,/forum?id=ec9cpZPy5g5
+141,5vIHjwJQ5gd,Simple Local Attentions Remain Competitive for Long-Context Tasks,,,,,/pdf?id=5vIHjwJQ5gd,,,,,,,,,,,,,Anonymous,/forum?id=5vIHjwJQ5gd
+142,NYmf7gXUxEp,Unsupervised Sentence Simplification via Dependency Parsing,,,,,/pdf?id=NYmf7gXUxEp,,,,,,,,,,,,,Anonymous,/forum?id=NYmf7gXUxEp
+143,OXqk4rKn9LT,Learning Cross-Lingual IR from an English Retriever,,,,,/pdf?id=OXqk4rKn9LT,,,,,,,,,,,,,Anonymous,/forum?id=OXqk4rKn9LT
+144,O7myCI2gRxz,MedDistant19: A Challenging Benchmark for Distantly Supervised Biomedical Relation Extraction,,,,,/pdf?id=O7myCI2gRxz,,,,,,,,,,,,,Anonymous,/forum?id=O7myCI2gRxz
+145,AY2bywSJyHt,Knowledge-Grounded Dialogue Generation with a Unified Knowledge Representation,,,,,/pdf?id=AY2bywSJyHt,,,,,,,,,,,,,Anonymous,/forum?id=AY2bywSJyHt
+146,VjqE1LTyBTQ,On Leakage in Some Popular Benchmarks on Graphs,,,,,/pdf?id=VjqE1LTyBTQ,,,,,,,,,,,,,Anonymous,/forum?id=VjqE1LTyBTQ
+147,sINbaZ78joE,Multi-Task End-to-End Training Improves Conversational Recommendation,,,,,/pdf?id=sINbaZ78joE,,,,,,,,,,,,,Anonymous,/forum?id=sINbaZ78joE
+148,8cwJDZ1VezG,Evidentiality-guided Generation for Knowledge-Intensive NLP Tasks,,,,,/pdf?id=8cwJDZ1VezG,,,,,,,,,,,,,Anonymous,/forum?id=8cwJDZ1VezG
+149,_MI2TODL0Hp,Challenges in Generalization in Open Domain Question Answering,,,,,/pdf?id=_MI2TODL0Hp,,,,,,,,,,,,,Anonymous,/forum?id=_MI2TODL0Hp
+150,c6XVYvJR9ZI,Towards Personalized Intelligence at Scale,,,,,/pdf?id=c6XVYvJR9ZI,,,,,,,,,,,,,Anonymous,/forum?id=c6XVYvJR9ZI
+151,dWjknwjRtZ0,End-to-end Dense Video Captioning as Sequence Generation,,,,,/pdf?id=dWjknwjRtZ0,,,,,,,,,,,,,Anonymous,/forum?id=dWjknwjRtZ0
+152,Dye-_x--S_y,PROMPT WAYWARDNESS: The Curious Case of Discretized Interpretation of Continuous Prompts,,,,,/pdf?id=Dye-_x--S_y,,,,,,,,,,,,,Anonymous,/forum?id=Dye-_x--S_y
+153,_q_aybC1ZS3,Semantically Informed Slang Interpretation,,,,,/pdf?id=_q_aybC1ZS3,,,,,,,,,,,,,Anonymous,/forum?id=_q_aybC1ZS3
+154,3ffY9B-oiAm,VEE-BERT: Accelerating BERT Inference for Named Entity Recognition via Vote Early Exiting,,,,,/pdf?id=3ffY9B-oiAm,,,,,,,,,,,,,Anonymous,/forum?id=3ffY9B-oiAm
+155,YTxDTt2aPnF,Unsupervised Domain Adaptation for Event Detection via Meta Self-Paced Learning,,,,,/pdf?id=YTxDTt2aPnF,,,,,,,,,,,,,Anonymous,/forum?id=YTxDTt2aPnF
+156,y2JTDJjhthn,PRIMERA: Pyramid-based Masked Sentence Pre-training for Multi-document Summarization,,,,,/pdf?id=y2JTDJjhthn,,,,,,,,,,,,,Anonymous,/forum?id=y2JTDJjhthn
+157,acG8o1SAFc2,From Stance to Concern: Adaptation of Propositional Analysis to New Tasks and Domains,,,,,/pdf?id=acG8o1SAFc2,,,,,,,,,,,,,Anonymous,/forum?id=acG8o1SAFc2
+158,o_PVsoXEC46,Generated Knowledge Prompting for Commonsense Reasoning,,,,,/pdf?id=o_PVsoXEC46,,,,,,,,,,,,,Anonymous,/forum?id=o_PVsoXEC46
+159,TBimhW-8Fk6,A Simple But Powerful Graph Encoder for Temporal Knowledge Graph Completion,,,,,/pdf?id=TBimhW-8Fk6,,,,,,,,,,,,,Anonymous,/forum?id=TBimhW-8Fk6
+160,VKrHeIorbiv,CONQRR: Conversational Query Rewriting for Retrieval with Reinforcement Learning,,,,,/pdf?id=VKrHeIorbiv,,,,,,,,,,,,,Anonymous,/forum?id=VKrHeIorbiv
+161,76qMNL5EUjq,Logical Story Representations via FrameNet + Semantic Parsing,,,,,/pdf?id=76qMNL5EUjq,,,,,,,,,,,,,Anonymous,/forum?id=76qMNL5EUjq
+162,tuGA1H84mfp,Boosted Dense Retriever,,,,,/pdf?id=tuGA1H84mfp,,,,,,,,,,,,,Anonymous,/forum?id=tuGA1H84mfp
+163,nIHACCIqjpV,Analyzing Modality Robustness in Multimodal Sentiment Analysis,,,,,/pdf?id=nIHACCIqjpV,,,,,,,,,,,,,Anonymous,/forum?id=nIHACCIqjpV
+164,I_YteLtAYsM,CheckDST: Measuring Real-World Generalization of Dialogue State Tracking Performance,,,,,/pdf?id=I_YteLtAYsM,,,,,,,,,,,,,Anonymous,/forum?id=I_YteLtAYsM
+165,rc76vtp7L-h,Masked Measurement Prediction: Learning to Jointly Predict Quantities and Units from Textual Context,,,,,/pdf?id=rc76vtp7L-h,,,,,,,,,,,,,Anonymous,/forum?id=rc76vtp7L-h
+166,fh0cgJ0SLvv,On a Benefit of Masked Language Model Pretraining: Robustness to Simplicity Bias,,,,,/pdf?id=fh0cgJ0SLvv,,,,,,,,,,,,,Anonymous,/forum?id=fh0cgJ0SLvv
+167,oVTXcHphZ6F,"Detection, Disambiguation, Re-ranking: Autoregressive Entity Linking as a Multi-Task Problem",,,,,/pdf?id=oVTXcHphZ6F,,,,,,,,,,,,,Anonymous,/forum?id=oVTXcHphZ6F
+168,Uk35p3W3nPh,Crossmodal-3600: A Massively Multilingual Multimodal Evaluation Dataset,,,,,/pdf?id=Uk35p3W3nPh,,,,,,,,,,,,,Anonymous,/forum?id=Uk35p3W3nPh
+169,_LCSeFudYuR,Guiding Topic Flows in the Generative Chatbot by Enhancing the ConceptNet with the Conversation Corpora,,,,,/pdf?id=_LCSeFudYuR,,,,,,,,,,,,,Anonymous,/forum?id=_LCSeFudYuR
+170,tBmBpIA14Wl,Enhanced Protein-Protein Interactions Extraction from the Literature using Entity Type- and Position-aware Representation,,,,,/pdf?id=tBmBpIA14Wl,,,,,,,,,,,,,Anonymous,/forum?id=tBmBpIA14Wl
+171,HtE8HqiU1iX,MetaICL: Learning to Learn In Context,,,,,/pdf?id=HtE8HqiU1iX,,,,,,,,,,,,,Anonymous,/forum?id=HtE8HqiU1iX
+172,BE-GuWpMN55,Language Models for Code-switch Detection of te reo Māori and English in a Low-resource Setting,,,,,/pdf?id=BE-GuWpMN55,,,,,,,,,,,,,Anonymous,/forum?id=BE-GuWpMN55
+173,yc7WkAn9hob,Tree Knowledge Distillation for Compressing Transformer-Based Language Models,,,,,/pdf?id=yc7WkAn9hob,,,,,,,,,,,,,Anonymous,/forum?id=yc7WkAn9hob
+174,qQslHiBlEOX,Quantifying Adaptability in Pre-trained Language Models with 500 Tasks,,,,,/pdf?id=qQslHiBlEOX,,,,,,,,,,,,,Anonymous,/forum?id=qQslHiBlEOX
+175,-knOw9zLTMR,Visual Commonsense in Pretrained Unimodal and Multimodal Models,,,,,/pdf?id=-knOw9zLTMR,,,,,,,,,,,,,Anonymous,/forum?id=-knOw9zLTMR
+176,2bAHv09NM8l,KCD: Knowledge Walks and Textual Cues Enhanced Political Perspective Detection in News Media,,,,,/pdf?id=2bAHv09NM8l,,,,,,,,,,,,,Anonymous,/forum?id=2bAHv09NM8l
+177,wFLuWmwTVY1,Competition Dynamics in the Meme Ecosystem,,,,,/pdf?id=wFLuWmwTVY1,,,,,,,,,,,,,Anonymous,/forum?id=wFLuWmwTVY1
+178,Th85CkD5831,Cross-lingual Lifelong Learning,,,,,/pdf?id=Th85CkD5831,,,,,,,,,,,,,Anonymous,/forum?id=Th85CkD5831
+179,fXKOj7fOcTD,Integrating Empirical Knowledge into Multi-View Feature Attention Network for Disease Diagnosis,,,,,/pdf?id=fXKOj7fOcTD,,,,,,,,,,,,,Anonymous,/forum?id=fXKOj7fOcTD
+180,kVeV2zg8EV,Improving negation detection with negation-focused pre-training,,,,,/pdf?id=kVeV2zg8EV,,,,,,,,,,,,,Anonymous,/forum?id=kVeV2zg8EV
+181,GZI4ynYCCYT,DG2: Data Augmentation Through Document Grounded Dialogue Generation,,,,,/pdf?id=GZI4ynYCCYT,,,,,,,,,,,,,Anonymous,/forum?id=GZI4ynYCCYT
+182,J_o_J6B1wJ-,Can Multilinguality Benefit Non-autoregressive Machine Translation?,,,,,/pdf?id=J_o_J6B1wJ-,,,,,,,,,,,,,Anonymous,/forum?id=J_o_J6B1wJ-
+183,LdHAEuAKQQ,Causal Distillation for Language Models,,,,,/pdf?id=LdHAEuAKQQ,,,,,,,,,,,,,Anonymous,/forum?id=LdHAEuAKQQ
+184,0gAU9W2ScBs,Beyond Emotion: A Multi-Modal Dataset for Human Desire Understanding,,,,,/pdf?id=0gAU9W2ScBs,,,,,,,,,,,,,Anonymous,/forum?id=0gAU9W2ScBs
+185,3H91FatHfa,Word-level Stroke Trajectory Recovery for Handwriting with Gaussian Dynamic Time Warping,,,,,/pdf?id=3H91FatHfa,,,,,,,,,,,,,Anonymous,/forum?id=3H91FatHfa
+186,UdoZZGT6xz,Good Examples Make A Faster Learner: Simple Demonstration-based Learning for Low-resource NER,,,,,/pdf?id=UdoZZGT6xz,,,,,,,,,,,,,Anonymous,/forum?id=UdoZZGT6xz
+187,T-Wh9Ds-qk,Neighbors Are Not Strangers: Improving Non-Autoregressive Translation under Low-Frequency Lexical Constraints,,,,,/pdf?id=T-Wh9Ds-qk,,,,,,,,,,,,,Anonymous,/forum?id=T-Wh9Ds-qk
+188,Hw_24T72STY,Balancing the Style-Content Trade-Off in Sentiment Transfer UsingPolarity-Aware Denoising,,,,,/pdf?id=Hw_24T72STY,,,,,,,,,,,,,Anonymous,/forum?id=Hw_24T72STY
+189,jv-6ampZ15,Rebuild and Ensemble: Exploring Defense Against Text Adversaries,,,,,/pdf?id=jv-6ampZ15,,,,,,,,,,,,,Anonymous,/forum?id=jv-6ampZ15
+190,faiJDv-u1i,KNN-BERT: Fine-Tuning Pre-Trained Models with KNN Classifier,,,,,/pdf?id=faiJDv-u1i,,,,,,,,,,,,,Anonymous,/forum?id=faiJDv-u1i
+191,ZYhBVKekfnW,Mosaic Augmentation for Text: Cropping and Collaging as Cross-Domain Techniques,,,,,/pdf?id=ZYhBVKekfnW,,,,,,,,,,,,,Anonymous,/forum?id=ZYhBVKekfnW
+192,FitLLp-Jwa,Progressive Class Semantic Matching for Semi-supervised Text Classification,,,,,/pdf?id=FitLLp-Jwa,,,,,,,,,,,,,Anonymous,/forum?id=FitLLp-Jwa
+193,WDHOVLFtGkO,BERT Learns to Teach: Knowledge Distillation with Meta Learning,,,,,/pdf?id=WDHOVLFtGkO,,,,,,,,,,,,,Anonymous,/forum?id=WDHOVLFtGkO
+194,iYsvE50zOL,Addressing Segmentation Ambiguity in Neural Linguistic Steganography,,,,,/pdf?id=iYsvE50zOL,,,,,,,,,,,,,Anonymous,/forum?id=iYsvE50zOL
+195,rKkRorMuKFY,Topic-controllable Abstractive Summarization,,,,,/pdf?id=rKkRorMuKFY,,,,,,,,,,,,,Anonymous,/forum?id=rKkRorMuKFY
+196,03-jwvIDYf,SemAttack: Natural Textual Attacks via Different Semantic Spaces,,,,,/pdf?id=03-jwvIDYf,,,,,,,,,,,,,Anonymous,/forum?id=03-jwvIDYf
+197,nF4l_-qSDtq,HIE-SQL: History Information Enhanced Network for Context-Dependent Text-to-SQL Semantic Parsing,,,,,/pdf?id=nF4l_-qSDtq,,,,,,,,,,,,,Anonymous,/forum?id=nF4l_-qSDtq
+198,N_ENe9EJzj,Data Augmentation for Biomedical Factoid Question Answering,,,,,/pdf?id=N_ENe9EJzj,,,,,,,,,,,,,Anonymous,/forum?id=N_ENe9EJzj
+199,f0KsTiVPZWZ,Is More Data Better? Using Transformers-Based Active Learning for Efficient and Effective Detection of Abusive Language,,,,,/pdf?id=f0KsTiVPZWZ,,,,,,,,,,,,,Anonymous,/forum?id=f0KsTiVPZWZ
+200,jIzuQcXZ74U,LMTurk: Few-Shot Learners as Crowdsourcing Workers,,,,,/pdf?id=jIzuQcXZ74U,,,,,,,,,,,,,Anonymous,/forum?id=jIzuQcXZ74U
+201,PgcGLPyh8f,An MRC Framework for Semantic Role Labeling,,,,,/pdf?id=PgcGLPyh8f,,,,,,,,,,,,,Anonymous,/forum?id=PgcGLPyh8f
+202,pBgzoJqVr6,Learning Non-Autoregressive Models from Search for Unsupervised Sentence Summarization,,,,,/pdf?id=pBgzoJqVr6,,,,,,,,,,,,,Anonymous,/forum?id=pBgzoJqVr6
+203,3eNATGzQIK7,DEGREE: A Data-Efficient Generation-Based Event Extraction Model,,,,,/pdf?id=3eNATGzQIK7,,,,,,,,,,,,,Anonymous,/forum?id=3eNATGzQIK7
+204,LBTF60vGUfH,Faster Nearest Neighbor Machine Translation,,,,,/pdf?id=LBTF60vGUfH,,,,,,,,,,,,,Anonymous,/forum?id=LBTF60vGUfH
+205,iqgS95plUN,Improving both domain robustness and domain adaptability in machine translation,,,,,/pdf?id=iqgS95plUN,,,,,,,,,,,,,Anonymous,/forum?id=iqgS95plUN
+206,TVsyDo9hbX,Divide and Conquer: Text Semantic Matching with Disentangled Keywords and Intents,,,,,/pdf?id=TVsyDo9hbX,,,,,,,,,,,,,Anonymous,/forum?id=TVsyDo9hbX
+207,zbz_FmoDRkV,Defending against Backdoor Attacks in Natural Language Generation,,,,,/pdf?id=zbz_FmoDRkV,,,,,,,,,,,,,Anonymous,/forum?id=zbz_FmoDRkV
+208,U3XEltFKh2q,MANGO: Enhancing the Robustness of VQA Models via Adversarial Noise Generation,,,,,/pdf?id=U3XEltFKh2q,,,,,,,,,,,,,Anonymous,/forum?id=U3XEltFKh2q
+209,_nY7qzxZoT,Exploring Example Selection for Few-shot Text-to-SQL Semantic Parsing,,,,,/pdf?id=_nY7qzxZoT,,,,,,,,,,,,,Anonymous,/forum?id=_nY7qzxZoT
+210,bzqte0FZQH,Toward Automatic Misinformation Detection Utilizing Fact-checked Information,,,,,/pdf?id=bzqte0FZQH,,,,,,,,,,,,,Anonymous,/forum?id=bzqte0FZQH
+211,X0FT-mSssJ,ANNA: Enhanced Language Representation for Question Answering,,,,,/pdf?id=X0FT-mSssJ,,,,,,,,,,,,,Anonymous,/forum?id=X0FT-mSssJ
+212,v3HB2E5FEgd,Generating Scientific Claims for Zero-Shot Scientific Fact Checking,,,,,/pdf?id=v3HB2E5FEgd,,,,,,,,,,,,,Anonymous,/forum?id=v3HB2E5FEgd
+213,lVdtKciDMGt,Do BERTs Learn to Use Browser User Interface? Exploring Multi-Step Tasks with Unified Vision-and-Language BERTs,,,,,/pdf?id=lVdtKciDMGt,,,,,,,,,,,,,Anonymous,/forum?id=lVdtKciDMGt
+214,9HhJMv0h_pU,The Algorithmic Inflection and Morphological Variability of Russian,,,,,/pdf?id=9HhJMv0h_pU,,,,,,,,,,,,,Anonymous,/forum?id=9HhJMv0h_pU
+215,iP2cWgCQz3,Latent Group Dropout for Multilingual and Multidomain Machine Translation,,,,,/pdf?id=iP2cWgCQz3,,,,,,,,,,,,,Anonymous,/forum?id=iP2cWgCQz3
+216,AC8P4mj14AM,ITA: Image-Text Alignments for Multi-Modal Named Entity Recognition,,,,,/pdf?id=AC8P4mj14AM,,,,,,,,,,,,,Anonymous,/forum?id=AC8P4mj14AM
+217,VwOB2V9ybT,Detection and Mitigation of Political Bias in Natural Language Processing: A Literature Review,,,,,/pdf?id=VwOB2V9ybT,,,,,,,,,,,,,Anonymous,/forum?id=VwOB2V9ybT
+218,y42xxJ_xx8,CL-ReKD: Cross-lingual Knowledge Distillation for Multilingual Retrieval Question Answering,,,,,/pdf?id=y42xxJ_xx8,,,,,,,,,,,,,Anonymous,/forum?id=y42xxJ_xx8
+219,EtZ9h4Lqs5-,A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for African News Translation,,,,,/pdf?id=EtZ9h4Lqs5-,,,,,,,,,,,,,Anonymous,/forum?id=EtZ9h4Lqs5-
+220,Isf6O2t_99,Enhancing Robustness in Aspect-based Sentiment Analysis by Better Exploiting Data Augmentation,,,,,/pdf?id=Isf6O2t_99,,,,,,,,,,,,,Anonymous,/forum?id=Isf6O2t_99
+221,VBZCrsaUpsM,Robust (Controlled) Table-to-Text Generation with Structure-Aware Equivariance Learning,,,,,/pdf?id=VBZCrsaUpsM,,,,,,,,,,,,,Anonymous,/forum?id=VBZCrsaUpsM
+222,kWmg7pTa4sN,It's What You Say and How You Say It: Exploring Textual and Audio Features for Podcast Data,,,,,/pdf?id=kWmg7pTa4sN,,,,,,,,,,,,,Anonymous,/forum?id=kWmg7pTa4sN
+223,v-bnB6VcX_,Improving language models fine-tuning with representation consistency targets,,,,,/pdf?id=v-bnB6VcX_,,,,,,,,,,,,,Anonymous,/forum?id=v-bnB6VcX_
+224,yQvObmRwUAP,Exploiting Coreference and Schema Structure for Document-level Event Extraction,,,,,/pdf?id=yQvObmRwUAP,,,,,,,,,,,,,Anonymous,/forum?id=yQvObmRwUAP
+225,zq8SarAI9Bg,"The Common Readability Formula & Five Adjusted Readability Formulas for Text Simplification, Medical Documents and Other General Uses",,,,,/pdf?id=zq8SarAI9Bg,,,,,,,,,,,,,Anonymous,/forum?id=zq8SarAI9Bg
+226,6wKqI-x0Vb,Sonnet Generation by Training on Non-poetic Texts with Discourse-level Coherence and Poetic Features,,,,,/pdf?id=6wKqI-x0Vb,,,,,,,,,,,,,Anonymous,/forum?id=6wKqI-x0Vb
+227,fRhlVm4beJ,Learning from Mental Disorder Self-tests: Multi-head Siamese Network for Few-shot Knowledge Learning,,,,,/pdf?id=fRhlVm4beJ,,,,,,,,,,,,,Anonymous,/forum?id=fRhlVm4beJ
+228,HgKHz57ExP,Knowledge Base Index Compression via Dimensionality and Precision Reduction,,,,,/pdf?id=HgKHz57ExP,,,,,,,,,,,,,Anonymous,/forum?id=HgKHz57ExP
+229,GnlD4Dzr1t,Are Pretrained Multilingual Models Equally Fair Across Languages?,,,,,/pdf?id=GnlD4Dzr1t,,,,,,,,,,,,,Anonymous,/forum?id=GnlD4Dzr1t
+230,y7fHwbLnr_C,KALA: Knowledge-Augmented Language Model Adaptation,,,,,/pdf?id=y7fHwbLnr_C,,,,,,,,,,,,,Anonymous,/forum?id=y7fHwbLnr_C
+231,0psbTwsqtox,Shapeshifter and the impact of representation in classification,,,,,/pdf?id=0psbTwsqtox,,,,,,,,,,,,,Anonymous,/forum?id=0psbTwsqtox
+232,ZZcjPRp5F1q,Code Summarization: Do Transformers Really Understand Code?,,,,,/pdf?id=ZZcjPRp5F1q,,,,,,,,,,,,,Anonymous,/forum?id=ZZcjPRp5F1q
+233,jTm9F6FB63z,Exploring Neural Models for Query-Focused Summarization,,,,,/pdf?id=jTm9F6FB63z,,,,,,,,,,,,,Anonymous,/forum?id=jTm9F6FB63z
+234,9ZfOipB8_kb,KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation,,,,,/pdf?id=9ZfOipB8_kb,,,,,,,,,,,,,Anonymous,/forum?id=9ZfOipB8_kb
+235,l1rk8Or3_k,QAFactEval: Improved QA-Based Factual Consistency Evaluation for Summarization,,,,,/pdf?id=l1rk8Or3_k,,,,,,,,,,,,,Anonymous,/forum?id=l1rk8Or3_k
+236,T4mIFZTlEF,Weakly Supervised Text-to-SQL Parsing through Question Decomposition,,,,,/pdf?id=T4mIFZTlEF,,,,,,,,,,,,,Anonymous,/forum?id=T4mIFZTlEF
+237,BYZDlNXLKl4,JointLK: Joint Reasoning with Language Models and Knowledge Graphs for Commonsense Question Answering,,,,,/pdf?id=BYZDlNXLKl4,,,,,,,,,,,,,Anonymous,/forum?id=BYZDlNXLKl4
+238,GSjFaaRWQZ0,Generate it. A simple method for End-to-End Relation Extraction,,,,,/pdf?id=GSjFaaRWQZ0,,,,,,,,,,,,,Anonymous,/forum?id=GSjFaaRWQZ0
+239,aEYu7N9GNgV,BOOKSUM: A Collection of Datasets for Long-form Narrative Summarization,,,,,/pdf?id=aEYu7N9GNgV,,,,,,,,,,,,,Anonymous,/forum?id=aEYu7N9GNgV
+240,gKbTek8Ewj,Learning to Predict Persona Information for Dialogue Personalization without Explicit Persona Description,,,,,/pdf?id=gKbTek8Ewj,,,,,,,,,,,,,Anonymous,/forum?id=gKbTek8Ewj
+241,9D65hK833L,Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis,,,,,/pdf?id=9D65hK833L,,,,,,,,,,,,,Anonymous,/forum?id=9D65hK833L
+242,cLe29FcNAKb,Non-Autoregressive Neural Machine Translation with Consistency Regularization Optimized Variational Framework,,,,,/pdf?id=cLe29FcNAKb,,,,,,,,,,,,,Anonymous,/forum?id=cLe29FcNAKb
+243,O1KYtyGu_0,A Transformer-based Threshold-Free Framework for Multi-Intent NLU,,,,,/pdf?id=O1KYtyGu_0,,,,,,,,,,,,,Anonymous,/forum?id=O1KYtyGu_0
+244,CqvI1aRa0-,When Does Syntax Mediate Neural Language Model Performance? Evidence from Dropout Probes,,,,,/pdf?id=CqvI1aRa0-,,,,,,,,,,,,,Anonymous,/forum?id=CqvI1aRa0-
+245,CcaOiLPJfZY,Expanding Pretrained Models to Thousands More Languages via Lexicon-based Adaptation,,,,,/pdf?id=CcaOiLPJfZY,,,,,,,,,,,,,Anonymous,/forum?id=CcaOiLPJfZY
+246,PzwuKQAeHmH,RED-ACE: Robust Error Detection for ASR using Confidence Embeddings,,,,,/pdf?id=PzwuKQAeHmH,,,,,,,,,,,,,Anonymous,/forum?id=PzwuKQAeHmH
+247,TkDA4dXNy8,Emphasis on Easy Samples for Distantly Supervised Relation Extraction,,,,,/pdf?id=TkDA4dXNy8,,,,,,,,,,,,,Anonymous,/forum?id=TkDA4dXNy8
+248,h0tPIek3cK,Seq-GAN-BERT：Sequence Generative Adversarial Learning for Low-resource Name Entity Recognition,,,,,/pdf?id=h0tPIek3cK,,,,,,,,,,,,,Anonymous,/forum?id=h0tPIek3cK
+249,8Mc8UmaYBa,Don’t Forget Cheap Training Signals Before Building Unsupervised Bilingual Word Embeddings,,,,,/pdf?id=8Mc8UmaYBa,,,,,,,,,,,,,Anonymous,/forum?id=8Mc8UmaYBa
+250,Drn7scCUrM,Towards Coherent and Captivating Topic Transitions in Knowledge-Grounded Conversations,,,,,/pdf?id=Drn7scCUrM,,,,,,,,,,,,,Anonymous,/forum?id=Drn7scCUrM
+251,ZwxOAddSH5,A Federated Approach to Predict Emojis in Hindi Tweets,,,,,/pdf?id=ZwxOAddSH5,,,,,,,,,,,,,Anonymous,/forum?id=ZwxOAddSH5
+252,IPjj472JB4,CLoCE:Contrastive Learning Optimize Continous Prompt Embedding Space in Relation Extraction,,,,,/pdf?id=IPjj472JB4,,,,,,,,,,,,,Anonymous,/forum?id=IPjj472JB4
+253,V0-0TzFvQaq,DialogueScore: Evaluating Responses in Task-Oriented Dialogue,,,,,/pdf?id=V0-0TzFvQaq,,,,,,,,,,,,,Anonymous,/forum?id=V0-0TzFvQaq
+254,p_-ZgMkRD3,Low Resource Style Transfer via Domain Adaptive Meta Learning,,,,,/pdf?id=p_-ZgMkRD3,,,,,,,,,,,,,Anonymous,/forum?id=p_-ZgMkRD3
+255,WOQU5QlEw6,An Isotropy Analysis in the Multilingual BERT Embedding Space,,,,,/pdf?id=WOQU5QlEw6,,,,,,,,,,,,,Anonymous,/forum?id=WOQU5QlEw6
+256,5DErzHehx0,On the current state of reproducibility and reporting of uncertainty for Aspect-based Sentiment Analysis,,,,,/pdf?id=5DErzHehx0,,,,,,,,,,,,,Anonymous,/forum?id=5DErzHehx0
+257,omlP5LEknHy,A Dual-Channel Framework for Sarcasm Recognition by Detecting Sentiment Conflict,,,,,/pdf?id=omlP5LEknHy,,,,,,,,,,,,,Anonymous,/forum?id=omlP5LEknHy
+258,l9H3-sPAnY,Mukayese: Turkish NLP Strikes Back,,,,,/pdf?id=l9H3-sPAnY,,,,,,,,,,,,,Anonymous,/forum?id=l9H3-sPAnY
+259,BIA1x03Mnv,Task Formulation Matters When Learning Continuously: A Case Study in Visual Question Answering,,,,,/pdf?id=BIA1x03Mnv,,,,,,,,,,,,,Anonymous,/forum?id=BIA1x03Mnv
+260,5Jcma3gBao,Auto-regressive Text Generation with Pre-Trained Language Models: An Empirical Study on Question-type Short Text Generation,,,,,/pdf?id=5Jcma3gBao,,,,,,,,,,,,,Anonymous,/forum?id=5Jcma3gBao
+261,jMI7ZlAC_J,Investigating Math Word Problems using Pretrained Multilingual Language Models,,,,,/pdf?id=jMI7ZlAC_J,,,,,,,,,,,,,Anonymous,/forum?id=jMI7ZlAC_J
+262,CPzwzb9eRZu,An Empirical Study on Cross-Lingual and Cross-Domain Transfer for Legal Judgment Prediction,,,,,/pdf?id=CPzwzb9eRZu,,,,,,,,,,,,,Anonymous,/forum?id=CPzwzb9eRZu
+263,V9kbHITRY_4,WECHSEL: Effective initialization of subword embeddings for cross-lingual transfer of monolingual language models,,,,,/pdf?id=V9kbHITRY_4,,,,,,,,,,,,,Anonymous,/forum?id=V9kbHITRY_4
+264,xlAeueEL97g,When More is not Necessary Better: Multilingual Auxiliary Tasks for Zero-Shot Cross-Lingual Transfer of Hate Speech Detection Models,,,,,/pdf?id=xlAeueEL97g,,,,,,,,,,,,,Anonymous,/forum?id=xlAeueEL97g
+265,oyxcYevum5Z,Weakly Supervised Turn-level Engagingness Evaluator for Dialogues,,,,,/pdf?id=oyxcYevum5Z,,,,,,,,,,,,,Anonymous,/forum?id=oyxcYevum5Z
+266,R_OaHG1juW,Investigating Zero- and Few-shot Generalization in Fact Verification,,,,,/pdf?id=R_OaHG1juW,,,,,,,,,,,,,Anonymous,/forum?id=R_OaHG1juW
+267,RDCgxEa1lgC,Schema Encoding for Transferable Dialogue State Tracking,,,,,/pdf?id=RDCgxEa1lgC,,,,,,,,,,,,,Anonymous,/forum?id=RDCgxEa1lgC
+268,Y5wI2k1-knQ,Measuring and Improving Semantic Diversity of Dialogue Generation,,,,,/pdf?id=Y5wI2k1-knQ,,,,,,,,,,,,,Anonymous,/forum?id=Y5wI2k1-knQ
+269,NMCnFK_ZYUR,What do tokens know about their characters and how do they know it?,,,,,/pdf?id=NMCnFK_ZYUR,,,,,,,,,,,,,Anonymous,/forum?id=NMCnFK_ZYUR
+270,5FENjGCL0Eu,Meta Learning for Natural Language Processing: A Survey,,,,,/pdf?id=5FENjGCL0Eu,,,,,,,,,,,,,Anonymous,/forum?id=5FENjGCL0Eu
+271,wHlujJiFYfj,Event Detection via Derangement Reading Comprehension,,,,,/pdf?id=wHlujJiFYfj,,,,,,,,,,,,,Anonymous,/forum?id=wHlujJiFYfj
+272,C1NSnnXEMuU,CSD: A Chinese Dataset for Subtext Problem,,,,,/pdf?id=C1NSnnXEMuU,,,,,,,,,,,,,Anonymous,/forum?id=C1NSnnXEMuU
+273,qgQiDQatk7,ReadE: Learning Relation-Dependent Entity Representation for Knowledge Graph Completion,,,,,/pdf?id=qgQiDQatk7,,,,,,,,,,,,,Anonymous,/forum?id=qgQiDQatk7
+274,CJCLBc4zVhB,Empathic Machines: Using Intermediate Features as Levers to Emulate Emotions in Text-To-Speech Systems,,,,,/pdf?id=CJCLBc4zVhB,,,,,,,,,,,,,Anonymous,/forum?id=CJCLBc4zVhB
+275,-5R9TsypRrW,A Two-Stage Approach towards Generalization in Knowledge Base Question Answering,,,,,/pdf?id=-5R9TsypRrW,,,,,,,,,,,,,Anonymous,/forum?id=-5R9TsypRrW
+276,wFCEfmAFNHY,Efficient Hierarchical Domain Adaptation for Pretrained Language Models,,,,,/pdf?id=wFCEfmAFNHY,,,,,,,,,,,,,Anonymous,/forum?id=wFCEfmAFNHY
+277,iDLrO042IB,Answering Open-Domain Multi-Answer Questions via a Recall-then-Verify Framework,,,,,/pdf?id=iDLrO042IB,,,,,,,,,,,,,Anonymous,/forum?id=iDLrO042IB
+278,lQn89WLbBzh,Representation Learning for Conversational Data using Discourse Mutual Information Maximization,,,,,/pdf?id=lQn89WLbBzh,,,,,,,,,,,,,Anonymous,/forum?id=lQn89WLbBzh
+279,V58-YGdAQFZ,Generalized Quantifiers as a Source of Error in Multilingual NLU Benchmarks,,,,,/pdf?id=V58-YGdAQFZ,,,,,,,,,,,,,Anonymous,/forum?id=V58-YGdAQFZ
+280,ntULSVWpj8,Meet Your Favorite Character: Open-domain Chatbot Mimicking Fictional Characters with only a Few Utterances,,,,,/pdf?id=ntULSVWpj8,,,,,,,,,,,,,Anonymous,/forum?id=ntULSVWpj8
+281,DQxrL9ypmEe,Unsupervised Preference-Aware Language Identification,,,,,/pdf?id=DQxrL9ypmEe,,,,,,,,,,,,,Anonymous,/forum?id=DQxrL9ypmEe
+282,Ol9GPe9iqPf,Improving Contextual Representation with Gloss Regularized Pre-training,,,,,/pdf?id=Ol9GPe9iqPf,,,,,,,,,,,,,Anonymous,/forum?id=Ol9GPe9iqPf
+283,6iua-pogy7R,Why are NLP Models Fumbling at Elementary Math? A Survey of Automatic Word Problem Solvers,,,,,/pdf?id=6iua-pogy7R,,,,,,,,,,,,,Anonymous,/forum?id=6iua-pogy7R
+284,hKBRTZBaggi,When does Parameter-Efficient Transfer Learning Work for Machine Translation?,,,,,/pdf?id=hKBRTZBaggi,,,,,,,,,,,,,Anonymous,/forum?id=hKBRTZBaggi
+285,OzC_YcPn2QA,CodeBPE: Investigating Subtokenization Options for Large Language Model Pretraining on Source Code,,,,,/pdf?id=OzC_YcPn2QA,,,,,,,,,,,,,Anonymous,/forum?id=OzC_YcPn2QA
+286,Woi12EDR_fj,DISARM: Detecting the Victims Targeted by Harmful Memes,,,,,/pdf?id=Woi12EDR_fj,,,,,,,,,,,,,Anonymous,/forum?id=Woi12EDR_fj
+287,DPeMy4LFpal,Realistic Zero-Shot Cross-Lingual Transfer in Legal Topic Classification,,,,,/pdf?id=DPeMy4LFpal,,,,,,,,,,,,,Anonymous,/forum?id=DPeMy4LFpal
+288,7q-tsYesY2p,Conventional clustering-based method for event detection on social networks,,,,,/pdf?id=7q-tsYesY2p,,,,,,,,,,,,,Anonymous,/forum?id=7q-tsYesY2p
+289,lQ7FDmOFL1,Lexicon based Fine-tuning of Multilingual Language Models for Sentiment Analysis of Low-resource Languages,,,,,/pdf?id=lQ7FDmOFL1,,,,,,,,,,,,,Anonymous,/forum?id=lQ7FDmOFL1
+290,UfE8r1gSnbc,How to be Helpful on Online Support Forums?,,,,,/pdf?id=UfE8r1gSnbc,,,,,,,,,,,,,Anonymous,/forum?id=UfE8r1gSnbc
+291,5hEUhYxlIY2,GREENER: Graph Neural Networks for News Media Profiling,,,,,/pdf?id=5hEUhYxlIY2,,,,,,,,,,,,,Anonymous,/forum?id=5hEUhYxlIY2
+292,J-n7vm7_fK,"AMRize, then Parse! Enhancing AMR Parsing with PseudoAMR Data",,,,,/pdf?id=J-n7vm7_fK,,,,,,,,,,,,,Anonymous,/forum?id=J-n7vm7_fK
+293,TcbIyMYNNbj,FRUIT: Faithfully Reflecting Updated Information in Text,,,,,/pdf?id=TcbIyMYNNbj,,,,,,,,,,,,,Anonymous,/forum?id=TcbIyMYNNbj
+294,mdAhC06ICCb,Early Guessing for Dialect Identification,,,,,/pdf?id=mdAhC06ICCb,,,,,,,,,,,,,Anonymous,/forum?id=mdAhC06ICCb
+295,XoX-pZFp_Zl,BAD-X: Bilingual Adapters Improve Zero-Shot Cross-Lingual Transfer,,,,,/pdf?id=XoX-pZFp_Zl,,,,,,,,,,,,,Anonymous,/forum?id=XoX-pZFp_Zl
+296,5_9JXdWdysn,Pre-trained language models evaluating themselves - A comparative study,,,,,/pdf?id=5_9JXdWdysn,,,,,,,,,,,,,Anonymous,/forum?id=5_9JXdWdysn
+297,HKHYga4bGhT,Robin: A Novel Online Suicidal Text Corpus of Substantial Breadth and Scale,,,,,/pdf?id=HKHYga4bGhT,,,,,,,,,,,,,Anonymous,/forum?id=HKHYga4bGhT
+298,hbpCn_hxFxC,Multi-Stage Pre-Training for Math-Understanding: μ2(AL)BERT,,,,,/pdf?id=hbpCn_hxFxC,,,,,,,,,,,,,Anonymous,/forum?id=hbpCn_hxFxC
+299,z8c-HLryN5U,Batch-Softmax Contrastive Loss for Pairwise Sentence Scoring Tasks,,,,,/pdf?id=z8c-HLryN5U,,,,,,,,,,,,,Anonymous,/forum?id=z8c-HLryN5U
+300,wtN0E2OAraT,Falsesum: Generating Document-level NLI Examples for Recognizing Factual Inconsistency in Summarization,,,,,/pdf?id=wtN0E2OAraT,,,,,,,,,,,,,Anonymous,/forum?id=wtN0E2OAraT
+301,bZnoJo7-58T,"When a sentence does not introduce a discourse entity, Transformer-based models still often refer to it",,,,,/pdf?id=bZnoJo7-58T,,,,,,,,,,,,,Anonymous,/forum?id=bZnoJo7-58T
+302,wbGYjoUHMZ-,Conceptualizing Treatment Leakage in Text-based Causal Inference,,,,,/pdf?id=wbGYjoUHMZ-,,,,,,,,,,,,,Anonymous,/forum?id=wbGYjoUHMZ-
+303,Zaf-WBZM9H6,Visual content classifier for cultural heritage repositories,,,,,/pdf?id=Zaf-WBZM9H6,,,,,,,,,,,,,Anonymous,/forum?id=Zaf-WBZM9H6
+304,HlatErbyIMX,"Zombies Eat Brains, You are Safe: A Knowledge Infusion based Multitasking System for Sarcasm Detection in Meme",,,,,/pdf?id=HlatErbyIMX,,,,,,,,,,,,,Anonymous,/forum?id=HlatErbyIMX
+305,twgwH7lZj2_,"Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs",,,,,/pdf?id=twgwH7lZj2_,,,,,,,,,,,,,Anonymous,/forum?id=twgwH7lZj2_
+306,LINkFIdHsuZ,Improving Data Augmentation in Low-resource Question Answering with Active Learning in Multiple Stages,,,,,/pdf?id=LINkFIdHsuZ,,,,,,,,,,,,,Anonymous,/forum?id=LINkFIdHsuZ
+307,lU_OFbSmH8f,On the data requirements of probing,,,,,/pdf?id=lU_OFbSmH8f,,,,,,,,,,,,,Anonymous,/forum?id=lU_OFbSmH8f
+308,whyKc_QTL86,Improved grammatical error correction by ranking elementary edits,,,,,/pdf?id=whyKc_QTL86,,,,,,,,,,,,,Anonymous,/forum?id=whyKc_QTL86
+309,Y8xhvoui4cO,Improving Coherence of Language Model Generation with Latent Semantic State,,,,,/pdf?id=Y8xhvoui4cO,,,,,,,,,,,,,Anonymous,/forum?id=Y8xhvoui4cO
+310,eiTCK6FDs_N,Towards Understanding Large-Scale Discourse Structures in Pre-Trained and Fine-Tuned Language Models,,,,,/pdf?id=eiTCK6FDs_N,,,,,,,,,,,,,Anonymous,/forum?id=eiTCK6FDs_N
+311,fU-oy1PI4Xl,Measuring Context-Dependent Syntactic Information Across Layers,,,,,/pdf?id=fU-oy1PI4Xl,,,,,,,,,,,,,Anonymous,/forum?id=fU-oy1PI4Xl
+312,WBs58CEQDXj,Massive-scale Decoding for Text Generation using Lattices,,,,,/pdf?id=WBs58CEQDXj,,,,,,,,,,,,,Anonymous,/forum?id=WBs58CEQDXj
+313,W0qoUVgr2N9,Forecasting COVID-19 Caseloads Using Unsupervised Embedding Clusters of Social Media Posts,,,,,/pdf?id=W0qoUVgr2N9,,,,,,,,,,,,,Anonymous,/forum?id=W0qoUVgr2N9
+314,zwJGTYR9w13,Orthogonal Language and Task Adapters in Zero-Shot Cross-Lingual Transfer,,,,,/pdf?id=zwJGTYR9w13,,,,,,,,,,,,,Anonymous,/forum?id=zwJGTYR9w13
+315,y8JuO2FmOqN,Sense Embeddings are also Biased -- Evaluating Social Biases in Static and Contextualised Sense Embeddings,,,,,/pdf?id=y8JuO2FmOqN,,,,,,,,,,,,,Anonymous,/forum?id=y8JuO2FmOqN
+316,FFtK98WqJZa,Bilingual Lexicon Induction for Low-Resource Languages using Graph Matching via Optimal Transport,,,,,/pdf?id=FFtK98WqJZa,,,,,,,,,,,,,Anonymous,/forum?id=FFtK98WqJZa
+317,gDlEcjjqbVx,OneAligner: Zero-shot Cross-lingual Transfer with One Rich-Resource Language Pair for Low-Resource Sentence Retrieval,,,,,/pdf?id=gDlEcjjqbVx,,,,,,,,,,,,,Anonymous,/forum?id=gDlEcjjqbVx
+318,q0eySQ7OU07,Learning to Borrow– Relation Representation for Without-Mention Entity-Pairs for Knowledge Graph Completion,,,,,/pdf?id=q0eySQ7OU07,,,,,,,,,,,,,Anonymous,/forum?id=q0eySQ7OU07
+319,6HqDgYUCiqM,Slangvolution: A Causal Analysis of Semantic Change and Frequency Dynamics in Slang,,,,,/pdf?id=6HqDgYUCiqM,,,,,,,,,,,,,Anonymous,/forum?id=6HqDgYUCiqM
+320,j_ydETLwbsv,Looking Into the Black Box - How Are Idioms Processed in BERT?,,,,,/pdf?id=j_ydETLwbsv,,,,,,,,,,,,,Anonymous,/forum?id=j_ydETLwbsv
+321,6sXWzu3pWQE,Open Domain Response Generation Guided by Retrieved Conversations,,,,,/pdf?id=6sXWzu3pWQE,,,,,,,,,,,,,Anonymous,/forum?id=6sXWzu3pWQE
+322,ZdBAJ_wjgIn,Cross-Lingual Event Detection via Optimized Adversarial Training,,,,,/pdf?id=ZdBAJ_wjgIn,,,,,,,,,,,,,Anonymous,/forum?id=ZdBAJ_wjgIn
+323,4FHSEhaiCy,"Twitter-COMMs: Detecting Climate, COVID, and Military Multimodal Misinformation",,,,,/pdf?id=4FHSEhaiCy,,,,,,,,,,,,,Anonymous,/forum?id=4FHSEhaiCy
+324,MfCb1Xyopxf,Hardness Masking via Auto-Regressive Language Model,,,,,/pdf?id=MfCb1Xyopxf,,,,,,,,,,,,,Anonymous,/forum?id=MfCb1Xyopxf
+325,lXwSllWFAMK,Hybrid Semantic Type Representation for Zero-Shot Event Extraction,,,,,/pdf?id=lXwSllWFAMK,,,,,,,,,,,,,Anonymous,/forum?id=lXwSllWFAMK
+326,lkDt1ZHKaj7,Testing the Ability of Language Models to Interpret Figurative Language,,,,,/pdf?id=lkDt1ZHKaj7,,,,,,,,,,,,,Anonymous,/forum?id=lkDt1ZHKaj7
+327,xrNzov1EXao,"SSCAE: A Novel Semantic, Syntactic, and Context-Aware Natural Language Adversarial Example Generator",,,,,/pdf?id=xrNzov1EXao,,,,,,,,,,,,,Anonymous,/forum?id=xrNzov1EXao
+328,yd7uyR9_0iU,Continual Learning for Seq2Seq Generations with Transformer Calibration,,,,,/pdf?id=yd7uyR9_0iU,,,,,,,,,,,,,Anonymous,/forum?id=yd7uyR9_0iU
+329,Xs2rVn8mDOI,Inherently Explainable Reinforcement Learning in Natural Language,,,,,/pdf?id=Xs2rVn8mDOI,,,,,,,,,,,,,Anonymous,/forum?id=Xs2rVn8mDOI
+330,2vsYQS4ic6M,Polling Latent Opinions: A Method for Computational Sociolinguistics Using Transformer Language Models,,,,,/pdf?id=2vsYQS4ic6M,,,,,,,,,,,,,Anonymous,/forum?id=2vsYQS4ic6M
+331,cst0-LIBwku,Exact Paired Permutation Testing Algorithms for NLP Systems,,,,,/pdf?id=cst0-LIBwku,,,,,,,,,,,,,Anonymous,/forum?id=cst0-LIBwku
+332,LIs8IrSIUCd,Cross-stitched Multi-modal Encoders,,,,,/pdf?id=LIs8IrSIUCd,,,,,,,,,,,,,Anonymous,/forum?id=LIs8IrSIUCd
+333,-N3_r8zLTlL,Logical Satisfiability of Counterfactuals for Faithful Explanations in NLI,,,,,/pdf?id=-N3_r8zLTlL,,,,,,,,,,,,,Anonymous,/forum?id=-N3_r8zLTlL
+334,N4GAuW8r81Z,Extracting and Inferring Personal Attributes from Dialogue,,,,,/pdf?id=N4GAuW8r81Z,,,,,,,,,,,,,Anonymous,/forum?id=N4GAuW8r81Z
+335,HUW5H1n-ERu,Power Norm Based Lifelong Learning for Paraphrase Generations,,,,,/pdf?id=HUW5H1n-ERu,,,,,,,,,,,,,Anonymous,/forum?id=HUW5H1n-ERu
+336,F2dhh0WG_Gt,Paragraph-based Transformer Pretraining for Multi-Sentence Inference,,,,,/pdf?id=F2dhh0WG_Gt,,,,,,,,,,,,,Anonymous,/forum?id=F2dhh0WG_Gt
+337,r-Ku-qLRgVb,XQA-DST: Multi-Domain and Multi-Lingual Dialogue State Tracking,,,,,/pdf?id=r-Ku-qLRgVb,,,,,,,,,,,,,Anonymous,/forum?id=r-Ku-qLRgVb
+338,dIDQoALkjW_,Knowledge Based Template Machine Translation In Low-Resource Setting,,,,,/pdf?id=dIDQoALkjW_,,,,,,,,,,,,,Anonymous,/forum?id=dIDQoALkjW_
+339,VRDI2-ZmDZp,Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of Summaries,,,,,/pdf?id=VRDI2-ZmDZp,,,,,,,,,,,,,Anonymous,/forum?id=VRDI2-ZmDZp
+340,r6cH4hCr-n_,TraceNet: Tracing and Locating the Key Elements in Sentiment Analysis,,,,,/pdf?id=r6cH4hCr-n_,,,,,,,,,,,,,Anonymous,/forum?id=r6cH4hCr-n_
+341,KYj6NNlh2k0,Proposition-Level Clustering for Multi-Document Summarization,,,,,/pdf?id=KYj6NNlh2k0,,,,,,,,,,,,,Anonymous,/forum?id=KYj6NNlh2k0
+342,0oQTey2TEmP,On the Effectiveness of Quasi Character-Level Models for Machine Translation,,,,,/pdf?id=0oQTey2TEmP,,,,,,,,,,,,,Anonymous,/forum?id=0oQTey2TEmP
+343,WjQS-zVBOCJ,"Privacy, Interpretability, and Fairness in the Multilingual Space",,,,,/pdf?id=WjQS-zVBOCJ,,,,,,,,,,,,,Anonymous,/forum?id=WjQS-zVBOCJ
+344,RzAizH1aOtv,Evaluating Compositionality in Neural Models Using Arithmetic Expressions,,,,,/pdf?id=RzAizH1aOtv,,,,,,,,,,,,,Anonymous,/forum?id=RzAizH1aOtv
+345,eFGgjI4Wk-V,Residue-Based Natural Language Adversarial Attack Detection,,,,,/pdf?id=eFGgjI4Wk-V,,,,,,,,,,,,,Anonymous,/forum?id=eFGgjI4Wk-V
+346,PNUMO7p7SoC,Product Answer Generation from Heterogeneous Sources: A New Benchmark and Best Practices,,,,,/pdf?id=PNUMO7p7SoC,,,,,,,,,,,,,Anonymous,/forum?id=PNUMO7p7SoC
+347,JWT0D0HIXfI,A Multilingual Perspective Towards the Evaluation of Attribution Methods,,,,,/pdf?id=JWT0D0HIXfI,,,,,,,,,,,,,Anonymous,/forum?id=JWT0D0HIXfI
+348,nGyBrnYR9oL,Answer Uncertainty and Unanswerability in Multiple-Choice Machine Reading Comprehension,,,,,/pdf?id=nGyBrnYR9oL,,,,,,,,,,,,,Anonymous,/forum?id=nGyBrnYR9oL
+349,LrR-9tt62rw,An Encoder Attribution Analysis for Dense Passage Retriever in Open-Domain Question Answering,,,,,/pdf?id=LrR-9tt62rw,,,,,,,,,,,,,Anonymous,/forum?id=LrR-9tt62rw
+350,Pm1KGnRHV-e,Translated Texts Under the Lens: From Machine Translation Detection to Source Language Identification,,,,,/pdf?id=Pm1KGnRHV-e,,,,,,,,,,,,,Anonymous,/forum?id=Pm1KGnRHV-e
+351,_GYl3PcqzTY,On Systematic Style Differences between Unsupervised and Supervised MT and an Application for High-Resource Machine Translation,,,,,/pdf?id=_GYl3PcqzTY,,,,,,,,,,,,,Anonymous,/forum?id=_GYl3PcqzTY
+352,_KpPHn9ZoBR,Match made by BERT? Towards Interpretable Paper-Reviewer Assignments in NLP,,,,,/pdf?id=_KpPHn9ZoBR,,,,,,,,,,,,,Anonymous,/forum?id=_KpPHn9ZoBR
+353,Jaflbxb58j5,Guiding Neural Story Generation with Reader Models,,,,,/pdf?id=Jaflbxb58j5,,,,,,,,,,,,,Anonymous,/forum?id=Jaflbxb58j5
+354,uZaiKvl7C5p,Discriminative Models Can Still Outperform Generative Models in Aspect Based Sentiment Analysis,,,,,/pdf?id=uZaiKvl7C5p,,,,,,,,,,,,,Anonymous,/forum?id=uZaiKvl7C5p
+355,ZsKESql1Ykl,Investigating the saliency of sentiment expressions in aspect-based sentiment analysis,,,,,/pdf?id=ZsKESql1Ykl,,,,,,,,,,,,,Anonymous,/forum?id=ZsKESql1Ykl
+356,5moYSLDDnop,Unsupervised Slot Schema Induction for Task-oriented Dialog,,,,,/pdf?id=5moYSLDDnop,,,,,,,,,,,,,Anonymous,/forum?id=5moYSLDDnop
+357,-vK4uiJzmh,Label-guided Data Augmentation for Prompt-based Few Shot Learners,,,,,/pdf?id=-vK4uiJzmh,,,,,,,,,,,,,Anonymous,/forum?id=-vK4uiJzmh
+358,csAPyhhv2PE,Context-Aware Query Rewriting for Improving Users' Search Experience on E-commerce Websites,,,,,/pdf?id=csAPyhhv2PE,,,,,,,,,,,,,Anonymous,/forum?id=csAPyhhv2PE
+359,JhU9onUBeC,Multi2WOZ: A Robust Multilingual Dataset and Conversational Pretraining for Task-Oriented Dialog,,,,,/pdf?id=JhU9onUBeC,,,,,,,,,,,,,Anonymous,/forum?id=JhU9onUBeC
+360,DGyj3ClCJxd,Controlling the Focus of Pretrained Language Generation Models,,,,,/pdf?id=DGyj3ClCJxd,,,,,,,,,,,,,Anonymous,/forum?id=DGyj3ClCJxd
+361,Et5856ugQvc,Investigating the Roots of Gender Bias in Machine Translation: Observations on Gender Transfer between French and English,,,,,/pdf?id=Et5856ugQvc,,,,,,,,,,,,,Anonymous,/forum?id=Et5856ugQvc
+362,Y6KXfDatXxQ,"Validated Image Caption Rating (VICR) Scale, Dataset, and Model",,,,,/pdf?id=Y6KXfDatXxQ,,,,,,,,,,,,,Anonymous,/forum?id=Y6KXfDatXxQ
+363,faLMfINPMnn,Modeling Intensification for Signed Language Generation: A Computational Approach,,,,,/pdf?id=faLMfINPMnn,,,,,,,,,,,,,Anonymous,/forum?id=faLMfINPMnn
+364,ZTUpfEQrQsk,Towards Multi-Turn Empathetic Dialogs with Positive Emotion Elicitation,,,,,/pdf?id=ZTUpfEQrQsk,,,,,,,,,,,,,Anonymous,/forum?id=ZTUpfEQrQsk
+365,l4PQuVHr5WE,One-Shot Learning from a Demonstration with Hierarchical Latent Language,,,,,/pdf?id=l4PQuVHr5WE,,,,,,,,,,,,,Anonymous,/forum?id=l4PQuVHr5WE
+366,wAprE_MK-o-,Towards Policy-Guided Conversational Recommendation with Dialogue Acts,,,,,/pdf?id=wAprE_MK-o-,,,,,,,,,,,,,Anonymous,/forum?id=wAprE_MK-o-
+367,v5MwUDA11oO,A Study of the Attention Abnormality in Trojaned BERTs,,,,,/pdf?id=v5MwUDA11oO,,,,,,,,,,,,,Anonymous,/forum?id=v5MwUDA11oO
+368,FAqKLmeuOto,MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation,,,,,/pdf?id=FAqKLmeuOto,,,,,,,,,,,,,Anonymous,/forum?id=FAqKLmeuOto
+369,c3jvzFGYGWl,Embedding-Enhanced GIZA++: Improving Low-Resource Word Alignment Using Embeddings,,,,,/pdf?id=c3jvzFGYGWl,,,,,,,,,,,,,Anonymous,/forum?id=c3jvzFGYGWl
+370,rYNEmAStW6V,A Weak supervision with Syntactic Cues for Reference Resolution,,,,,/pdf?id=rYNEmAStW6V,,,,,,,,,,,,,Anonymous,/forum?id=rYNEmAStW6V
+371,jlqJg4Hs5G3,Improving Unsupervised Sentence Simplification Using Fine-Tuned Masked Language Models,,,,,/pdf?id=jlqJg4Hs5G3,,,,,,,,,,,,,Anonymous,/forum?id=jlqJg4Hs5G3
+372,Z1Vgh4I_5ur,Table Retrieval Does Not Necessitate Table-specific Model Design,,,,,/pdf?id=Z1Vgh4I_5ur,,,,,,,,,,,,,Anonymous,/forum?id=Z1Vgh4I_5ur
+373,qVGvaVycYbW,Better Uncertainty Quantification for Machine Translation Evaluation,,,,,/pdf?id=qVGvaVycYbW,,,,,,,,,,,,,Anonymous,/forum?id=qVGvaVycYbW
+374,Zyzxc2gcy3_,DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization,,,,,/pdf?id=Zyzxc2gcy3_,,,,,,,,,,,,,Anonymous,/forum?id=Zyzxc2gcy3_
+375,A-TvRBTnJ1m,A Masked Segmental Language Model for Unsupervised Natural Language Segmentation,,,,,/pdf?id=A-TvRBTnJ1m,,,,,,,,,,,,,Anonymous,/forum?id=A-TvRBTnJ1m
+376,DkiNFy9XbqQ,Efficient Zero-Shot Semantic Parsing with Paraphrasing from Pretrained Language Models,,,,,/pdf?id=DkiNFy9XbqQ,,,,,,,,,,,,,Anonymous,/forum?id=DkiNFy9XbqQ
+377,Qbt1IYQzL75,Retrieval-guided Counterfactual Generation for QA,,,,,/pdf?id=Qbt1IYQzL75,,,,,,,,,,,,,Anonymous,/forum?id=Qbt1IYQzL75
+378,0otQTsolCZi,ErAConD: Error Annotated Conversational Dialog Dataset for Grammatical Error Correction,,,,,/pdf?id=0otQTsolCZi,,,,,,,,,,,,,Anonymous,/forum?id=0otQTsolCZi
+379,GKTI_XSGRuJ,UserIdentifier: Implicit User Representations for Simple and Effective Personalized Sentiment Analysis,,,,,/pdf?id=GKTI_XSGRuJ,,,,,,,,,,,,,Anonymous,/forum?id=GKTI_XSGRuJ
+380,FAhkN-QGFMb,Explore the Potential Performance of Vision-and-Language Navigation Model: a Snapshot Ensemble Method,,,,,/pdf?id=FAhkN-QGFMb,,,,,,,,,,,,,Anonymous,/forum?id=FAhkN-QGFMb
+381,BTNclVH8Nl,A Well-Composed Text is Half Done! Semantic Composition Sampling for Diverse Conditional Generation,,,,,/pdf?id=BTNclVH8Nl,,,,,,,,,,,,,Anonymous,/forum?id=BTNclVH8Nl
+382,cjUocqbaCcF,CONFIT: Toward Faithful Dialogue Summarization with Linguistically-Informed Contrastive Fine-tuning,,,,,/pdf?id=cjUocqbaCcF,,,,,,,,,,,,,Anonymous,/forum?id=cjUocqbaCcF
+383,ZNNBK7HxH2,The Curious Case of Control,,,,,/pdf?id=ZNNBK7HxH2,,,,,,,,,,,,,Anonymous,/forum?id=ZNNBK7HxH2
+384,L2_Z6yMdFUj,Modular and Parameter-Efficient Multimodal Fusion with Prompting,,,,,/pdf?id=L2_Z6yMdFUj,,,,,,,,,,,,,Anonymous,/forum?id=L2_Z6yMdFUj
+385,_STGuYu62k,Learning To Retrieve Prompts for In-Context Learning,,,,,/pdf?id=_STGuYu62k,,,,,,,,,,,,,Anonymous,/forum?id=_STGuYu62k
+386,xiQ5Hc-n7cS,Can Language Models Take A Hint? Prompting for Controllable Contextualized Commonsense Inference,,,,,/pdf?id=xiQ5Hc-n7cS,,,,,,,,,,,,,Anonymous,/forum?id=xiQ5Hc-n7cS
+387,eeBRBqifx-t,Quality-Aware Decoding for Neural Machine Translation,,,,,/pdf?id=eeBRBqifx-t,,,,,,,,,,,,,Anonymous,/forum?id=eeBRBqifx-t
+388,f_1MD91kBza,Entity Linking via Explicit Mention-Mention Coreference Modeling,,,,,/pdf?id=f_1MD91kBza,,,,,,,,,,,,,Anonymous,/forum?id=f_1MD91kBza
+389,mJzm4ueUKrV,Zero-Shot On-the-Fly Event Schema Induction,,,,,/pdf?id=mJzm4ueUKrV,,,,,,,,,,,,,Anonymous,/forum?id=mJzm4ueUKrV
+390,l2AhcPIyEs,Modeling Multi-Granularity Hierarchical Features for Relation Extraction,,,,,/pdf?id=l2AhcPIyEs,,,,,,,,,,,,,Anonymous,/forum?id=l2AhcPIyEs
+391,5kRAO69DNez,What use can and should ACL researchers make of the CambridgeGrammar of the English Language?,,,,,/pdf?id=5kRAO69DNez,,,,,,,,,,,,,Anonymous,/forum?id=5kRAO69DNez
+392,1U7HCdg9Ed,Small Changes Make Big Differences: Improving Multi-turn Response Selection in Dialogue Systems via Fine-Grained Contrastive Learning,,,,,/pdf?id=1U7HCdg9Ed,,,,,,,,,,,,,Anonymous,/forum?id=1U7HCdg9Ed
+393,Sl9JFvzUnm,Efficient layout-aware pretraining for multimodal form understanding,,,,,/pdf?id=Sl9JFvzUnm,,,,,,,,,,,,,Anonymous,/forum?id=Sl9JFvzUnm
+394,BAuigajYY57,PrefScore: Pairwise Preference Learning for Reference-free Single-document Summarization Quality Assessment,,,,,/pdf?id=BAuigajYY57,,,,,,,,,,,,,Anonymous,/forum?id=BAuigajYY57
+395,-lc7q2DPo-,DEEP: DEnoising Entity Pre-training for Neural Machine Translation,,,,,/pdf?id=-lc7q2DPo-,,,,,,,,,,,,,Anonymous,/forum?id=-lc7q2DPo-
+396,KjmdDULiokJ,Co-training an Unsupervised Constituency Parser with Weak Supervision,,,,,/pdf?id=KjmdDULiokJ,,,,,,,,,,,,,Anonymous,/forum?id=KjmdDULiokJ
+397,F9NzZm3zqyu,The Case for a Single Model that can Both Generate Continuations and Fill-in-the-Blank,,,,,/pdf?id=F9NzZm3zqyu,,,,,,,,,,,,,Anonymous,/forum?id=F9NzZm3zqyu
+398,oPtnaks3Q6,StoryQA: Story Grounded Question Answering Dataset,,,,,/pdf?id=oPtnaks3Q6,,,,,,,,,,,,,Anonymous,/forum?id=oPtnaks3Q6
+399,NJRjdqQYAA,Novel Chapter Abstractive Summarization using Spinal Tree Aware Sub-Sentential Content Selection,,,,,/pdf?id=NJRjdqQYAA,,,,,,,,,,,,,Anonymous,/forum?id=NJRjdqQYAA
+400,dNXMRKjo__Z,Searching for Effective Multilingual Fine-Tuning Methods: A Case Study in Summarization,,,,,/pdf?id=dNXMRKjo__Z,,,,,,,,,,,,,Anonymous,/forum?id=dNXMRKjo__Z
+401,fU3zT-Ke9R,Can Rationalization Improve Robustness?,,,,,/pdf?id=fU3zT-Ke9R,,,,,,,,,,,,,Anonymous,/forum?id=fU3zT-Ke9R
+402,aLlrphtHUi1,Impart Contextualization to Static Word Embeddings through Semantic Relations,,,,,/pdf?id=aLlrphtHUi1,,,,,,,,,,,,,Anonymous,/forum?id=aLlrphtHUi1
+403,vAF6CBZ4jff,Improving Mental Health Classifier Generalization with Pre-Diagnosis Data,,,,,/pdf?id=vAF6CBZ4jff,,,,,,,,,,,,,Anonymous,/forum?id=vAF6CBZ4jff
+404,YKrSi_BzRh,A Family of Cognitively Realistic Parsing Environments for Deep Reinforcement Learning,,,,,/pdf?id=YKrSi_BzRh,,,,,,,,,,,,,Anonymous,/forum?id=YKrSi_BzRh
+405,EaVSzLCZkUu,{BlonDe}: An Automatic Evaluation Metric for Document-level Machine Translation,,,,,/pdf?id=EaVSzLCZkUu,,,,,,,,,,,,,Anonymous,/forum?id=EaVSzLCZkUu
+406,EtjsGJtlQWF,Faithful and Plausible Explanations of Medical Code Predictions,,,,,/pdf?id=EtjsGJtlQWF,,,,,,,,,,,,,Anonymous,/forum?id=EtjsGJtlQWF
+407,zFPnAh5OuQ-,The Change that Matters in Discourse Parsing: Estimating the Impact of Domain Shift on Parser Error,,,,,/pdf?id=zFPnAh5OuQ-,,,,,,,,,,,,,Anonymous,/forum?id=zFPnAh5OuQ-
+408,7OLQOO0DcX,S5 Framework: A Review of Self-Supervised Shared Semantic Space Optimization for Multimodal Zero-Shot Learning,,,,,/pdf?id=7OLQOO0DcX,,,,,,,,,,,,,Anonymous,/forum?id=7OLQOO0DcX
+409,QjMILpKWQM,DECK: Behavioral Tests to Improve Interpretability and Generalizability of BERT Models Detecting Depression from Text,,,,,/pdf?id=QjMILpKWQM,,,,,,,,,,,,,Anonymous,/forum?id=QjMILpKWQM
+410,jB4K33NvZsd,Balanced Adversarial Training: Balancing Tradeoffs Between Oversensitivity and Undersensitivity in NLP Models,,,,,/pdf?id=jB4K33NvZsd,,,,,,,,,,,,,Anonymous,/forum?id=jB4K33NvZsd
+411,ortbTKLR1c,Interpretability on Clinical Analysis from Pattern Disentanglement Insight,,,,,/pdf?id=ortbTKLR1c,,,,,,,,,,,,,Anonymous,/forum?id=ortbTKLR1c
+412,4He0StUV4Ds,AutoLEX: An Automatic Framework for Linguistic Exploration,,,,,/pdf?id=4He0StUV4Ds,,,,,,,,,,,,,Anonymous,/forum?id=4He0StUV4Ds
+413,mXN6PiswEOQ,Multilingual Event Linking to Wikidata,,,,,/pdf?id=mXN6PiswEOQ,,,,,,,,,,,,,Anonymous,/forum?id=mXN6PiswEOQ
+414,FJd9O1Nsax7,Towards Computationally Feasible Deep Active Learning,,,,,/pdf?id=FJd9O1Nsax7,,,,,,,,,,,,,Anonymous,/forum?id=FJd9O1Nsax7
+415,fg1zmL4XRu2,"Extract, Select and Rewrite: A New Modular Summarization Method",,,,,/pdf?id=fg1zmL4XRu2,,,,,,,,,,,,,Anonymous,/forum?id=fg1zmL4XRu2
+416,odHwNOndGgD,Event Linking: Grounding Event Mentions to Wikipedia,,,,,/pdf?id=odHwNOndGgD,,,,,,,,,,,,,Anonymous,/forum?id=odHwNOndGgD
+417,XVrgLklgZN,Target-Guided Dialogue Response Generation Using Commonsense and Data Augmentation,,,,,/pdf?id=XVrgLklgZN,,,,,,,,,,,,,Anonymous,/forum?id=XVrgLklgZN
+418,p5AyJdsG6Hi,A Feasibility Study of Answer-Unaware Question Generation for Education,,,,,/pdf?id=p5AyJdsG6Hi,,,,,,,,,,,,,Anonymous,/forum?id=p5AyJdsG6Hi
+419,zfMeLxBx6lC,"The Aligned Multimodal Movie Treebank: An audio, video, dependency-parse treebank",,,,,/pdf?id=zfMeLxBx6lC,,,,,,,,,,,,,Anonymous,/forum?id=zfMeLxBx6lC
+420,mQyHxnZejkB,Provably Confidential Language Modelling,,,,,/pdf?id=mQyHxnZejkB,,,,,,,,,,,,,Anonymous,/forum?id=mQyHxnZejkB
+421,stTWuHoV3A,Interpretable Proof Generation via Iterative Backward Reasoning,,,,,/pdf?id=stTWuHoV3A,,,,,,,,,,,,,Anonymous,/forum?id=stTWuHoV3A
+422,Yd0iEAdS_7m,Dynamic Relevance Graph Network for Knowledge-Aware Question Answering,,,,,/pdf?id=Yd0iEAdS_7m,,,,,,,,,,,,,Anonymous,/forum?id=Yd0iEAdS_7m
+423,f_NN0l6DfQo,One Step Is Enough for Few-Shot Cross-Lingual Transfer: Co-Training with Gradient Optimization,,,,,/pdf?id=f_NN0l6DfQo,,,,,,,,,,,,,Anonymous,/forum?id=f_NN0l6DfQo
+424,UiRi-PHvNlP,A Weakly Supervised Approach to Evaluating Single-Document Summarization via Negative Sampling,,,,,/pdf?id=UiRi-PHvNlP,,,,,,,,,,,,,Anonymous,/forum?id=UiRi-PHvNlP
+425,UIfT8ILMLT8,CofeNet: Context and Former-Label Enhanced Net for Complicated Quotation Extraction,,,,,/pdf?id=UIfT8ILMLT8,,,,,,,,,,,,,Anonymous,/forum?id=UIfT8ILMLT8
+426,X2UYdi_cYmG,How do QA models combine knowledge from LM and 100 passages?,,,,,/pdf?id=X2UYdi_cYmG,,,,,,,,,,,,,Anonymous,/forum?id=X2UYdi_cYmG
+427,aRUaZM9L7jM,On Measuring Social Biases in Prompt-Based Learning,,,,,/pdf?id=aRUaZM9L7jM,,,,,,,,,,,,,Anonymous,/forum?id=aRUaZM9L7jM
+428,MwYylY-abMC,Self-Supervised Bot Play for Transcript-Free Conversational Recommendation with Justification,,,,,/pdf?id=MwYylY-abMC,,,,,,,,,,,,,Anonymous,/forum?id=MwYylY-abMC
+429,X2r0B7sVN4j,An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels,,,,,/pdf?id=X2r0B7sVN4j,,,,,,,,,,,,,Anonymous,/forum?id=X2r0B7sVN4j
+430,4vzKyHRFnoz,EASE: Entity-Aware Contrastive Learning of Sentence Embedding,,,,,/pdf?id=4vzKyHRFnoz,,,,,,,,,,,,,Anonymous,/forum?id=4vzKyHRFnoz
+431,XSJemKn48Vk,Hallucinated but Factual! Inspecting the Factuality of Hallucinations in Abstractive Summarization,,,,,/pdf?id=XSJemKn48Vk,,,,,,,,,,,,,Anonymous,/forum?id=XSJemKn48Vk
+432,DEPL1Ua6-Cd,Improving Robustness in Multilingual Machine Translation via Data Augmentation,,,,,/pdf?id=DEPL1Ua6-Cd,,,,,,,,,,,,,Anonymous,/forum?id=DEPL1Ua6-Cd
+433,Bor9FIG9efd,Frustratingly Simple Regularization to Improve Zero-shot Cross-lingual Robustness,,,,,/pdf?id=Bor9FIG9efd,,,,,,,,,,,,,Anonymous,/forum?id=Bor9FIG9efd
+434,rQ8-ul4m629,Towards Coding Social Science Datasets with Language Models,,,,,/pdf?id=rQ8-ul4m629,,,,,,,,,,,,,Anonymous,/forum?id=rQ8-ul4m629
+435,URtrOEPzljc,"Hey AI, Can You Solve Complex Tasks by Talking to Agents?",,,,,/pdf?id=URtrOEPzljc,,,,,,,,,,,,,Anonymous,/forum?id=URtrOEPzljc
+436,4K9KxAZG4sg,Parsing Natural Language into Propositional and First-Order Logic with Dual Reinforcement Learning,,,,,/pdf?id=4K9KxAZG4sg,,,,,,,,,,,,,Anonymous,/forum?id=4K9KxAZG4sg
+437,6iScGvJZfat,SUBS: Subtree Substitution for Compositional Semantic Parsing,,,,,/pdf?id=6iScGvJZfat,,,,,,,,,,,,,Anonymous,/forum?id=6iScGvJZfat
+438,0OsDhYxIXR9,Experience Affected in the Act of Remembering: A Study of Discursivity of Verb Tense Shifts in Memory Narrative,,,,,/pdf?id=0OsDhYxIXR9,,,,,,,,,,,,,Anonymous,/forum?id=0OsDhYxIXR9
+439,juCRn4bNIAp,SummaReranker: A Multi-Task Mixture-of-Experts Re-Ranking Framework for Abstractive Summarization,,,,,/pdf?id=juCRn4bNIAp,,,,,,,,,,,,,Anonymous,/forum?id=juCRn4bNIAp
+440,QYk8ZblQ1Bj,Do Pretrained Contextual Language Models Distinguish between Hebrew Homograph Analyses?,,,,,/pdf?id=QYk8ZblQ1Bj,,,,,,,,,,,,,Anonymous,/forum?id=QYk8ZblQ1Bj
+441,ZB58jLvryqw,SEQZERO: Few-shot Compositional Semantic Parsing with Sequential Prompts and Zero-shot Models,,,,,/pdf?id=ZB58jLvryqw,,,,,,,,,,,,,Anonymous,/forum?id=ZB58jLvryqw
+442,OFzvrBameCo,Exploring the Universal Vulnerability of Prompt-based Learning Paradigm,,,,,/pdf?id=OFzvrBameCo,,,,,,,,,,,,,Anonymous,/forum?id=OFzvrBameCo
+443,_XYt8vr9_wB,Putting the Con in Context: Identifying Deceptive Actors in the Game of Mafia,,,,,/pdf?id=_XYt8vr9_wB,,,,,,,,,,,,,Anonymous,/forum?id=_XYt8vr9_wB
+444,EQGE1PGZgi8,Exposing the Limits of Video-Text Models through Contrast Sets,,,,,/pdf?id=EQGE1PGZgi8,,,,,,,,,,,,,Anonymous,/forum?id=EQGE1PGZgi8
+445,IlZWYmQDPAd,Meta-learning via Language Model In-context Tuning,,,,,/pdf?id=IlZWYmQDPAd,,,,,,,,,,,,,Anonymous,/forum?id=IlZWYmQDPAd
+446,zQu1ZzJE-D2,DOCmT5: Document-Level Pre-training of Multilingual Language Models,,,,,/pdf?id=zQu1ZzJE-D2,,,,,,,,,,,,,Anonymous,/forum?id=zQu1ZzJE-D2
+447,8i4dEXzbe89,Zero-shot Cross-lingual Transfer is Under-specified Optimization,,,,,/pdf?id=8i4dEXzbe89,,,,,,,,,,,,,Anonymous,/forum?id=8i4dEXzbe89
+448,G3htPNdMoMO,Perturbations in the Wild: Leveraging Human-Written Text Perturbations for Realistic Adversarial Attack and Defense,,,,,/pdf?id=G3htPNdMoMO,,,,,,,,,,,,,Anonymous,/forum?id=G3htPNdMoMO
+449,6dXfj57KVdp,XLTime: A Cross-Lingual Knowledge Transfer Framework for Temporal Expression Extraction,,,,,/pdf?id=6dXfj57KVdp,,,,,,,,,,,,,Anonymous,/forum?id=6dXfj57KVdp
+450,ocsgIiRIxxO,Template-free Prompt Tuning for Few-shot NER,,,,,/pdf?id=ocsgIiRIxxO,,,,,,,,,,,,,Anonymous,/forum?id=ocsgIiRIxxO
+451,DF0R3AsZ5IB,Reframing Human-AI Collaboration for Generating Free-Text Explanations,,,,,/pdf?id=DF0R3AsZ5IB,,,,,,,,,,,,,Anonymous,/forum?id=DF0R3AsZ5IB
+452,wOiBnHu79_P,PREME: Preference-based Meeting Exploration through an Interactive Questionnaire,,,,,/pdf?id=wOiBnHu79_P,,,,,,,,,,,,,Anonymous,/forum?id=wOiBnHu79_P
+453,tbpEVzeiCto,IDPG: An Instance-Dependent Prompt Generation Method,,,,,/pdf?id=tbpEVzeiCto,,,,,,,,,,,,,Anonymous,/forum?id=tbpEVzeiCto
+454,MW7BLqZEyAp,Explaining Toxic Text via Knowledge Enhanced Text Generation,,,,,/pdf?id=MW7BLqZEyAp,,,,,,,,,,,,,Anonymous,/forum?id=MW7BLqZEyAp
+455,YtYdvDYadUM,Penguins Don’t Fly: Reasoning about Generics through Instantiations and Exceptions,,,,,/pdf?id=YtYdvDYadUM,,,,,,,,,,,,,Anonymous,/forum?id=YtYdvDYadUM
+456,gKUFYzRJ3FT,KAT: A Knowledge Augmented Transformer for Vision-and-Language,,,,,/pdf?id=gKUFYzRJ3FT,,,,,,,,,,,,,Anonymous,/forum?id=gKUFYzRJ3FT
+457,kDoswLAgdjj,Opponent Modeling in Negotiation Dialogues by Related Data Adaptation,,,,,/pdf?id=kDoswLAgdjj,,,,,,,,,,,,,Anonymous,/forum?id=kDoswLAgdjj
+458,sRmw2pIirH7,DialSummEval: Revisiting Summarization Evaluation for Dialogues,,,,,/pdf?id=sRmw2pIirH7,,,,,,,,,,,,,Anonymous,/forum?id=sRmw2pIirH7
+459,_OLdnDdAgwm,The Role of Context in Detecting Previously Fact-Checked Claims,,,,,/pdf?id=_OLdnDdAgwm,,,,,,,,,,,,,Anonymous,/forum?id=_OLdnDdAgwm
+460,Ig8xeTpEmHf,Prompt Consistency for Zero-Shot Task Generalization,,,,,/pdf?id=Ig8xeTpEmHf,,,,,,,,,,,,,Anonymous,/forum?id=Ig8xeTpEmHf
+461,f3ClV3LjsOJ,Retrieval Enhanced Data Augmentation for Question Answering on Privacy Policies,,,,,/pdf?id=f3ClV3LjsOJ,,,,,,,,,,,,,Anonymous,/forum?id=f3ClV3LjsOJ
+462,BHGiiUwLwz0,TD-ConE: An Information-Theoretic Approach to Assessing Parallel Text Generation Data,,,,,/pdf?id=BHGiiUwLwz0,,,,,,,,,,,,,Anonymous,/forum?id=BHGiiUwLwz0
+463,ic1jE-kkXcO,Memformer: A Memory-Augmented Transformer for Sequence Modeling,,,,,/pdf?id=ic1jE-kkXcO,,,,,,,,,,,,,Anonymous,/forum?id=ic1jE-kkXcO
+464,18ZSFcwP6Ad,Learn to Adapt for Generalized Zero-Shot Text Classification,,,,,/pdf?id=18ZSFcwP6Ad,,,,,,,,,,,,,Anonymous,/forum?id=18ZSFcwP6Ad
+465,bk_cJHyHNZE,Dangling-Aware Entity Alignment with Mixed High-Order Proximities,,,,,/pdf?id=bk_cJHyHNZE,,,,,,,,,,,,,Anonymous,/forum?id=bk_cJHyHNZE
+466,SeV26RtJLP1,Identifying the Source of Vulnerability in Fragile Interpretations: A Case Study in Neural Text Classification,,,,,/pdf?id=SeV26RtJLP1,,,,,,,,,,,,,Anonymous,/forum?id=SeV26RtJLP1
+467,ksXwO-c09NX,Structured Pruning Learns Compact and Accurate Models,,,,,/pdf?id=ksXwO-c09NX,,,,,,,,,,,,,Anonymous,/forum?id=ksXwO-c09NX
+468,wRSO5S_S-Bu,FedNLP: Benchmarking Federated Learning Methods for Natural Language Processing Tasks,,,,,/pdf?id=wRSO5S_S-Bu,,,,,,,,,,,,,Anonymous,/forum?id=wRSO5S_S-Bu
+469,tIBWSVJ3OZY,Real-time ASR Customization via Hypotheses Re-ordering: A Comparative Study of Different Scoring Functions,,,,,/pdf?id=tIBWSVJ3OZY,,,,,,,,,,,,,Anonymous,/forum?id=tIBWSVJ3OZY
+470,9QL52Tjx4cw,UBERT: A Novel Language Model for Synonymy Prediction at Scale in the UMLS Metathesaurus,,,,,/pdf?id=9QL52Tjx4cw,,,,,,,,,,,,,Anonymous,/forum?id=9QL52Tjx4cw
+471,l_Wlug2cgDi,A Word is Worth A Thousand Dollars: Adversarial Attack on Tweets Fools Stock Prediction,,,,,/pdf?id=l_Wlug2cgDi,,,,,,,,,,,,,Anonymous,/forum?id=l_Wlug2cgDi
+472,eo7Nn3ppfB1,Combinatorial Scientific Discovery: Finding New Concept Combinations Beyond Link Prediction,,,,,/pdf?id=eo7Nn3ppfB1,,,,,,,,,,,,,Anonymous,/forum?id=eo7Nn3ppfB1
+473,gwrtuxoDN-P,Probing The Linguistic Capacity of Pre-Trained Vision-Language Models,,,,,/pdf?id=gwrtuxoDN-P,,,,,,,,,,,,,Anonymous,/forum?id=gwrtuxoDN-P
+474,sfZvEKKUHss,Summarize and Generate to Back-translate: Unsupervised Translation of Programming Languages,,,,,/pdf?id=sfZvEKKUHss,,,,,,,,,,,,,Anonymous,/forum?id=sfZvEKKUHss
+475,dD1h80r3Abp,Towards Robust Online Dialogue Response Generation,,,,,/pdf?id=dD1h80r3Abp,,,,,,,,,,,,,Anonymous,/forum?id=dD1h80r3Abp
+476,u5GA1Gs8FIk,Rationalized Co-Training,,,,,/pdf?id=u5GA1Gs8FIk,,,,,,,,,,,,,Anonymous,/forum?id=u5GA1Gs8FIk
+477,-jsbjyhE6tu,AcTune: Uncertainty-Aware Active Self-Training for Active Fine-Tuning of Pretrained Language Models,,,,,/pdf?id=-jsbjyhE6tu,,,,,,,,,,,,,Anonymous,/forum?id=-jsbjyhE6tu
+478,n-pZduaeJvB,Investigating Non-local Features for Neural Constituency Parsing,,,,,/pdf?id=n-pZduaeJvB,,,,,,,,,,,,,Anonymous,/forum?id=n-pZduaeJvB
+479,ccydKRvl9w9,In-BoXBART: Get Instructions into Biomedical Multi-task Learning,,,,,/pdf?id=ccydKRvl9w9,,,,,,,,,,,,,Anonymous,/forum?id=ccydKRvl9w9
+480,daa5ySA6ysA,Hierarchical Relation-Guided Type-Sentence Alignment for Long-Tail Relation Extraction with Distant Supervision,,,,,/pdf?id=daa5ySA6ysA,,,,,,,,,,,,,Anonymous,/forum?id=daa5ySA6ysA
+481,iLbT0Xg3PE8,Why Does Surprisal From Smaller GPT-2 Models Provide Better Fit to Human Reading Times?,,,,,/pdf?id=iLbT0Xg3PE8,,,,,,,,,,,,,Anonymous,/forum?id=iLbT0Xg3PE8
+482,lln-R37yXqQ,Teaching BERT to Wait: Balancing Accuracy and Latency for Streaming Disfluency Detection,,,,,/pdf?id=lln-R37yXqQ,,,,,,,,,,,,,Anonymous,/forum?id=lln-R37yXqQ
+483,MXqSsBbZkF-,\textscAmbiPun: Generating Humorous Puns with Ambiguous Context,,,,,/pdf?id=MXqSsBbZkF-,,,,,,,,,,,,,Anonymous,/forum?id=MXqSsBbZkF-
+484,NjbRbM054n7,An Emoji-aware Multitask Framework for Multimodal Sarcasm Detection,,,,,/pdf?id=NjbRbM054n7,,,,,,,,,,,,,Anonymous,/forum?id=NjbRbM054n7
+485,UVSh0d78e7Q,Sparsely Activated Mixture-of-Experts are Robust Multi-Task Learners,,,,,/pdf?id=UVSh0d78e7Q,,,,,,,,,,,,,Anonymous,/forum?id=UVSh0d78e7Q
+486,r_2z0-tufhS,CERES: Pretraining of Graph-Conditioned Transformer for Semi-Structured Session Data,,,,,/pdf?id=r_2z0-tufhS,,,,,,,,,,,,,Anonymous,/forum?id=r_2z0-tufhS
+487,5bH2GQY5dT1,Unsupervised Reinforcement Adaptation for Class-Imbalanced TextClassification,,,,,/pdf?id=5bH2GQY5dT1,,,,,,,,,,,,,Anonymous,/forum?id=5bH2GQY5dT1
+488,DXqsUAb12WX,Offensive Content Detection Via Synthetic Code-Switched Text,,,,,/pdf?id=DXqsUAb12WX,,,,,,,,,,,,,Anonymous,/forum?id=DXqsUAb12WX
+489,Iny-0jdESTx,Document-Level Event Argument Extraction by Leveraging Redundant Information and Closed Boundary Loss,,,,,/pdf?id=Iny-0jdESTx,,,,,,,,,,,,,Anonymous,/forum?id=Iny-0jdESTx
+490,Snc4w01t7hI,HybriDialogue: An Information-Seeking Dialogue Dataset Grounded on Tabular and Textual Data,,,,,/pdf?id=Snc4w01t7hI,,,,,,,,,,,,,Anonymous,/forum?id=Snc4w01t7hI
+491,K_fV_YHD_D,PCEE-BERT: Accelerating BERT Inference via Patient and Confident Early Exiting,,,,,/pdf?id=K_fV_YHD_D,,,,,,,,,,,,,Anonymous,/forum?id=K_fV_YHD_D
+492,MsM1S8Dk-r8,The Art of Prompting: Event Detection based on Type Specific Prompts,,,,,/pdf?id=MsM1S8Dk-r8,,,,,,,,,,,,,Anonymous,/forum?id=MsM1S8Dk-r8
+493,mLnFSDl8cah,Surprisingly Simple Adapter Ensembling for Zero-Shot Cross-Lingual Sequence Tagging,,,,,/pdf?id=mLnFSDl8cah,,,,,,,,,,,,,Anonymous,/forum?id=mLnFSDl8cah
+494,RlwvZrvcv8,Learning to repair: Repairing model output errors after deployment using a dynamic memory of feedback,,,,,/pdf?id=RlwvZrvcv8,,,,,,,,,,,,,Anonymous,/forum?id=RlwvZrvcv8
+495,KkXjo4lo58K,Incremental Prompting: Episodic Memory Prompt for Lifelong Event Detection,,,,,/pdf?id=KkXjo4lo58K,,,,,,,,,,,,,Anonymous,/forum?id=KkXjo4lo58K
+496,0IM8TAmQe9,A Deep Paradigm for Articulatory Speech Representation Learning via Neural Convolutive Sparse Matrix Factorization,,,,,/pdf?id=0IM8TAmQe9,,,,,,,,,,,,,Anonymous,/forum?id=0IM8TAmQe9
+497,weZF7X0V3j-,Commonsense Knowledge Transfer for Pre-trained Language Models,,,,,/pdf?id=weZF7X0V3j-,,,,,,,,,,,,,Anonymous,/forum?id=weZF7X0V3j-
+498,cX78e5m3aM,Do Prompts Solve NLP Tasks Using Natural Language?,,,,,/pdf?id=cX78e5m3aM,,,,,,,,,,,,,Anonymous,/forum?id=cX78e5m3aM
+499,Wrpo1h4dxOM,AdapterBias: Parameter-efficient Token-dependent Representation Shift for Adapters in NLP Tasks,,,,,/pdf?id=Wrpo1h4dxOM,,,,,,,,,,,,,Anonymous,/forum?id=Wrpo1h4dxOM
+500,canvJzQNs09,Analyzing CodeBERT's Performance on Natural Language Code Search,,,,,/pdf?id=canvJzQNs09,,,,,,,,,,,,,Anonymous,/forum?id=canvJzQNs09
+501,pdwCJHW5G9,Navigating Connected Memories with a Task-oriented Dialog System,,,,,/pdf?id=pdwCJHW5G9,,,,,,,,,,,,,Anonymous,/forum?id=pdwCJHW5G9
+502,_EZT1Q_0ZTq,Are All the Datasets in Benchmark Necessary? A Pilot Study of Dataset Evaluation for Text Classification,,,,,/pdf?id=_EZT1Q_0ZTq,,,,,,,,,,,,,Anonymous,/forum?id=_EZT1Q_0ZTq
+503,mwygbrMylCq,When do Contrastive Word Alignments Improve Many-to-many Neural Machine Translation?,,,,,/pdf?id=mwygbrMylCq,,,,,,,,,,,,,Anonymous,/forum?id=mwygbrMylCq
+504,gSBKV8nmjP2,Lacuna Reconstruction: Self-supervised Pre-training for Low-Resource Historical Document Transcription,,,,,/pdf?id=gSBKV8nmjP2,,,,,,,,,,,,,Anonymous,/forum?id=gSBKV8nmjP2
+505,yqL30wlJi2F,Using Natural Sentence Prompts for Understanding Biases in Language Models,,,,,/pdf?id=yqL30wlJi2F,,,,,,,,,,,,,Anonymous,/forum?id=yqL30wlJi2F
+506,2J8zoGnOTn,ViL-Sum: Enhancing Vision and Language Representations via Multi-task Learning for Multi-modal Summarization,,,,,/pdf?id=2J8zoGnOTn,,,,,,,,,,,,,Anonymous,/forum?id=2J8zoGnOTn
+507,pVCUf5HWC4n,A Text-Image Pair Is not Enough: Language-Vision Relation Inference with Auxiliary Modality Translation,,,,,/pdf?id=pVCUf5HWC4n,,,,,,,,,,,,,Anonymous,/forum?id=pVCUf5HWC4n
+508,tlVnmqE6r0,TemporalWiki: A Lifelong Benchmark for Training and Evaluating Ever-Evolving Language Models,,,,,/pdf?id=tlVnmqE6r0,,,,,,,,,,,,,Anonymous,/forum?id=tlVnmqE6r0
+509,igVquoXGiLo,Improving Conversational Recommendation Systems’ Quality with Context-Aware Item Meta-Information,,,,,/pdf?id=igVquoXGiLo,,,,,,,,,,,,,Anonymous,/forum?id=igVquoXGiLo
+510,sSTn26Y2oc,A Holistic Framework for Analyzing the COVID-19 Vaccine Debate,,,,,/pdf?id=sSTn26Y2oc,,,,,,,,,,,,,Anonymous,/forum?id=sSTn26Y2oc
+511,8WSg5VAhRCy,DAQE: Exploring the Direct Assessment on Word-Level Quality Estimation in Machine Translation,,,,,/pdf?id=8WSg5VAhRCy,,,,,,,,,,,,,Anonymous,/forum?id=8WSg5VAhRCy
+512,4sjBbrHJtKj,Fine-grained Location Extraction via Curriculum Learning,,,,,/pdf?id=4sjBbrHJtKj,,,,,,,,,,,,,Anonymous,/forum?id=4sjBbrHJtKj
+513,EpXKbPSsYqL,NewsEdits: A Dataset of News Article Revision Histories and a Novel Document-Level Reasoning Challenge,,,,,/pdf?id=EpXKbPSsYqL,,,,,,,,,,,,,Anonymous,/forum?id=EpXKbPSsYqL
+514,tym7kAeuj8,Database Search Results Disambiguation for Task-Oriented Dialog Systems,,,,,/pdf?id=tym7kAeuj8,,,,,,,,,,,,,Anonymous,/forum?id=tym7kAeuj8
+515,B1n_0_fSKDN,Towards Transparent Interactive Semantic Parsing via Step-by-Step Correction,,,,,/pdf?id=B1n_0_fSKDN,,,,,,,,,,,,,Anonymous,/forum?id=B1n_0_fSKDN
+516,kQWGURqrAW_,Don't Take It Literally: An Edit-Invariant Sequence Loss for Text Generation,,,,,/pdf?id=kQWGURqrAW_,,,,,,,,,,,,,Anonymous,/forum?id=kQWGURqrAW_
+517,4gmJAihAL8u,"""my stance decides my language"": Modeling of Framing and Political Stance in News Media",,,,,/pdf?id=4gmJAihAL8u,,,,,,,,,,,,,Anonymous,/forum?id=4gmJAihAL8u
+518,InPbQdUhmUH,Entity Cloze By Date: Understanding what LMs know about unseen entities,,,,,/pdf?id=InPbQdUhmUH,,,,,,,,,,,,,Anonymous,/forum?id=InPbQdUhmUH
+519,uympaMgttf,"An Empirical Study of Representation, Training and Decoding for Span-based Named Entity Recognition",,,,,/pdf?id=uympaMgttf,,,,,,,,,,,,,Anonymous,/forum?id=uympaMgttf
+520,ZLRckoIm-EH,Synopses of Movie Narratives: a Video-Language Dataset for Story Understanding,,,,,/pdf?id=ZLRckoIm-EH,,,,,,,,,,,,,Anonymous,/forum?id=ZLRckoIm-EH
+521,NbQ0o6dC6oO,TVShowGuess: Character Comprehension in Stories as Speaker Guessing,,,,,/pdf?id=NbQ0o6dC6oO,,,,,,,,,,,,,Anonymous,/forum?id=NbQ0o6dC6oO
+522,bmO0jrA2lP,Context-Aware Language Modeling for Goal-Oriented Dialogue Systems,,,,,/pdf?id=bmO0jrA2lP,,,,,,,,,,,,,Anonymous,/forum?id=bmO0jrA2lP
+523,NvrxyLLag7,Leveraging Visual Knowledge in Language Tasks: An Empirical Study on Intermediate Pre-training for Cross-modal Knowledge Transfer,,,,,/pdf?id=NvrxyLLag7,,,,,,,,,,,,,Anonymous,/forum?id=NvrxyLLag7
+524,dFW4mQrfWs,That is a good looking car !: Visual Aspect based Sentiment Controlled Personalized Response Generation,,,,,/pdf?id=dFW4mQrfWs,,,,,,,,,,,,,Anonymous,/forum?id=dFW4mQrfWs
+525,DANj-t4ucSE,Morphosyntactic Tagging with Pre-trained Language Models for Arabic and its Dialects,,,,,/pdf?id=DANj-t4ucSE,,,,,,,,,,,,,Anonymous,/forum?id=DANj-t4ucSE
+526,1c5HGUkc1SL,MWP-BERT: Numeracy-Augmented Pre-training for Math Word Problem Solving,,,,,/pdf?id=1c5HGUkc1SL,,,,,,,,,,,,,Anonymous,/forum?id=1c5HGUkc1SL
+527,ArWu5lXM5w,DISAPERE: A Dataset for Discourse Structure in Peer Review Discussions,,,,,/pdf?id=ArWu5lXM5w,,,,,,,,,,,,,Anonymous,/forum?id=ArWu5lXM5w
+528,XdN_Lq_5eY,The Impact of Cross-Lingual Adjustment of Contextual Word Representations on Zero-Shot Transfer,,,,,/pdf?id=XdN_Lq_5eY,,,,,,,,,,,,,Anonymous,/forum?id=XdN_Lq_5eY
+529,jl5nh3pjE4B,A New Dataset for Summarizing Radiology Reports,,,,,/pdf?id=jl5nh3pjE4B,,,,,,,,,,,,,Anonymous,/forum?id=jl5nh3pjE4B
+530,EYitFRZGwkk,A Cueing Strategy with Prompt Tuning for Relation Extraction,,,,,/pdf?id=EYitFRZGwkk,,,,,,,,,,,,,Anonymous,/forum?id=EYitFRZGwkk
+531,9tppnWrKYl,LoPE: Learnable Sinusoidal Positional Encoding for Improving Document Transformer Model,,,,,/pdf?id=9tppnWrKYl,,,,,,,,,,,,,Anonymous,/forum?id=9tppnWrKYl
+532,D0zGt8jxCIl,Understand before Answer: Improve Temporal Reading Comprehension via Precise Question Understanding,,,,,/pdf?id=D0zGt8jxCIl,,,,,,,,,,,,,Anonymous,/forum?id=D0zGt8jxCIl
+533,qMgcl_FU8V,On Synthetic Data for Back Translation,,,,,/pdf?id=qMgcl_FU8V,,,,,,,,,,,,,Anonymous,/forum?id=qMgcl_FU8V
+534,TO_7PHXMoUc,LongChecker: Improving scientific claim verification by modeling full-abstract context,,,,,/pdf?id=TO_7PHXMoUc,,,,,,,,,,,,,Anonymous,/forum?id=TO_7PHXMoUc
+535,4qXyFbi_0Z,Exploring Cross-Lingual Guidance in Abstractive Summarization,,,,,/pdf?id=4qXyFbi_0Z,,,,,,,,,,,,,Anonymous,/forum?id=4qXyFbi_0Z
+536,_sAJjkoxfuo,Few-Shot Semantic Parsing with Language Models Trained On Code,,,,,/pdf?id=_sAJjkoxfuo,,,,,,,,,,,,,Anonymous,/forum?id=_sAJjkoxfuo
+537,Dj9d8N5i5y,HiStruct+: Improving Extractive Text Summarization with Hierarchical Structure Information,,,,,/pdf?id=Dj9d8N5i5y,,,,,,,,,,,,,Anonymous,/forum?id=Dj9d8N5i5y
+538,qNDQc26ZxdP,POLITICS: Pretraining with Same-story Article Comparison for Ideology Prediction and Stance Detection,,,,,/pdf?id=qNDQc26ZxdP,,,,,,,,,,,,,Anonymous,/forum?id=qNDQc26ZxdP
+539,ULbQZpq9-B,Building Sequence-to-Sequence Document Revision Models from Matched and Multiple Partially-Matched Datasets,,,,,/pdf?id=ULbQZpq9-B,,,,,,,,,,,,,Anonymous,/forum?id=ULbQZpq9-B
+540,pK5HUWE-mz5,Efficient Weighted Deduction Systems for Earley’s Algorithm,,,,,/pdf?id=pK5HUWE-mz5,,,,,,,,,,,,,Anonymous,/forum?id=pK5HUWE-mz5
+541,MndqjaCwQX,A Benchmark for Text Quantification Learning Under Real-World Temporal Distribution Shift,,,,,/pdf?id=MndqjaCwQX,,,,,,,,,,,,,Anonymous,/forum?id=MndqjaCwQX
+542,GZIhD4D382d,A Meta-transfer Learning framework for Visually Grounded Compositional Concept Learning,,,,,/pdf?id=GZIhD4D382d,,,,,,,,,,,,,Anonymous,/forum?id=GZIhD4D382d
+543,Qnu6a4w81Z,Modeling Tension in Stories via Commonsense Reasoning and Emotional Word Embeddings,,,,,/pdf?id=Qnu6a4w81Z,,,,,,,,,,,,,Anonymous,/forum?id=Qnu6a4w81Z
+544,lABZiVvtU8x,Detecting Rumor Veracity with Only Textual Information by Double-Channel Structure,,,,,/pdf?id=lABZiVvtU8x,,,,,,,,,,,,,Anonymous,/forum?id=lABZiVvtU8x
+545,7L0yYMwPsW6,HiTab: A Hierarchical Table Dataset for Question Answering and Natural Language Generation,,,,,/pdf?id=7L0yYMwPsW6,,,,,,,,,,,,,Anonymous,/forum?id=7L0yYMwPsW6
+546,7ObvucmbjMM,CrowdChecked: Detecting Previously Fact-Checked Claims in Social Media,,,,,/pdf?id=7ObvucmbjMM,,,,,,,,,,,,,Anonymous,/forum?id=7ObvucmbjMM
+547,RKTicOSoaIk,δ-SAM: Sharpness-Aware Minimization with Dynamic Reweighting,,,,,/pdf?id=RKTicOSoaIk,,,,,,,,,,,,,Anonymous,/forum?id=RKTicOSoaIk
+548,PvwahGFHaq7,Headed-Span-Based Projective Dependency Parsing,,,,,/pdf?id=PvwahGFHaq7,,,,,,,,,,,,,Anonymous,/forum?id=PvwahGFHaq7
+549,kY86snNIzd9,Zero-Shot Aspect-Based Scientific Document Summarization using Self-Supervised Pre-training,,,,,/pdf?id=kY86snNIzd9,,,,,,,,,,,,,Anonymous,/forum?id=kY86snNIzd9
+550,hTYab1cRBl4,A Study of Syntactic Multi-Modality in Non-Autoregressive Machine Translation,,,,,/pdf?id=hTYab1cRBl4,,,,,,,,,,,,,Anonymous,/forum?id=hTYab1cRBl4
+551,oaA1xSdZD6h,AutoAttention: Automatic Attention Head Selection Through Differentiable Pruning,,,,,/pdf?id=oaA1xSdZD6h,,,,,,,,,,,,,Anonymous,/forum?id=oaA1xSdZD6h
+552,Ynu6z5iWxWJ,A Balanced Data Approach for Evaluating Cross-Lingual Transfer: Mapping the Linguistic Blood Bank,,,,,/pdf?id=Ynu6z5iWxWJ,,,,,,,,,,,,,Anonymous,/forum?id=Ynu6z5iWxWJ
+553,pPTZJQ7U_iX,"Revisiting Additive Compositionality: AND, OR, and NOT Operations with Word Embeddings",,,,,/pdf?id=pPTZJQ7U_iX,,,,,,,,,,,,,Anonymous,/forum?id=pPTZJQ7U_iX
+554,s-5K23UWff7,Speaker Clustering in Textual Dialogue with Utterance Correlation and Cross-corpus Dialogue Act Supervision,,,,,/pdf?id=s-5K23UWff7,,,,,,,,,,,,,Anonymous,/forum?id=s-5K23UWff7
+555,KiHUqUD8YWP,A Dataset for N-ary Relation Extraction of Drug Combinations,,,,,/pdf?id=KiHUqUD8YWP,,,,,,,,,,,,,Anonymous,/forum?id=KiHUqUD8YWP
+556,cMGM38rfl-,Sequentially Controlled Text Generation,,,,,/pdf?id=cMGM38rfl-,,,,,,,,,,,,,Anonymous,/forum?id=cMGM38rfl-
+557,8v_Uc_w4vUt,Great Truths are Always Simple: A Rather Simple Knowledge Encoder for Enhancing the Commonsense Reasoning Capacity of Pre-Trained Models,,,,,/pdf?id=8v_Uc_w4vUt,,,,,,,,,,,,,Anonymous,/forum?id=8v_Uc_w4vUt
+558,gcQjRKJx45I,Ask Me Anything in Your Native Language,,,,,/pdf?id=gcQjRKJx45I,,,,,,,,,,,,,Anonymous,/forum?id=gcQjRKJx45I
+559,tv612ry6_g9,Unbiased Math Word Problems Benchmark for Mitigating Solving Bias,,,,,/pdf?id=tv612ry6_g9,,,,,,,,,,,,,Anonymous,/forum?id=tv612ry6_g9
+560,rlTZqr_Sg4j,Cheat Codes to Quantify Missing Source Information in Neural Machine Translation,,,,,/pdf?id=rlTZqr_Sg4j,,,,,,,,,,,,,Anonymous,/forum?id=rlTZqr_Sg4j
+561,AGdAmuySMYN,Mix and Match: Learning-free Controllable Text Generation using Energy Language Models,,,,,/pdf?id=AGdAmuySMYN,,,,,,,,,,,,,Anonymous,/forum?id=AGdAmuySMYN
+562,nAErnzRoE2r,End-to-end Speech Translation with Spoken-to-Written Style Conversion,,,,,/pdf?id=nAErnzRoE2r,,,,,,,,,,,,,Anonymous,/forum?id=nAErnzRoE2r
+563,1jg0-AcYVo,Non-Autoregressive Machine Translation: It's Not as Fast as it Seems,,,,,/pdf?id=1jg0-AcYVo,,,,,,,,,,,,,Anonymous,/forum?id=1jg0-AcYVo
+564,R54Xtyh6XBj,Tapping BERT for Preposition Sense Disambiguation,,,,,/pdf?id=R54Xtyh6XBj,,,,,,,,,,,,,Anonymous,/forum?id=R54Xtyh6XBj
+565,W4SAqmbjVep,Bridge the Gap Between CV and NLP! A Gradient-based Textual Adversarial Attack Framework,,,,,/pdf?id=W4SAqmbjVep,,,,,,,,,,,,,Anonymous,/forum?id=W4SAqmbjVep
+566,JAU4kZ9mSd,Investigating and Explaining Feature and Representation Learning in Translationese Classification,,,,,/pdf?id=JAU4kZ9mSd,,,,,,,,,,,,,Anonymous,/forum?id=JAU4kZ9mSd
+567,F_9GY8mIRSw,Revisiting the Roles of “Text” in Text Games,,,,,/pdf?id=F_9GY8mIRSw,,,,,,,,,,,,,Anonymous,/forum?id=F_9GY8mIRSw
+568,tNjQ80IVBl,"Old BERT, New Tricks: Artificial Language Learning for Pre-Trained Language Models",,,,,/pdf?id=tNjQ80IVBl,,,,,,,,,,,,,Anonymous,/forum?id=tNjQ80IVBl
+569,AD2nMRaIrqb,ezCoref: A Scalable Approach for Collecting Crowdsourced Annotations for Coreference Resolution,,,,,/pdf?id=AD2nMRaIrqb,,,,,,,,,,,,,Anonymous,/forum?id=AD2nMRaIrqb
+570,QXSIhKXBaFP,Modeling Exemplification in Long-form Question Answering via Retrieval,,,,,/pdf?id=QXSIhKXBaFP,,,,,,,,,,,,,Anonymous,/forum?id=QXSIhKXBaFP
+571,e6jPQRUUWeT,Detection of Word Adversarial Examples in NLP: Benchmark and Baseline via Robust Density Estimation,,,,,/pdf?id=e6jPQRUUWeT,,,,,,,,,,,,,Anonymous,/forum?id=e6jPQRUUWeT
+572,ZQejhmTreE8,Hierarchical Transformers Are More Efficient Language Models,,,,,/pdf?id=ZQejhmTreE8,,,,,,,,,,,,,Anonymous,/forum?id=ZQejhmTreE8
+573,_uuDqxI1Fo6,ULF: Cross-Validation for Weak Supervision,,,,,/pdf?id=_uuDqxI1Fo6,,,,,,,,,,,,,Anonymous,/forum?id=_uuDqxI1Fo6
+574,6_HFFqdYjSO,A Relation Semantic Information Attentive Stereoscopic Framework for Relational Triple Extraction,,,,,/pdf?id=6_HFFqdYjSO,,,,,,,,,,,,,Anonymous,/forum?id=6_HFFqdYjSO
+575,RNI5LO-axuw,"Show, Don't Tell: Demonstrations Outperform Descriptions for Schema-Guided Task-Oriented Dialogue",,,,,/pdf?id=RNI5LO-axuw,,,,,,,,,,,,,Anonymous,/forum?id=RNI5LO-axuw
+576,TJSDdKdBjlA,ComSearch: Equation Searching with Combinatorial Mathematics for Solving Math Word Problems with Weak Supervision,,,,,/pdf?id=TJSDdKdBjlA,,,,,,,,,,,,,Anonymous,/forum?id=TJSDdKdBjlA
+577,29mx8VNszc,On the Anatomy of Latent-variable Generative Models for Conditional Text Generation,,,,,/pdf?id=29mx8VNszc,,,,,,,,,,,,,Anonymous,/forum?id=29mx8VNszc
+578,FBUPD9Xgt_A,Unsupervised Common Sense Relation Extraction,,,,,/pdf?id=FBUPD9Xgt_A,,,,,,,,,,,,,Anonymous,/forum?id=FBUPD9Xgt_A
+579,5kVxr1D_0Xq,GraphDiffs: Graph Modeling with Differential Sequence for Document-Grounded Conversation,,,,,/pdf?id=5kVxr1D_0Xq,,,,,,,,,,,,,Anonymous,/forum?id=5kVxr1D_0Xq
+580,oIHR0YKPDW4,NeuS: Neutral Multi-News Summarization for Framing Bias Mitigation,,,,,/pdf?id=oIHR0YKPDW4,,,,,,,,,,,,,Anonymous,/forum?id=oIHR0YKPDW4
+581,zQTeSUojkr5,Building a Role Specified Open-Domain Dialogue System Leveraging Large-Scale Language Models,,,,,/pdf?id=zQTeSUojkr5,,,,,,,,,,,,,Anonymous,/forum?id=zQTeSUojkr5
+582,i8_xrITB-_J,Detecting Unintended Social Bias in Toxic Language Datasets,,,,,/pdf?id=i8_xrITB-_J,,,,,,,,,,,,,Anonymous,/forum?id=i8_xrITB-_J
+583,QNDDSUiSuBD,Lexicon for multiword expression identification,,,,,/pdf?id=QNDDSUiSuBD,,,,,,,,,,,,,Anonymous,/forum?id=QNDDSUiSuBD
+584,Dweo3Oop7lV,LexiCon: Lexically Constrained Review Generation via Robust Insertion,,,,,/pdf?id=Dweo3Oop7lV,,,,,,,,,,,,,Anonymous,/forum?id=Dweo3Oop7lV
+585,GeuGp66hI18,Investigating the Benefits of Free-Form Rationales,,,,,/pdf?id=GeuGp66hI18,,,,,,,,,,,,,Anonymous,/forum?id=GeuGp66hI18
+586,AJR1_tl-VY-,Multimodal Semi-supervised Learning for Disaster Tweet Classification,,,,,/pdf?id=AJR1_tl-VY-,,,,,,,,,,,,,Anonymous,/forum?id=AJR1_tl-VY-
+587,wFEl0shQ9F1,Causal Language Model for Zero-shot Constrained Keyphrase Generation,,,,,/pdf?id=wFEl0shQ9F1,,,,,,,,,,,,,Anonymous,/forum?id=wFEl0shQ9F1
+588,Z1LmYdQluQz,Identifying and Measuring Token-Level Sentiment Bias in Pre-trained Language Models with Prompts,,,,,/pdf?id=Z1LmYdQluQz,,,,,,,,,,,,,Anonymous,/forum?id=Z1LmYdQluQz
+589,CAMSwlHXtoJ,Consecutive Question Generation with Multitask Joint Reranking and Dynamic Rationale Search,,,,,/pdf?id=CAMSwlHXtoJ,,,,,,,,,,,,,Anonymous,/forum?id=CAMSwlHXtoJ
+590,976tbEd9fxU,CQMrobust: A Chinese Dataset of Linguistically Perturbed Natural Questions for Evaluating the Robustness of Question Matching Models,,,,,/pdf?id=976tbEd9fxU,,,,,,,,,,,,,Anonymous,/forum?id=976tbEd9fxU
+591,t6Vo4bMzb9M,Gated Recursive and Sequential Deep Hierarchical Encoding for Detecting Incongruent News Articles,,,,,/pdf?id=t6Vo4bMzb9M,,,,,,,,,,,,,Anonymous,/forum?id=t6Vo4bMzb9M
+592,2bspCogtJ8L,Classification of Illegal Drug Sales Posts using Clustering-Based Topic Modeling.,,,,,/pdf?id=2bspCogtJ8L,,,,,,,,,,,,,Anonymous,/forum?id=2bspCogtJ8L
+593,2tq_R5_95x8,Challenge for open-domain targeted sentiment analysis,,,,,/pdf?id=2tq_R5_95x8,,,,,,,,,,,,,Anonymous,/forum?id=2tq_R5_95x8
+594,mW--9n3IMBJ,"""You might think about slightly revising the title"": identifying hedges in peer-tutoring interactions",,,,,/pdf?id=mW--9n3IMBJ,,,,,,,,,,,,,Anonymous,/forum?id=mW--9n3IMBJ
+595,gul1Kz8fzqE,Textual Backdoor Attacks Can Be More Harmful via Two Simple Tricks,,,,,/pdf?id=gul1Kz8fzqE,,,,,,,,,,,,,Anonymous,/forum?id=gul1Kz8fzqE
+596,x_JPbPyWbt2,A Study of Pre-trained Language Models for Analogy Generation,,,,,/pdf?id=x_JPbPyWbt2,,,,,,,,,,,,,Anonymous,/forum?id=x_JPbPyWbt2
+597,CN9Qj8cDtOP,MUST: A Framework for Training Task-oriented Dialogue Systems with Multiple User SimulaTors,,,,,/pdf?id=CN9Qj8cDtOP,,,,,,,,,,,,,Anonymous,/forum?id=CN9Qj8cDtOP
+598,cXGJy7WkHD0,Exploring the Low-Resource Transfer-Learning with mT5 model,,,,,/pdf?id=cXGJy7WkHD0,,,,,,,,,,,,,Anonymous,/forum?id=cXGJy7WkHD0
+599,AcKjgOYsDRh,PNEG: Prompt-based Negative Response Generation for Robust Response Selection Model,,,,,/pdf?id=AcKjgOYsDRh,,,,,,,,,,,,,Anonymous,/forum?id=AcKjgOYsDRh
+600,RhQZzJQrDdg,Learning from Explanations: Multi-aspect based Age-restricted Rating Prediction in Long Scripts,,,,,/pdf?id=RhQZzJQrDdg,,,,,,,,,,,,,Anonymous,/forum?id=RhQZzJQrDdg
+601,y7mbZumiRFQ,Modularized Transfer Learning with Multiple Knowledge Graphs for Zero-shot Commonsense Reasoning,,,,,/pdf?id=y7mbZumiRFQ,,,,,,,,,,,,,Anonymous,/forum?id=y7mbZumiRFQ
+602,zlGRLoYVegN,Document-level Neural Machine Translation Using Dependency RST Structure,,,,,/pdf?id=zlGRLoYVegN,,,,,,,,,,,,,Anonymous,/forum?id=zlGRLoYVegN
+603,D4O4QbXQfSn,Phrase-level Textual Adversarial Attack with Label Preservation,,,,,/pdf?id=D4O4QbXQfSn,,,,,,,,,,,,,Anonymous,/forum?id=D4O4QbXQfSn
+604,mNW3E3hfyTi,MultiCite: Modeling realistic citations requires moving beyond the single-sentence single-label setting,,,,,/pdf?id=mNW3E3hfyTi,,,,,,,,,,,,,Anonymous,/forum?id=mNW3E3hfyTi
+605,fE6Md7R_vqA,ValCAT: Generating Variable-Length Contextualized Adversarial Transformations using Encoder-Decoder,,,,,/pdf?id=fE6Md7R_vqA,,,,,,,,,,,,,Anonymous,/forum?id=fE6Md7R_vqA
+606,KBpfIEHa9Th,Dynamic Programming in Rank Space: Scaling Structured Inference with Low-Rank HMMs and PCFGs,,,,,/pdf?id=KBpfIEHa9Th,,,,,,,,,,,,,Anonymous,/forum?id=KBpfIEHa9Th
+607,zwUYKKosPKC,Can BERT Conduct Logical Reasoning? On the Difficulty of Learning to Reason from Data,,,,,/pdf?id=zwUYKKosPKC,,,,,,,,,,,,,Anonymous,/forum?id=zwUYKKosPKC
+608,ppmgJ-i_tSI,Rare Tokens Degenerate All Tokens: Improving Neural Text Generation via Adaptive Gradient Gating for Rare Token Embeddings,,,,,/pdf?id=ppmgJ-i_tSI,,,,,,,,,,,,,Anonymous,/forum?id=ppmgJ-i_tSI
+609,yBlgRDURgfN,SANCL: Multimodal Review Helpfulness Prediction with Selective Attention and Natural Contrastive Learning,,,,,/pdf?id=yBlgRDURgfN,,,,,,,,,,,,,Anonymous,/forum?id=yBlgRDURgfN
+610,8_8LIpyONKk,BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models,,,,,/pdf?id=8_8LIpyONKk,,,,,,,,,,,,,Anonymous,/forum?id=8_8LIpyONKk
+611,YTLFfSsh_Zi,A Self-Adaptive Learning Rate and Curriculum Learning Based Framework for Few-Shot Text Classification,,,,,/pdf?id=YTLFfSsh_Zi,,,,,,,,,,,,,Anonymous,/forum?id=YTLFfSsh_Zi
+612,NHECrvMz1LL,ERNIE-Layout: Layout-Knowledge Enhanced Multi-modal Pre-training for Document Understanding,,,,,/pdf?id=NHECrvMz1LL,,,,,,,,,,,,,Anonymous,/forum?id=NHECrvMz1LL
+613,amiUSC6LawM,Jointly Reinforced User Simulator and Task-oriented Dialog System with Simplified Generative Architecture,,,,,/pdf?id=amiUSC6LawM,,,,,,,,,,,,,Anonymous,/forum?id=amiUSC6LawM
+614,WwX4I6Vt3sL,FORTAP: Using Formulas for Numerical-Reasoning-Aware Table Pretraining,,,,,/pdf?id=WwX4I6Vt3sL,,,,,,,,,,,,,Anonymous,/forum?id=WwX4I6Vt3sL
+615,j1eEMYQv1xo,AraBART: a Pretrained Arabic Sequence-to-Sequence Model for Abstractive Summarization,,,,,/pdf?id=j1eEMYQv1xo,,,,,,,,,,,,,Anonymous,/forum?id=j1eEMYQv1xo
+616,oRzlpBCwNfT,Evaluating the Text-to-SQL Capabilities of Large Language Models,,,,,/pdf?id=oRzlpBCwNfT,,,,,,,,,,,,,Anonymous,/forum?id=oRzlpBCwNfT
+617,sYuJ1jrVQuL,MuCGEC: a Multi-Reference Multi-Source Evaluation Dataset for Chinese Grammatical Error Correction,,,,,/pdf?id=sYuJ1jrVQuL,,,,,,,,,,,,,Anonymous,/forum?id=sYuJ1jrVQuL
+618,6d9vG4hBd9s,GlobEnc: Quantifying Global Token Attribution by Incorporating the Whole Encoder Layer in Transformers,,,,,/pdf?id=6d9vG4hBd9s,,,,,,,,,,,,,Anonymous,/forum?id=6d9vG4hBd9s
+619,viX7312zHYb,Extending Multi-Text Sentence Fusion Resources via Pyramid Annotations,,,,,/pdf?id=viX7312zHYb,,,,,,,,,,,,,Anonymous,/forum?id=viX7312zHYb
+620,t6kEIvmYTuu,AllWOZ: Towards Multilingual Task-Oriented Dialog Systems for All,,,,,/pdf?id=t6kEIvmYTuu,,,,,,,,,,,,,Anonymous,/forum?id=t6kEIvmYTuu
+621,Qyk9zP29nNZ,"LawngNLI: a multigranular, long-premise NLI benchmark for evaluating models’ in-domain generalization from short to long contexts",,,,,/pdf?id=Qyk9zP29nNZ,,,,,,,,,,,,,Anonymous,/forum?id=Qyk9zP29nNZ
+622,8zJEDI2JyYR,Multi-way VNMT for UGC: Improving Robustness and Capacity via Mixture Density Networks,,,,,/pdf?id=8zJEDI2JyYR,,,,,,,,,,,,,Anonymous,/forum?id=8zJEDI2JyYR
+623,3qisgI1DAcd,Pruning Adatperfusion with Lottery Ticket Hypothesis,,,,,/pdf?id=3qisgI1DAcd,,,,,,,,,,,,,Anonymous,/forum?id=3qisgI1DAcd
+624,UVWsPH3vtn2,Towards a Fast Response Selection: Selecting the Optimal Dialogue Response Once for All,,,,,/pdf?id=UVWsPH3vtn2,,,,,,,,,,,,,Anonymous,/forum?id=UVWsPH3vtn2
+625,0DR74NlWR7u,FaiRR: Faithful and Robust Deductive Reasoning over Natural Language,,,,,/pdf?id=0DR74NlWR7u,,,,,,,,,,,,,Anonymous,/forum?id=0DR74NlWR7u
+626,O_W4h-44Rzf,RGL: A Simple yet Effective Relation Graph Augmented Prompt-based Tuning Approach for Few-Shot Learning,,,,,/pdf?id=O_W4h-44Rzf,,,,,,,,,,,,,Anonymous,/forum?id=O_W4h-44Rzf
+627,KYXXdGz43R02,"When Does Translation Require Context? A Data-driven, Multilingual Exploration",,,,,/pdf?id=KYXXdGz43R02,,,,,,,,,,,,,Anonymous,/forum?id=KYXXdGz43R02
+628,We8DbQJV64N,Continual Prompt Tuning for Dialog State Tracking,,,,,/pdf?id=We8DbQJV64N,,,,,,,,,,,,,Anonymous,/forum?id=We8DbQJV64N
+629,O1VX99FS0ER,Multi-stage Distillation Framework for Cross-Lingual Semantic Similarity Matching,,,,,/pdf?id=O1VX99FS0ER,,,,,,,,,,,,,Anonymous,/forum?id=O1VX99FS0ER
+630,NqEMt9LQcn8,How to Translate Your Samples and Choose Your Shots? Analyzing Translate-train & Few-shot Cross-lingual Transfer,,,,,/pdf?id=NqEMt9LQcn8,,,,,,,,,,,,,Anonymous,/forum?id=NqEMt9LQcn8
+631,Exj6aIhaZtN,Reinforcement Learning with Large Action Spaces for Neural Machine Translation,,,,,/pdf?id=Exj6aIhaZtN,,,,,,,,,,,,,Anonymous,/forum?id=Exj6aIhaZtN
+632,8-bMehdzFKG,Unlearnable Text for Neural Classifiers,,,,,/pdf?id=8-bMehdzFKG,,,,,,,,,,,,,Anonymous,/forum?id=8-bMehdzFKG
+633,GNfsr9EXKMH,Measuring and Improving Compositional Generalization in Text-to-SQL via Component Alignment,,,,,/pdf?id=GNfsr9EXKMH,,,,,,,,,,,,,Anonymous,/forum?id=GNfsr9EXKMH
+634,EjZROozGRQK,Improving Neural Models for Radiology Report Retrieval with Lexicon-based Automated Annotation,,,,,/pdf?id=EjZROozGRQK,,,,,,,,,,,,,Anonymous,/forum?id=EjZROozGRQK
+635,gqpNQEiu7rq,C3KG: A Chinese Commonsense Conversation Knowledge Graph,,,,,/pdf?id=gqpNQEiu7rq,,,,,,,,,,,,,Anonymous,/forum?id=gqpNQEiu7rq
+636,aqkvr7TJveE,AlephBERT: Language Model Pre-training and Evaluation from Sub-Word to Sentence Level,,,,,/pdf?id=aqkvr7TJveE,,,,,,,,,,,,,Anonymous,/forum?id=aqkvr7TJveE
+637,x1mQp1Q9bKq,CSL: A Large-scale Chinese Scientific Literature Dataset for Cross-task Evaluation,,,,,/pdf?id=x1mQp1Q9bKq,,,,,,,,,,,,,Anonymous,/forum?id=x1mQp1Q9bKq
+638,rrl7MTst9wV,DocEE: A Large-Scale and Fine-grained Benchmark for Document-level Event Extraction,,,,,/pdf?id=rrl7MTst9wV,,,,,,,,,,,,,Anonymous,/forum?id=rrl7MTst9wV
+639,YngWgPnaRNk,Rethinking Offensive Text Detection as a Multi-Hop Reasoning Problem,,,,,/pdf?id=YngWgPnaRNk,,,,,,,,,,,,,Anonymous,/forum?id=YngWgPnaRNk
+640,8KHmFphT9BA,Data Augmentation for Low-Resource Dialogue Summarization,,,,,/pdf?id=8KHmFphT9BA,,,,,,,,,,,,,Anonymous,/forum?id=8KHmFphT9BA
+641,hKxlrW6p7Od,Curriculum: A Broad-Coverage Benchmark for Linguistic Phenomena in Natural Language Understanding,,,,,/pdf?id=hKxlrW6p7Od,,,,,,,,,,,,,Anonymous,/forum?id=hKxlrW6p7Od
+642,rqONayCTQKl,Rethinking Style Transformer by Energy-based Interpretation: Adversarial Unsupervised Style Transfer using Pretrained Model,,,,,/pdf?id=rqONayCTQKl,,,,,,,,,,,,,Anonymous,/forum?id=rqONayCTQKl
+643,cSFK2fi_-Ya,Neural Discourse Deixis Resolution in Dialogue,,,,,/pdf?id=cSFK2fi_-Ya,,,,,,,,,,,,,Anonymous,/forum?id=cSFK2fi_-Ya
+644,adfU1eO0E-R,Contrastive Demonstration Tuning for Pre-trained Language Models,,,,,/pdf?id=adfU1eO0E-R,,,,,,,,,,,,,Anonymous,/forum?id=adfU1eO0E-R
+645,Q93cnfCFcVP,Learning Sense Embeddings from Definitions in Dictionaries,,,,,/pdf?id=Q93cnfCFcVP,,,,,,,,,,,,,Anonymous,/forum?id=Q93cnfCFcVP
+646,AXB1GhRvcpi,Towards a Progression-Aware Autonomous Dialogue Agent,,,,,/pdf?id=AXB1GhRvcpi,,,,,,,,,,,,,Anonymous,/forum?id=AXB1GhRvcpi
+647,0Zl3CPON9Xp,Layout-Aware Neural Model for Resolving Hierarchical Table Structure,,,,,/pdf?id=0Zl3CPON9Xp,,,,,,,,,,,,,Anonymous,/forum?id=0Zl3CPON9Xp
+648,0E6g4Ltb5fK,E-MMAD: Multimodal Advertising Caption Generation Based on Structured Information,,,,,/pdf?id=0E6g4Ltb5fK,,,,,,,,,,,,,Anonymous,/forum?id=0E6g4Ltb5fK
+649,iPKv1tzNiVT,Learning to Embed Multi-Modal Contexts for Situated Conversational Agents,,,,,/pdf?id=iPKv1tzNiVT,,,,,,,,,,,,,Anonymous,/forum?id=iPKv1tzNiVT
+650,s-BXA8RAyqG,Don’t Forget About Pronouns: Removing Gender Bias in Language Models without Losing Factual Gender Information,,,,,/pdf?id=s-BXA8RAyqG,,,,,,,,,,,,,Anonymous,/forum?id=s-BXA8RAyqG
+651,r6jj9mzJQoB,FAQ Search using Transformers,,,,,/pdf?id=r6jj9mzJQoB,,,,,,,,,,,,,Anonymous,/forum?id=r6jj9mzJQoB
+652,FWukYrX0t6j,Sentence-Level Discourse Parsing as Text-to-Text Generation,,,,,/pdf?id=FWukYrX0t6j,,,,,,,,,,,,,Anonymous,/forum?id=FWukYrX0t6j
+653,c9GC787LMH-,JEFF - Just Another EFFicient Reading Comprehension Test Generation,,,,,/pdf?id=c9GC787LMH-,,,,,,,,,,,,,Anonymous,/forum?id=c9GC787LMH-
+654,mTLXhBjTKfv,What Role Does BERT Play in the Neural Machine Translation Encoder?,,,,,/pdf?id=mTLXhBjTKfv,,,,,,,,,,,,,Anonymous,/forum?id=mTLXhBjTKfv
+655,fnYdYtgZZAf,Quantifying Synthesis and Fusion and their Impact on Machine Translation,,,,,/pdf?id=fnYdYtgZZAf,,,,,,,,,,,,,Anonymous,/forum?id=fnYdYtgZZAf
+656,LVmSkZmo54Q,Deep Speech Synthesis from Articulatory Features,,,,,/pdf?id=LVmSkZmo54Q,,,,,,,,,,,,,Anonymous,/forum?id=LVmSkZmo54Q
+657,QJLoLULSGgU,How do we get there? Evaluating transformer neural networks as cognitive models for English past tense inflection,,,,,/pdf?id=QJLoLULSGgU,,,,,,,,,,,,,Anonymous,/forum?id=QJLoLULSGgU
+658,L99I9HrEtEm,Generating a Temporally Coherent Visual Story by Multimodal Recurrent Transformers,,,,,/pdf?id=L99I9HrEtEm,,,,,,,,,,,,,Anonymous,/forum?id=L99I9HrEtEm
+659,GYoa5ACzHWz,AdapLeR: Speeding up Inference by Adaptive Length Reduction,,,,,/pdf?id=GYoa5ACzHWz,,,,,,,,,,,,,Anonymous,/forum?id=GYoa5ACzHWz
+660,-wc0jAX3vrc,A Bit Bayesian Facilitates Efficient Training in Token Classification,,,,,/pdf?id=-wc0jAX3vrc,,,,,,,,,,,,,Anonymous,/forum?id=-wc0jAX3vrc
+661,Na_kBu73Zu6,A Multi-Granularity Opinion Summarization Method,,,,,/pdf?id=Na_kBu73Zu6,,,,,,,,,,,,,Anonymous,/forum?id=Na_kBu73Zu6
+662,uZya7S2FTm8,Meta-CQG: A Meta-Learning Framework for Complex Question Generation over Knowledge Graph,,,,,/pdf?id=uZya7S2FTm8,,,,,,,,,,,,,Anonymous,/forum?id=uZya7S2FTm8
+663,4Gew0VrWfkx,Evaluating the timing and magnitude of semantic change in diachronic word embedding models,,,,,/pdf?id=4Gew0VrWfkx,,,,,,,,,,,,,Anonymous,/forum?id=4Gew0VrWfkx
+664,W0-o-iIrHdf,Enhanced Knowledge Graphs Using Typed Entailment Graphs,,,,,/pdf?id=W0-o-iIrHdf,,,,,,,,,,,,,Anonymous,/forum?id=W0-o-iIrHdf
+665,ws3nelDnj9a,Contrastive Event Extraction Using Video Enhancements,,,,,/pdf?id=ws3nelDnj9a,,,,,,,,,,,,,Anonymous,/forum?id=ws3nelDnj9a
+666,5QceorMcHAj,Exploring the Impact of Negative Samples of Contrastive Learning: A Case Study of Sentence Embedding,,,,,/pdf?id=5QceorMcHAj,,,,,,,,,,,,,Anonymous,/forum?id=5QceorMcHAj
+667,KR69SusWn57,Statistical word segmentation in spontaneous child-directed speech of Korean,,,,,/pdf?id=KR69SusWn57,,,,,,,,,,,,,Anonymous,/forum?id=KR69SusWn57
+668,Df_CpzeOUiL,EmpHi: Generating Empathetic Responses with Human-like Intents,,,,,/pdf?id=Df_CpzeOUiL,,,,,,,,,,,,,Anonymous,/forum?id=Df_CpzeOUiL

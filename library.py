@@ -80,7 +80,7 @@ def alternative_scrape(url, month):
     
     # driver = webdriver.Chrome('./chromedriver')
     driver.get(url)
-    time.sleep(3)
+    time.sleep(5)
     html_source = driver.page_source
     soup = BeautifulSoup(html_source,'lxml')
     header = ['id','title','authorids','authors','TL;DR','abstract','pdf','software','preprint','existing_preprints','preferred_venue','consent','paperhash','reviewer/Editor_reassignment_request','reviewer/Editor_reassignment_justification','data','previous_URL','previous_PDF','response_PDF']
@@ -133,6 +133,8 @@ def alternative_scrape(url, month):
                 if item != 'Previous URL' and item != 'Abstract':
                     t = "Download " + item 
                     content = details.find('a', {"title": t}).get('href')
+                    data[item] = content
+                else: 
                     data[item] = content
             except: 
                 pass
